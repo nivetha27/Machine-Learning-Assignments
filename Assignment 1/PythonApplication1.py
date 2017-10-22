@@ -85,13 +85,13 @@ def findAttributeIndex(attributes, attributeToBeFound):
         if attributes[idx].attributeName == attributeToBeFound.attributeName:
             return idx
 
-def countPositiveNegativeInSample(examples, targetAttrIndex, attributeIndex = None, attributeValue = None):
+def countPositiveNegativeInSample(examples, targetAttrIndex = -1, attributeIndex = None, attributeValue = None):
     countPositive = countNegative = 0
     sampleSize = 0
     for example in examples:
         if attributeIndex == None or attributeValue == None :
             sampleSize += 1
-            if example[targetAttrIndex] == "True" :
+            if example[-1] == "True" :
                 countPositive += 1
             else :
                 countNegative +=1
@@ -176,11 +176,11 @@ def replaceNoneInExamples(examples, attributes, targetAttrIndex):
                 del example[attrIdx]
                 del examples[i][attrIdx]
             elif example[attrIdx] == None:
-                if example[targetAttrIndex] == "True":
+                if example[-1] == "True":
                        attribute.positiveCount += 1
                        attributeValues[maxAttrValIdxWithTargetTrue].positiveCount += 1
                        example[attrIdx] = attrValMaxFreqTrue
-                elif example[targetAttrIndex] == "False":
+                elif example[-1] == "False":
                        attribute.negativeCount += 1
                        attributeValues[maxAttrValIdxWithTargetFalse].negativeCount += 1
                        example[attrIdx] =  attrValMaxFreqFalse
@@ -224,14 +224,14 @@ def replaceNoneWithMaxAttrValIgnoreClass(examples,examplesWithMissingAttrReplace
                 del examples[i][attrIdx]
             elif example[attrIdx] == None:
                 example[attrIdx] = maxAttrVal.value
-                if example[targetAttrIndex] == "True":
+                if example[-1] == "True":
                        attribute.positiveCount += 1
                        attributeValues[maxAttrValIdx].positiveCount += 1                       
-                elif example[targetAttrIndex] == "False":
+                elif example[-1] == "False":
                        attribute.negativeCount += 1
                        attributeValues[maxAttrValIdx].negativeCount += 1
         if deleteAttr == True:
-            targetAttrIndex -= 1
+            #targetAttrIndex -= 1
             del attributes[attrIdx]
         else:
             attrIdx += 1
@@ -263,6 +263,18 @@ def calculateEntropy(countPositive, countNegative, totalCount) :
     #print "sample entropy", entropy
     return entropy
 
+def chooseBestAttrByChiSquareFirst(examples, attributes, targetAttrIndex, confidence, sampleSize):
+    possibleBestAttributes = []
+    for attribute in attributes:
+        useAttribute = PrePruneUsingChiSquare(examples, attributes, -1, attribute, confidence)
+        if useAttribute == True:
+            possibleBestAttributes.append(attribute)
+    if (len(possibleBestAttributes) == 0):
+        return None
+
+    return chooseBestAttribute(examples, possibleBestAttributes, -1, sampleSize)
+
+
 def PrePruneUsingChiSquare(examples, attributes, targetAttrIndex, chosenBestAttr, confidence):
     if chosenBestAttr == None:
         return True
@@ -272,8 +284,8 @@ def PrePruneUsingChiSquare(examples, attributes, targetAttrIndex, chosenBestAttr
     chosenBestAttrIdx = findAttributeIndex(attributes, chosenBestAttr)
 
     # Find overall positive and negative ratio for the given attribute in the examples
-    countPosInExample = attributes[targetAttrIndex].positiveCount
-    countNegInExample = attributes[targetAttrIndex].negativeCount
+    countPosInExample = attributes[-1].positiveCount
+    countNegInExample = attributes[-1].negativeCount
     totalCount = countPosInExample + countNegInExample
    
     positiveRatio = negativeRatio = 0
@@ -282,7 +294,6 @@ def PrePruneUsingChiSquare(examples, attributes, targetAttrIndex, chosenBestAttr
         negativeRatio = countNegInExample / float(totalCount)
 
     chisquare = 0;
-    # Exclude None from the attribute value in calculation
     for attrVal in chosenBestAttr.attributeValues:
         actualPositive = actualNegative = 0
         expectedPositive = expectedNegative = 0
@@ -302,8 +313,8 @@ def PrePruneUsingChiSquare(examples, attributes, targetAttrIndex, chosenBestAttr
 # Best Attribute is chosen based off gain ratio
 def chooseBestAttribute(examples, attributes, targetAttIndex, sampleSize):
 	# entropy for training data on target attribute play tennis
-	countYes  = attributes[targetAttIndex].positiveCount
-	countNo  = attributes[targetAttIndex].negativeCount
+	countYes  = attributes[-1].positiveCount
+	countNo  = attributes[-1].negativeCount
 
 	entropy = calculateEntropy(countYes, countNo, sampleSize)
 
@@ -311,12 +322,11 @@ def chooseBestAttribute(examples, attributes, targetAttIndex, sampleSize):
 	bestAttr = None
 	for idx in range(len(attributes)):
 		attribute = attributes[idx]
-		if idx != targetAttIndex :
+		if idx != len(attributes) - 1 :
 			#print attribute
 			gain = entropy
 			split = 0
 			attributeValues = attribute.attributeValues
-            # exclude NONE from caluclation
 			for attrVal in attributeValues:
 				countTargetAttrYes = attrVal.positiveCount
 				countTargetAttrNo = attrVal.negativeCount
@@ -349,10 +359,10 @@ def printAttributesCount(examples, attributes):
     for idx, attr in enumerate(attributes):
         print attr.attributeName, ': ', Counter([example[idx] for example in examples]).most_common()
 
-def buildDTUsingID3(examples, attributes, targetAttribute, confidence):
+def buildDTUsingID3(examples, attributes, targetAttribute, confidence, replaceMissingValuesByIgnoringClass = True, applyChiSquareBeforeChoosingBestAttr = True):
     sampleSize = len(examples)
     print 'sample size :', sampleSize
-    targetAttrIndex = findAttributeIndex(attributes, targetAttribute)
+    targetAttrIndex = -1 #findAttributeIndex(attributes, targetAttribute)
     root = DecisionTreeNode()
 
     attributes = resetAndUpdateAttributeCount(examples, attributes, targetAttrIndex)
@@ -386,19 +396,26 @@ def buildDTUsingID3(examples, attributes, targetAttribute, confidence):
     # Replace Missing Attribute in an example with the frequent attribute value corresponding to the example target class
     examplesWithMissingAttrReplaced = [row[:] for row in examples]
     attributesWithMissingReplaced = attributes[:]
-    #examples, examplesWithMissingAttrReplaced, attributesWithMissingReplaced = replaceNoneInExamples(examplesWithMissingAttrReplaced, attributesWithMissingReplaced, targetAttrIndex)
-    #printAttributesCount(examplesWithMissingAttrReplaced, attributesWithMissingReplaced)
-    examplesWithMissingAttrReplaced, attributesWithMissingReplaced = replaceNoneWithMaxAttrValIgnoreClass(examples, examplesWithMissingAttrReplaced, attributesWithMissingReplaced, targetAttrIndex)
-    #printAttributesCount(examplesWithMissingAttrReplaced, attributesWithMissingReplaced)
-
-    targetAttrIndex = findAttributeIndex(attributesWithMissingReplaced, targetAttribute)
-    # Choose the best attribute based on the given setting
-    bestAttr = chooseBestAttribute(examplesWithMissingAttrReplaced, attributesWithMissingReplaced, targetAttrIndex, sampleSize)
     
-    # Determine if best attribute should be pre-pruned or not
-    useCurBestAttrToFormTree = PrePruneUsingChiSquare(examplesWithMissingAttrReplaced, attributesWithMissingReplaced, targetAttrIndex, bestAttr, confidence)
-    if useCurBestAttrToFormTree == False :
-        bestAttr = None
+    if replaceMissingValuesByIgnoringClass == False:
+        examples, examplesWithMissingAttrReplaced, attributesWithMissingReplaced = replaceNoneInExamples(examplesWithMissingAttrReplaced, attributesWithMissingReplaced, targetAttrIndex)
+        #printAttributesCount(examplesWithMissingAttrReplaced, attributesWithMissingReplaced)
+    else:
+        examplesWithMissingAttrReplaced, attributesWithMissingReplaced = replaceNoneWithMaxAttrValIgnoreClass(examples, examplesWithMissingAttrReplaced, attributesWithMissingReplaced, targetAttrIndex)
+        #printAttributesCount(examplesWithMissingAttrReplaced, attributesWithMissingReplaced)
+
+    #targetAttrIndex = findAttributeIndex(attributesWithMissingReplaced, targetAttribute)
+    bestAttr = None
+    if applyChiSquareBeforeChoosingBestAttr == False:
+        # Choose the best attribute based on the given setting
+        bestAttr = chooseBestAttribute(examplesWithMissingAttrReplaced, attributesWithMissingReplaced, targetAttrIndex, sampleSize)
+        
+        # Determine if best attribute should be pre-pruned or not
+        useCurBestAttrToFormTree = PrePruneUsingChiSquare(examplesWithMissingAttrReplaced, attributesWithMissingReplaced, targetAttrIndex, bestAttr, confidence)
+        if useCurBestAttrToFormTree == False :
+            bestAttr = None
+    else :
+        bestAttr = chooseBestAttrByChiSquareFirst(examplesWithMissingAttrReplaced, attributesWithMissingReplaced, targetAttrIndex, confidence, sampleSize)
 
     # If we did not find an attribute, assign most common value of targetAttribute in examples
     if bestAttr is None:
@@ -437,7 +454,7 @@ def buildDTUsingID3(examples, attributes, targetAttribute, confidence):
     
     return root
 
-def getClassificationOnData(tree, testDataSet, attributes, targetAttribute):
+def getClassificationOnData(tree, testDataSet, attributes):
     if tree.attributeName == "True":
         return "True"
     
@@ -451,11 +468,39 @@ def getClassificationOnData(tree, testDataSet, attributes, targetAttribute):
                 testDataSet[attributeIdx] = tree.attributeValWithMaxCount()
             for child in tree.children:
                 if child.attributeValue == testDataSet[attributeIdx]:
-                    return getClassificationOnData(child, testDataSet, attributes, targetAttribute)
+                    return getClassificationOnData(child, testDataSet, attributes)
     return tree.attributeName;                
 
-def determineAccuracy(tree, testDataSet, attributes, targetAttribute):
+
+def printPath(tree, testDataSet, attribtues, depth):
+    path = ''
+    curRoot = tree
+    while (depth < 4):
+        if curRoot.attributeName == "True":
+            if (depth < 4) :
+                path += '\\ True \\'
+            return "True", path
     
+        if curRoot.attributeName == "False":
+            if (depth < 4) :
+                path += '\\ False \\'
+            return "False", path
+        for attributeIdx, attribute in enumerate(attributes):
+            attributeName = attribute.attributeName
+            if curRoot.attributeName == attributeName:
+                path += '\\' +  attributeName 
+                if testDataSet[attributeIdx] == None:
+                    testDataSet[attributeIdx] = curRoot.attributeValWithMaxCount()
+                for child in curRoot.children:
+                    if child.attributeValue == testDataSet[attributeIdx]:
+                        path += ' (' + child.attributeValue + ') '
+                        curRoot = child
+                        depth += 1
+                        break;
+                break;
+    return path
+
+def determineAccuracy(tree, testDataSet, attributes, targetAttribute):
     totalCount = len(testDataSet)
     positive = good = 0
     targetAttrIndex = findAttributeIndex(attributes, targetAttribute)
@@ -464,13 +509,18 @@ def determineAccuracy(tree, testDataSet, attributes, targetAttribute):
     correctlyPredictedPositives = correctlyPredictedNegatives = 0
     incorrectlyPredictedPositives = incorrectlyPredictedNegatives = 0
     
+    posPaths = []
+    negPaths = []
     # Predict for every test case
     for test in testDataSet:
         expected = test[targetAttrIndex]
-        actual = getClassificationOnData(tree, test, attributes, targetAttribute)
+        actual = getClassificationOnData(tree, test, attributes)
+        path = printPath(tree, test, attributes, 0)
         if expected == "True":
+            posPaths.append(path)
             expectedPositives += 1
         if expected == "False":
+            negPaths.append(path)
             expectedNegatives += 1
         if actual == "True":
             predictedPositives += 1
@@ -503,30 +553,31 @@ def determineAccuracy(tree, testDataSet, attributes, targetAttribute):
     print 'predictedPositives : ', predictedPositives
     print 'preditedNegatives : ', preditedNegatives
     print 'correctlyPredictedPositives : ', correctlyPredictedPositives
-    print 'correctlyPredictedPositives : ', correctlyPredictedNegatives
+    print 'correctlyPredictedNegatives : ', correctlyPredictedNegatives
     print 'incorrectlyPredictedPositives : ', incorrectlyPredictedPositives
     print 'incorrectlyPredictedNegatives : ', incorrectlyPredictedNegatives
     print("Good eval:", goodEval*100)   
     print("Precision: ", precision * 100)
-    print("Recall: ", recall)
+    print("Recall: ", recall*100)
     
     # Return the accuracy
     accuracy = positive*100/float(totalCount)
     print("Accuracy:", accuracy)
+
+    #print best positive and negative path
+    print 'best positive path', Counter(posPaths).most_common()[0]
+    print 'best negative path', Counter(negPaths).most_common()[0]
     return accuracy
 
 
-
 # Load training data
-#fileName = "C:\\Users\\nsathya\\Documents\\Visual Studio 2015\\Projects\\PythonApplication1\\PythonApplication1\\training_subset300.arff"
-fileName = "C:\\Users\\nsathya\\Documents\\Visual Studio 2015\\Projects\\PythonApplication1\\PythonApplication1\\training_subsetD.arff"
-#fileName = "C:\\Users\\nsathya\\Documents\\Visual Studio 2015\\Projects\\PythonApplication1\\PythonApplication1\\weather_data_subset.arff"
+fileName = "training_subsetD.arff"
 print 'opening file ', fileName
 data = arff.load(open(fileName, 'rb'))
 print 'opened file ', fileName
 samples = [row[:] for row in data['data']]
 attributes = []
-# The attributes can just be None in the given set, therefore explicitly adding None as an attribute value.
+
 for attribute in data['attributes']:
     attributeObject = Attribute(attribute[0])
     for attrVal in attribute[1]:
@@ -540,9 +591,7 @@ for attribute in data['attributes']:
 targetAttribute = attributes[-1]
 
 # Load test data
-testFileName = "C:\\Users\\nsathya\\Documents\\Visual Studio 2015\\Projects\\PythonApplication1\\PythonApplication1\\testingD.arff"
-#testFileName = "C:\\Users\\nsathya\\Documents\\Visual Studio 2015\\Projects\\PythonApplication1\\PythonApplication1\\testing300.arff"
-#testFileName = "C:\\Users\\nsathya\\Documents\\Visual Studio 2015\\Projects\\PythonApplication1\\PythonApplication1\\weather_test_data_subset.arff"
+testFileName = "testingD.arff"
 print 'opening file ', testFileName
 testData = arff.load(open(testFileName))
 print 'opened file ', testFileName
@@ -554,22 +603,17 @@ def addAllPositiveSamples(samples) :
             samples.append(example)
 
 
-confidences = [0.95]#,.5,.8,.95,.99]
+confidences = [0,0.5,0.8,.95,.99]
 for confidence in confidences:
     print "building tree with confidence : ", confidence 
-    #tree = buildDTUsingID3(samples[1:1000], attributes, targetAttribute, confidence)
     #addAllPositiveSamples(samples)
     tree = buildDTUsingID3(samples, attributes, targetAttribute, confidence)
     attr = tree.attributeValWithMaxCount()
-    #accuracy = determineAccuracy(tree, testData['data'][1:100], attributes, targetAttribute)
     
     print 'metrics on test data'
     accuracy = determineAccuracy(tree, testData['data'], attributes, targetAttribute)
     print 'metrics on traning data'
     accuracy = determineAccuracy(tree, data['data'], attributes, targetAttribute)
     print 'Node in tree', tree.totalNodes()
-    #print 'decision nodes in tree', tree.totalDecisionNodes()
     print tree.printTree(0)
-# shouldPrePrune = PrePruneUsingChiSquare( samples, attributes, targetAttribute, attributes[1], 0.95)
-# bestAttr = chooseBestAttribute(samples, attributes, targetAttribute)
 print "End of DT"
