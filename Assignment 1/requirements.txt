@@ -1,0 +1,3 @@
++liac-arff==2.1.1
++numpy==1.13.3+mkl
++scipy==0.19.1
