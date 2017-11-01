@@ -9,28 +9,89 @@ namespace ConsoleApp1
 {
   class Program
   {
-    public const int USERSCOUNT = 28978;
+    public static int USERSCOUNT = 28978;
     public const string filePath = @"C:\Users\nsathya\Desktop\CSE546P-ML\Machine-Learning-Assignments\Assignment 2\Code\Assignment2\bin\Debug\";
     public static Dictionary<int, Dictionary<int, double>> userData = new Dictionary<int, Dictionary<int, double>>();
     public static Dictionary<int, double> meanUserVoteData = new Dictionary<int, double>();
     public static Dictionary<int, Dictionary<int, double>> movieData = new Dictionary<int, Dictionary<int, double>>();
     public static Dictionary<int, int> userMap = new Dictionary<int, int>();
-    public static Double[][] weights = new Double[USERSCOUNT][];
-    // public static Dictionary<int, Dictionary<int, double>> weights = new Dictionary<int, Dictionary<int, double>>();
+    public static Dictionary<int, string> movieTitles;
+    public static int userIdx = 0;
+    public static Double[][] weights;
+    public static string movieTitlesFileName = filePath + "movie_titles.txt";
     public static string trainingFileName = filePath + "TrainingRatings.txt";
+    public static string myTrainingFileName = filePath + "myTrainingRatings.txt";
     public static string testingFileName = filePath + "TestingRatings.txt";
     public static string weightFileName = filePath + "weights.txt";
     public static string partialOutputFileName = filePath + "output_Threshold_";
     public static string outputFileExtension = ".txt";
-    public static double[] thresholds = new double[] { 0, 0.1, 0.15, 0.2, 0.25, 0.3, 0.35, 0.4, 0.45, 0.5 };
+    public static string moviePredictionsForMeFile = filePath + "MoviePredictionsForMe.txt";
+    public static double[] thresholds = new double[] { 0 , 0.05, 0.1, 0.15, 0.2, 0.25, 0.3, 0.35, 0.4, 0.45, 0.5 };
+    public static double bestThreshold = 0.35;
+    public static int myUserId = 1181332;
 
     static void Main(string[] args)
     {
+      Boolean predictMovieRatingsForMe = false;
+      if (predictMovieRatingsForMe) {
+        USERSCOUNT += 1;
+      }
+      weights = new Double[USERSCOUNT][];
+
       loadTrainingDataIntoDict(trainingFileName);
+      if (predictMovieRatingsForMe)
+      {
+        loadTrainingDataIntoDict(myTrainingFileName);
+      }
+
       loadMeanUserVoteDataIntoDict();
-      getWeightForUsers();
-      foreach (double threshold in thresholds) {
-        evaluateTestData(testingFileName, threshold);
+
+      if (!predictMovieRatingsForMe)
+      {
+        getWeightForUsers();
+        foreach (double threshold in thresholds)
+        {
+          evaluateTestData(testingFileName, threshold);
+        }
+      }
+      else {
+        var myMovies = userData[myUserId];
+        foreach (var myMovie in myMovies)
+        {
+          var usersWhoRatedMyMovies = movieData[myMovie.Key];
+          foreach (var userI in usersWhoRatedMyMovies) {
+            var moviesOfUserI = userData[userI.Key];
+            double weight = calcWeight(myUserId, userI.Key, userData[myUserId], moviesOfUserI);
+            if (myUserId < userI.Key)
+            {
+              addToWeightsArray(myUserId, userI.Key, weight);
+            }
+            else if (userI.Key < myUserId) {
+              addToWeightsArray(userI.Key, myUserId, weight);
+            }
+          }
+        }
+
+        Dictionary<int, double> moviePredictionsForMeList = new Dictionary<int, double>();
+        foreach (var movie in movieData)
+        {
+          double ratings = predictVote(movie.Key, myUserId, bestThreshold);
+          moviePredictionsForMeList.Add(movie.Key, ratings);
+        }
+        Console.WriteLine("Sorting movies by rating in descending order.....");
+        var sortedMoviePredictionsForMeList = from entry in moviePredictionsForMeList orderby entry.Value descending select entry;
+
+        Console.WriteLine("Loading movie titles from file.....");
+        loadMovieTitles(movieTitlesFileName);
+        Console.WriteLine("Writing your movie predictions to file.....");
+        using (StreamWriter sr = new StreamWriter(moviePredictionsForMeFile))
+        {
+          foreach (var moviePrediction in sortedMoviePredictionsForMeList)
+          {
+            string movieTitle = movieTitles[moviePrediction.Key];
+            sr.WriteLine("{0},{2},{1}",moviePrediction.Key, movieTitle, moviePrediction.Value);
+          }
+        }
       }
     }
 
@@ -40,7 +101,6 @@ namespace ConsoleApp1
       {
         using (StreamReader sr = new StreamReader(fullFileName))
         {
-          int userIdx = 0;
           String line = sr.ReadLine();
           while (line != null)
           {
@@ -107,6 +167,23 @@ namespace ConsoleApp1
         if (!meanUserVoteData.ContainsKey(item.Key))
         {
           meanUserVoteData.Add(item.Key, avgVoteGivenUser);
+        }
+      }
+    }
+
+    public static void loadMovieTitles(string fileName)
+    {
+      movieTitles = new Dictionary<int, string>();
+      using (StreamReader sr = new StreamReader(fileName)) {
+        String line = sr.ReadLine();
+        while (line != null) {
+          String[] data = line.Split(new Char[] { ',' });
+          int movieId = Convert.ToInt32(data[0]);
+          string movieTitle = data[2];
+          if (!movieTitles.ContainsKey(movieId)) {
+            movieTitles.Add(movieId, movieTitle);
+          }
+          line = sr.ReadLine();
         }
       }
     }
@@ -186,7 +263,11 @@ namespace ConsoleApp1
         denomI += (diffFromMeanUserI * diffFromMeanUserI);
       }
 
-      double weight = numerator / (Math.Sqrt(denomA * denomI));
+      double weight = 0;
+      if ((denomA * denomI) != 0d)
+      {
+        weight = numerator / (Math.Sqrt(denomA * denomI));
+      }
       //if (weight > 1.0 || weight < -1.0)
       //{
       //  Console.WriteLine("Value out of range:" + weight + "," + userIdA + "," + userIdI);
@@ -194,6 +275,9 @@ namespace ConsoleApp1
       return weight;
     }
 
+    /**
+      * userId1 should be less than userId2 
+      */
     public static void addToWeightsArray(int userId1, int userId2, double weight)
     {
       int userIdx1 = userMap[userId1];
@@ -247,14 +331,13 @@ namespace ConsoleApp1
       double alpha = 0;
       double deviation = 0;
       foreach (var userRating in movieData[movieId]) {
-        var weight = getWeightForPairOfUsers(userMap[userId], userMap[userRating.Key]);
+        var weight = getWeightForPairOfUsers(userId, userRating.Key);
         if (weight < threshold || Double.IsNaN(weight)) {
           continue;
         }
         alpha += Math.Abs(weight);
         deviation += (weight) * (userRating.Value - meanUserVoteData[userRating.Key]);
       }
-      Console.WriteLine("Predicting user {0} movie {1} with deviation {2}, alpha {3}", userId, movieId, deviation, alpha);
       if (alpha != 0d) {
         deviation /= alpha;
       }
@@ -264,6 +347,7 @@ namespace ConsoleApp1
       {
         rating = meanUserVoteData[userId] + deviation;
       }
+      Console.WriteLine("Predicting user {0} movie {1} with deviation {2}, alpha {3}, rating {4}", userId, movieId, deviation, alpha, rating);
       return rating;
     }
 
@@ -272,12 +356,11 @@ namespace ConsoleApp1
       {
         if (userId1 < userId2)
         {
-
-          return weights[userId1][userId2];
+          return weights[userMap[userId1]][userMap[userId2]];
         }
         if (userId2 < userId1)
         {
-          return weights[userId2][userId1];
+          return weights[userMap[userId2]][userMap[userId1]];
         }
         return 0;
       }
