@@ -1,4 +1,4 @@
 Threshold : 0.3
-Mean Absolute Error : 0.688074885229174
-Root Mean Square Error : 0.77343168795435
+Mean Absolute Error : 0.685989486672359
+Root Mean Square Error : 0.768174320729807
 Test Data Count : 100478
