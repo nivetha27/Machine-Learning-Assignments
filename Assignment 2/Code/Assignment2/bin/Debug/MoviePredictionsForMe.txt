@@ -1,1838 +1,1840 @@
-7016,6.51120514026015,Raging Bull: Collector's Edition: Bonus Material
-15480,5.16545044310072,Farscape: The Peacekeeper Wars: Bonus Material
-3033,4.97366090791907,Ghost in the Shell: Stand Alone Complex: 2nd Gig
-14648,4.94428833859294,Finding Nemo (Full-screen)
-10947,4.90778596778037,The Incredibles
-12589,4.87080724849265,Heat: Special Edition: Bonus Material
-4238,4.76249199804425,Inu-Yasha
-12293,4.74302409303494,The Godfather
-7569,4.69365439476025,Dead Like Me: Season 2
-8072,4.67921501493976,Seven: Bonus Material
-9612,4.67423199726601,Destiny of a Man
-16147,4.66628625926355,The Sopranos: Season 1
-13835,4.64358892641264,Batman the Animated Series: Vol. 2
-634,4.63407517248697,Christmas with The Simpsons
-14859,4.62618259836287,The Return of Sherlock Holmes
-3290,4.62121512539876,The Godfather
-17085,4.61468903454129,24: Season 2
-4207,4.59772561379546,The Blues Brothers: Extended Cut
-14283,4.59528664977849,The Best of Friends: Vol. 3
-2290,4.58967872552553,Aladdin: Platinum Edition
-1256,4.58057287765928,The Best of Friends: Vol. 4
-16342,4.56728840921866,Teddy Roosevelt: An American Lion
-5700,4.55768932714113,Law & Order: Season 14
-5760,4.54996171186771,The Sopranos: Season 3
-48,4.53666088489906,Justice League
-9046,4.53271449223533,Dances With Wolves: Special Edition: Bonus Material
-5326,4.53194797998985,Star Trek: The Next Generation: Season 4
-10757,4.52863219100118,Justice League Unlimited: Saving the World
-577,4.52842608481646,The Twilight Zone: Vol. 36
-2861,4.52071989134209,Babylon 5: Season 4
-16022,4.50495126714697,Battlestar Galactica: The Miniseries
-15557,4.49426851485786,Futurama: Vol. 3
-417,4.47868983518266,Transformers: Season 3: Part 1
-7147,4.47788958249679,MacGyver: Season 3
-2430,4.46872113353511,Alien: Collector's Edition
-11088,4.46406300128347,Adventures of Batman & Robin: The Joker/Fire & Ice
-7445,4.46327341940478,Monk: Season 3
-5577,4.45749822314168,Throne of Blood
-6277,4.44997268361796,The Mafia: An Expose - Vegas and Hoffa
-13911,4.44997268361796,Dizzy's Dream Band
-4468,4.44847820491439,Frasier: Season 6
-15648,4.44061185370846,National Geographic: Dinosaur Hunters: Secrets of the Gobi Desert
-7903,4.43761703664997,Adventures of Batman & Robin: Poison Ivy/The Penguin
-8596,4.42805608452958,Seven
-15836,4.420464849172,MASH: Season 8
-8915,4.41883915963349,Terminator 2: Extreme Edition
-12298,4.40771418619059,The Twilight Zone: Vol. 5
-907,4.40591561372272,Animal Crackers
-3928,4.40531987326522,Nip/Tuck: Season 2
-8933,4.39929887875699,Ikiru: Bonus Material
-2532,4.3970668208254,Futurama: Vol. 1
-11812,4.39256787453112,Million Dollar Baby
-4847,4.3888098823271,Glory
-10686,4.38705800653689,The Twilight Zone: Vol. 23
-2756,4.38547576902437,Tenchi Muyo
-17087,4.38411205549274,Doctor Who: Seeds of Death
-11124,4.38071279259169,21 Up
-6971,4.37564932350178,Ferris Bueller's Day Off
-11965,4.37399033422923,Madea's Family Reunion (Stage Play)
-7516,4.37394134761951,Hidden Fortress
-11236,4.37043359099697,Quantum Leap: Season 2
-13608,4.36802014520325,A Woman Called Moses
-14941,4.36681967741428,Vandread
-17522,4.35608429125704,Cross Creek
-2985,4.35471130960277,There's Something About Mary: Special Edition: Bonus Material
-2601,4.35067256263446,Best of The Muppet Show: Peter Sellers / John Cleese / Dudley Moore
-2913,4.34329110812175,Finding Neverland
-14185,4.33313919669306,Mary Poppins
-3269,4.33257869230739,The Longest Day
-9528,4.3288104995779,12 Angry Men
-12125,4.32791476043545,The Blue Planet: Seas of Life: Open Ocean - The Deep
-10080,4.32648592768124,Six Feet Under: Season 2
-12855,4.32340110716547,Tom and Jerry: Hijinks and Shrieks
-6085,4.32297547928025,M
-14320,4.3192051577862,MASH: Season 2
-7537,4.31762684637509,The Wolf Man / Frankenstein Meets the Wolf Man: The Legacy Collection
-15183,4.31671728878521,MASH: Season 4
-1213,4.31423453612943,VeggieTales: Madame Blueberry
-15201,4.31380947428683,The Atomic Cafe
-7577,4.31193341521284,Horatio Hornblower: The New Adventures
-3742,4.30942318469168,Notorious
-8842,4.30734934419493,Walking with Dinosaurs: Bonus Material
-13614,4.30599913200501,Office Space
-3032,4.30456801929583,The Adventures of Robin Hood: Bonus Material
-2682,4.30255247599199,Million Dollar Baby: Bonus Material
-12202,4.30233967651039,Ray Charles in Concert
-3941,4.29209252077652,The French Connection: Bonus Material
-2886,4.28774470244292,Grateful Dead: View from the Vault 4
-9819,4.28470374186042,Macross Plus
-4405,4.27975146925668,In Living Color: Season 3
-15214,4.27896154720408,Il Posto
-8107,4.27766231330213,Predator: Collector's Edition
-7557,4.27211385813455,The Outer Limits: The New Series: Time Travel and Infinity
-8654,4.26951322984795,Sherlock Holmes: The Hound of the Baskervilles
-8692,4.26456672166117,Shania Twain: Up Close and Personal
-13015,4.26077561532416,The Lost Boys: Special Edition
-14506,4.26037097176537,Doctor Who: The Five Doctors
-12159,4.25949644953218,The Tuskegee Airmen: They Fought Two Wars
-6650,4.25821202693775,Dragon Ball Z: Lord Slug
-11391,4.25490851099433,The Work of Director Michel Gondry
-7148,4.25149257453609,Doctor Who: The Ribos Operation
-3147,4.25130705430009,The Twilight Zone: Vol. 25
-3702,4.24545487802806,Halloweentown High
-7244,4.24496956164659,History of Rock 'N' Roll
-10662,4.24493328279602,Akira
-14807,4.24476323968957,Sharpe 13: Sharpe's Justice
-7823,4.24441393015594,Monty Python's The Meaning of Life: Special Edition: Bonus Material
-4385,4.24276616189889,Sharpe 5: Sharpe's Honour
-14361,4.23943866714745,SpongeBob SquarePants: Absorbing Favorites
-14198,4.23859066298637,Trainspotting: Collector's Edition
-15475,4.23836010723234,The Ox-Bow Incident
-17310,4.23732795028888,Bob Marley: The Legend Live
-8526,4.23726230168505,The Guns of Navarone
-6939,4.23452234606331,Living Planet
-12755,4.23283559608964,WWE: The Monday Night War
-722,4.23184940870803,The Wire: Season 1
-17642,4.22490903559204,X-Men: Evolution: Season 1
-2928,4.22402454014805,Dragon Ball Z: Captain Ginyu Saga
-359,4.22167662323368,Absolutely Fabulous: Series 5
-28,4.21701955741654,Lilo and Stitch
-4640,4.21638750658133,Rain Man
-9689,4.21590963393411,The Exorcist: Restored Version
-1123,4.21384201092915,Dragon: The Bruce Lee Story
-3541,4.20510558305376,History of the World: Part 1
-16349,4.20424560349354,Mr. Show: Season 3
-17324,4.20411402814517,Hitch
-3914,4.20351193889152,To the Manor Born: The Complete Series
-5294,4.20316002106155,Tom and Jerry: Whiskers Away!
-9946,4.20162044559937,Saturday Night Live: The Best of Will Ferrell
-17348,4.19922245244443,Andromeda: Season 3
-395,4.19731061563876,Captain Blood
-712,4.18926309997733,Homicide: Life on the Street: Season 7
-2043,4.18844764687078,Shane
-13636,4.18832168191052,Fast Times at Ridgemont High
-14496,4.18333010849967,Mystery Science Theater 3000: Attack of the Giant Leeches
-7505,4.18206936853324,Fushigi Yugi: The Mysterious Play
-1061,4.17960324955049,Spider-Man vs. Doc Ock
-17182,4.17957633975332,Remington Steele: Season 1
-2954,4.17897451876904,My Favorite Year
-11839,4.17861721511272,Mark Twain
-8678,4.17787046581318,Charmed: Season 1
-7511,4.17513615592508,Blade
-14177,4.17419244774869,The Three Stooges: Spook Louder
-851,4.17233151486399,Back to the Future Part III
-7400,4.16880733070708,Inspector Morse 19: Greeks Bearing Gifts
-916,4.16576289184238,Earth 2: The Complete Series
-9567,4.16499329439741,Mystery Science Theater 3000: Overdrawn at the Memory Bank
-1488,4.1613008123967,King of the Hill: Season 4
-6756,4.15634680949801,Absolutely Fabulous: Series 1
-1744,4.15407474199388,Beverly Hills Cop
-3685,4.14988214515608,Scooby-Doo's Spookiest Tales
-12946,4.14979427527324,Mystery Science Theater 3000: Hercules Unchained
-6228,4.14879890978913,Best of the Chris Rock Show: Vol. 2
-16311,4.14379793946168,Scooby-Doo's Greatest Mysteries
-12180,4.14371792900795,The Outer Limits: The Original Series: Season 2
-2232,4.13978479689877,Ken Burns' America: Thomas Hart Benton
-16545,4.13359262200682,Fairly Oddparents: Superhero Spectacle
-13964,4.13331786763696,Desk Set
-17536,4.13295870766632,Northern Exposure: Season 2
-9337,4.13256202543781,Three's Company: Season 4
-15507,4.1300943141004,State Fair
-4768,4.12912876013533,WWE: Survivor Series 2003: A Fall from Grace
-12184,4.12879264196349,Sex and the City: Season 5
-15568,4.12816622142706,Cheers: Season 3
-5369,4.12814924208272,Sanford and Son: Season 3
-10255,4.12664365892605,An Affair to Remember
-13899,4.1235911477624,Mohabbatein
-2079,4.12112068824696,Family Viewing
-12824,4.12056411907991,4 Little Girls
-8677,4.11696623451707,The Apartment
-11237,4.11392648678491,Hercules: The Legendary Journeys: Season 3
-9867,4.10884279528026,Fairly Oddparents: Scary Godparents
-11292,4.10409798492187,Little Women
-259,4.10364425780808,Animal
-2503,4.10173485929994,Mystery Science Theater 3000: Red Zone Cuba
-5898,4.10123710681657,Mystery Science Theater 3000: Hercules Against the Moon Men
-5484,4.10014962913838,Har dil jo Pyar karega...
-442,4.09939905922064,Mississippi Burning
-1202,4.09883705025614,National Lampoon's Vacation
-543,4.09475285717872,Roughnecks: The Starship Troopers Chronicles: The Pluto Campaign
-2808,4.09417493023568,Gidget
-7858,4.08502521202498,Burst Angel
-15662,4.08431515000035,The Killing Fields
-2110,4.08336381843309,Alien Quadrilogy: Bonus Material
-10743,4.08286427869791,Pearl Jam: Touring Band 2000
-13989,4.08200517310589,Queen: Greatest Video Hits 2
-10810,4.08188629564231,Dragon Ball: General Blue Saga
-3590,4.08169914856925,Jason and the Argonauts
-5963,4.08152048445626,The Gold Rush
-4129,4.08025062942027,Santa Claus Is Comin' to Town
-9805,4.07951612035549,The Absent-Minded Professor
-4049,4.07884885178651,Torch Song Trilogy
-12246,4.07794175759108,Rebel Without a Cause: Special Edition
-14272,4.07650389064247,The Dukes of Hazzard: Season 2
-10284,4.07272614898048,Doctor Who: The Power of Kroll
-13783,4.07166326204392,Fist of the North Star
-5562,4.06824642590115,Ladyhawke
-3232,4.06814702031994,The Enforcer
-5408,4.06621415725364,Star Trek VI: The Undiscovered Country: Bonus Material
-7812,4.06578840151904,Freaks
-2660,4.06567255226529,When Harry Met Sally
-3107,4.0651997778654,Mulan
-3955,4.06456383710743,The Horse Soldiers
-7801,4.06439820158168,The Abyss: Bonus Material
-10800,4.06377599872936,Dark Shadows: Vol. 7
-923,4.0634852159621,Giant Robo
-13878,4.06241045616981,Sanford and Son: Season 5
-1644,4.06048641946053,Tom Dowd and the Language of Music
-3285,4.05638253311951,Flight of the Navigator
-11616,4.05226658987132,A Summer's Tale
-11613,4.05129573422862,The Man with the Golden Gun
-2418,4.0508376855354,Sink the Bismarck
-12875,4.05083231645008,Treasure Island
-16329,4.04562940668038,The Golden Voyage of Sinbad
-12993,4.04223497647433,The John Wayne Collection: Vol. 3: The Dawn Rider / The Trail Beyond
-11888,4.04221572782554,In the Line of Fire
-15992,4.0410271939153,The Lone Gunmen: The Complete Series
-6110,4.04020517416797,It's a Mad
-6408,4.04000937882293,Good Morning
-992,4.03987491651774,The Cowboys
-13107,4.03838113435168,Touch of Evil
-16540,4.03557351693651,The Others: Bonus Material
-9482,4.03524674895642,Inspector Morse 23: The Death of the Self
-642,4.03436489157498,Mystery Science Theater 3000: The Hellcats
-5656,4.03284370229907,Star Trek IV: The Voyage Home
-16731,4.03127897535445,Moonlighting: Seasons 1 & 2
-4432,4.03109999581145,The Italian Job
-11563,4.03046264929474,Dragon Ball Z: Imperfect Cell Saga
-16685,4.0282764212836,The Battle of the Bulge: World War II's Deadliest Battle
-5970,4.02785158257352,Dead Again
-13270,4.0277735582587,Gigi
-6748,4.0275259136423,When Trumpets Fade
-5552,4.02632299453,Mobile Suit Gundam SEED the Movie 2: The Far-Away Dawn
-3740,4.02591291209457,Dracula
-5958,4.02288769415333,Noises Off!
-6400,4.02153772040817,Catch Me If You Can: Bonus Material
-6666,4.01970801179263,The Frighteners
-11056,4.01931778522517,Duran Duran: Greatest
-1629,4.01811047077261,Sesame Street: 1-2-3
-10777,4.01765653763816,Battle Athletes Victory: Vol. 3: Tragedy & Triumph
-13563,4.0175780198002,Master with Cracked Fingers
-12280,4.01296334288274,The Jerk
-6985,4.01219622604112,Real Life
-10350,4.01197633966351,Love on the Run
-17174,4.00819851768192,Maria Full of Grace
-3977,4.00792549121971,National Geographic: The FBI
-9993,4.00709510431579,The Big O II
-10774,4.00612282901904,Taxi Driver
-8017,4.0052861242302,The Munsters: Season 1
-13877,4.0032056240813,Elvis: Aloha from Hawaii
-2342,4.00222956537208,Super Size Me
-15033,4.00101986412414,The Greatest Story Ever Told
-17411,3.99983855237498,How to Marry a Millionaire
-8851,3.99929986599973,Rounders
-14258,3.99855461991629,Peeping Tom
-6743,3.99853722487235,Scars of Dracula
-15714,3.99783812230738,Wild Zero
-7186,3.99640371819176,Jeffrey
-10734,3.99639763001643,The Last Emperor
-10428,3.9951860062829,Splash: 20th Anniversary Edition
-14836,3.99277211574069,Care Bears: Bears Share a Scare
-13927,3.99109071158053,Door to Door
-9728,3.99010338293017,As Good as It Gets
-6541,3.98931391603248,The Andy Griffith Show: Vol 2: The Big House / A Wife for Andy
-12894,3.98839683043369,The Time Machine
-10851,3.98709424026717,Red River
-13477,3.98621257618551,Stephen King's The Shining
-15469,3.98589677674588,Steel Angel Kurumi
-12639,3.98503034808677,An American in Paris
-949,3.98321584976039,Henry Fool
-16396,3.98117560317846,Ranma 1/2: Ranma Forever: Vol. 4: Rock a Bye Ranma
-9423,3.9810087048045,Faces
-16854,3.97971594137334,Die Hard: Bonus Material
-13802,3.97949639064239,Zone of the Enders: Dolores
-16707,3.97864458113724,Old School
-5727,3.97559119972889,The Last Starfighter
-10104,3.97519648247855,The Young Master
-12482,3.9723575056824,Scooby-Doo and the Witch's Ghost
-6892,3.97172795345036,Doctor Who: The Visitation
-6424,3.97172408481732,As Time Goes By: Series 3
-16162,3.97144671086015,Kim Possible: The Secret Files
-16559,3.9710841216452,Red Green: Stuffed and Mounted 1
-11567,3.97030024865077,Death Hunt
-16451,3.97027921479746,Same River Twice
-15716,3.96936325448338,Three's Company: Season 2
-14100,3.96865404493842,Maxim: The Real Swimsuit DVD: Vol. 1
-16797,3.96666276909657,Dragon Ball: The Saga of Goku
-14072,3.9655402547787,Dragonslayer
-10959,3.96466105545679,Dorothy L. Sayers Mysteries: Gaudy Night
-2130,3.96457382954299,Citizen X
-15830,3.96414399270698,The Gods Must Be Crazy 2
-2212,3.9602932397255,The Secret Garden
-15629,3.96002653375236,The Place Promised in Our Early Days
-11688,3.95728937495232,Heaven Knows
-16157,3.95651623107252,Chaplin Mutuals: Vol. 2
-14209,3.9564904421611,Pitch Black
-10692,3.95646441550842,Broadway: The American Musical
-14335,3.95632091275816,Barry Lyndon
-4513,3.95439993980296,Carly Simon: Live from Martha's Vineyard
-14537,3.95365436459188,Garfield and Friends: Vol. 3
-9691,3.95308501032493,ECW: The Best of Cactus Jack
-14144,3.95307874543141,Suicide Kings
-2755,3.95267846276775,The Longest Yard
-14324,3.95239988584295,Nostradamus: His Life and Prophecies
-16784,3.9522680212732,The Sisterhood of the Traveling Pants
-3274,3.95165383577639,Half Baked
-507,3.95112961327323,Nevada Smith
-10319,3.94907383698781,Ray Charles: Line in Concert with the Edmonton Symphony
-9920,3.94747661139024,Superman Cartoons
-2955,3.94691508810196,The Commitments
-13186,3.94527208893811,Neon Genesis Evangelion: Death and Rebirth
-4485,3.94413637080434,House of Wax / The Mystery of the Wax Museum
-1559,3.94386341463347,AFI's 100 Years
-15676,3.94135522125907,Sherlock Holmes: Terror by Night
-7495,3.94130680669791,This Island Earth
-361,3.94057606471761,The Phantom of the Opera: Special Edition
-5284,3.94017984823277,Linkin Park/Jay-Z: Collision Course
-13651,3.93979454567419,Air Force One
-16986,3.93858212430507,Oliver Twist
-14407,3.93827918723361,The Last Castle
-8392,3.93629719243324,The American President
-3281,3.93611239605793,Larryboy: Leggo My Ego
-14492,3.93599556193938,Forever Knight: The Trilogy: Part 2
-8085,3.93553819936612,Star Blazers: Series 1: The Quest for Iscandar
-10127,3.93468481669016,Underdog: Nemesis
-4496,3.93448032554078,Farewell My Concubine
-2160,3.93419282830672,Magnetic Storm: Nova
-2015,3.93384552924439,Talk to Her
-4902,3.93145402424763,Young Sherlock Holmes
-7387,3.93126564475887,Repulsion
-3587,3.92750798098177,Abbott & Costello Meet the Mummy
-3727,3.92633786971182,Rich and Famous
-4918,3.92528520961928,Slayers Try DVD Collection
-1868,3.92497735094456,Mad Monster Party
-14983,3.92347229299111,Camelot
-12291,3.92324751898697,Legend of the Lost
-10188,3.92164393484207,Mysteries of the Deep: Legendary Shipwrecks: Last Voyage of the Lusitania
-11261,3.92057559368228,Secret Agent
-7145,3.91926009889387,Star Trek III: The Search for Spock
-8561,3.91771010445474,Adventures of Captain Marvel
-1757,3.91699276600555,The Lord of the Rings
-1484,3.91522804774898,Fiend Without a Face
-14457,3.91376856826579,What's Love Got to Do with It
-1615,3.91246309865728,The American President
-9701,3.91176016277853,Radiohead: 7 Television Commercials
-4299,3.9103187404106,Knight Rider: Season 1
-174,3.90971075842624,Adam-12: Season 1
-9202,3.90678793111323,It Happened at the World's Fair
-13387,3.90583648141984,Duran Duran: Sing Blue Silver
-11007,3.90526813268053,Infernal Affairs II
-11835,3.90443804349437,Tragic Hero
-12544,3.90332347553037,Peter Gabriel: Play: The Video Collection
-8512,3.90258863973253,The World Is Not Enough
-6172,3.89919565452124,The Best of Insomniac: Uncensored: Vol. 2
-8448,3.89703194302719,The Incredible Hulk
-1425,3.89583246366738,No Way Out
-409,3.89391713885735,Godzilla vs. The Sea Monster
-14645,3.89306663556011,Behind the Lines
-16410,3.8918327889907,The Hammer Horror Series: Brides of Dracula / The Curse of the Werewolf
-8770,3.8916605630507,Cadfael: The Holy Thief
-10900,3.88918214756975,Broken Vessels
-13587,3.88909778352974,In Old California
-8315,3.8885950520142,Wicked City
-14716,3.88850015558543,Pillow Talk
-1564,3.88808936269833,The Rare Breed
-3943,3.88629105810791,Hitman
-5025,3.88607586335323,Mask: Director's Cut
-7188,3.88560958147339,Gundam Mobile Suit: Movie I: Special Edition
-16286,3.88535581155018,Red Dragon
-10349,3.88419288188245,Black Sabbath: The Last Supper
-6190,3.88347412533096,Some Kind of Wonderful
-16150,3.88328991442792,Shine
-12793,3.88312867638462,Alf: Season 2
-16705,3.88135162097539,Fresh
-11884,3.88045755916145,Scooby-Doo Meets the Harlem Globetrotters
-7458,3.88002758033036,Mummy (Documentary)
-7406,3.87940831756205,Thirteen Days
-15657,3.87846995468325,Dead Man
-10903,3.87801193063054,Mystery Science Theater 3000: The Brain That Wouldn't Die
-8825,3.87682879299701,Mad About You: Season 1
-6131,3.87612967825239,Wizards
-9890,3.87514122992339,National Geographic: Egypt Eternal: The Quest for Lost Tombs
-6467,3.87499358941595,Bonanza: Season 2 Two-Pack
-10747,3.87467597857002,Can't Buy Me Love
-12170,3.87446519967746,Duel to the Death
-15816,3.87357152200279,Ronin
-5943,3.87313281985607,The Life and Times of Judge Roy Bean
-1848,3.87267311350129,Samurai Trilogy 3: Duel at Ganryu Island
-15428,3.86952033040008,The Last Samurai: Bonus Material
-1889,3.86889454561765,The Pirates of Penzance
-12292,3.86706740856042,The Secret of Roan Inish
-9481,3.86561182144803,Deliverance
-2909,3.86507090211201,Treasure Hunt
-13744,3.86425306738021,The Chosen
-14244,3.8642224561415,Doctor Who: Doctor Who and the Daleks
-8039,3.86154277730631,Saturday Night Live: 25 Years of Music
-6529,3.86050513043554,Three's Company: Season 1
-5143,3.85833627662287,Shadows
-12969,3.85814081389357,Great Trains of America: Western Railroading
-14484,3.85669836059675,The Naked Gun
-11182,3.85650078434472,Master and Commander: The Far Side of the World
-14904,3.85560856664499,Rivers and Tides
-14086,3.85560747179284,Dawson's Creek: Season 3
-14518,3.85493405579215,WWE: Unforgiven 2005
-960,3.85492575111054,The Unforgiven
-6619,3.85329797747648,Slayers Next DVD Collection
-2355,3.85326562857967,Berlin: Symphony of a Great City / Opus 1
-15115,3.85291696738722,Horror Hotel
-834,3.85200137496888,Niagara: Miracles
-3057,3.85125198797371,UFC 43: Ultimate Fighting Championship: Meltdown
-3054,3.8512339497355,I'm Not Scared
-638,3.85095067935047,The Last Dragon
-13489,3.85047099354712,Attila
-2640,3.84928972673499,The Spanish Prisoner
-6086,3.84772439115635,Battling Butler
-12795,3.84714415314989,Salvador
-1901,3.84656503452863,Cheech & Chong's Up in Smoke
-15276,3.84654078691446,The Land Before Time X: The Great Longneck Migration
-5877,3.84587918224829,George Washington
-5149,3.84578447939072,The Great Mouse Detective
-15464,3.84538733321898,Further Tales of the City
-12607,3.84484634696914,Flame of Barbary Coast
-15409,3.84478442737113,Eurotrip
-14808,3.84408547348548,Viva La Bam: Seasons 2 and 3
-16670,3.84321583340242,Grand Hotel
-14430,3.84308603803797,Black Widow
-8951,3.84292200619132,Floating Weeds
-10391,3.8424798430001,The Bridge
-11238,3.84175625940319,The NBA's 100 Greatest Plays
-7638,3.84165680031127,Saturday Night Live: The Best of Tom Hanks
-13887,3.84142600685958,The Princess Diaries 2: Royal Engagement
-2168,3.84116525606212,Upright Citizens Brigade: Season 1
-2789,3.8401415877871,Gus
-636,3.83909677784314,Stir Crazy
-3073,3.83866239377101,Ballykissangel: Series 2
-12863,3.83754724503797,Tidal Wave: No Escape
-10561,3.83613896126144,Ice Princess
-5327,3.83600894015011,Guess Who
-13326,3.83593050314274,House of Games
-6252,3.83425207996852,Ghost Stories #2
-8703,3.83419564479812,Margaret Cho: Revolution
-2757,3.83292871409634,Back to School
-443,3.83250116157712,Rabbit-Proof Fence
-6287,3.83234928554566,Pretty Woman
-6482,3.83212704800895,Gremlins
-2106,3.83173436533592,Bon Jovi: Live From London
-5748,3.83044647012781,Variable Geo
-2643,3.82523025150026,Carolina
-3165,3.82353459435887,Dirty Rotten Scoundrels
-6446,3.82306834031155,NFL Super Bowl XXXVII
-8428,3.82267755580541,The Original Kings of Comedy
-9093,3.82190849266774,Serial Killing 101
-7968,3.82159385255404,The Magnificent Seven Ride
-16082,3.82087456835274,13 Going on 30
-15632,3.81976791994644,Lou Reed: Rock & Roll Heart
-2083,3.81955171313922,Blood Alley
-12538,3.8195162487422,The Black Cauldron
-15160,3.81883373882925,Our Man Flint
-16563,3.81821665860436,Asunder
-6830,3.8176382428722,The 1964 World's Fair
-3546,3.81737544858155,Speed Racer
-15841,3.81596863847762,Watership Down
-4849,3.81557874871572,Taps
-4518,3.81443230644962,The Beatles: Washington D.C. Feb. 11th
-11887,3.81372515171084,Operation Condor
-9025,3.81331335280595,City Hunter
-15051,3.81194823912807,Fighter Pilot: Operation Red Flag
-5206,3.8118521009141,Daria: Is it College Yet?
-13451,3.81148720501632,The Player
-9130,3.81009172441697,A Chinese Ghost Story 2
-3903,3.80906601604193,PCU
-15785,3.80754240382913,Mystery of the Maya: IMAX
-849,3.80728391684607,Mr. & Mrs. Bridge
-8166,3.80726542798513,The Care Bears Movie
-14732,3.80679628900452,Butterfly
-11041,3.80655635635529,The Weather
-14459,3.8063559535985,Uncle Buck
-7551,3.80572249612223,Primus: Animals Should Not Try to Act Like People
-13934,3.80554921493433,A Place in the Sun
-7763,3.80484391555473,La Cage aux Folles
-2773,3.80451748950864,Cleopatra Jones
-2298,3.80450975352679,Yngwie Malmsteen: Live!
-10792,3.80433525067386,Dora the Explorer: Egg Hunt
-7973,3.80187818214473,The Sum of Us
-11463,3.80145385269617,Deranged / Motel Hell (Double Feature)
-11158,3.80102224314105,Fatal Instinct
-17423,3.79848852704476,The Five People You Meet in Heaven
-7257,3.79828329848985,Remo Williams: The Adventure Begins
-11505,3.79777372505371,H.H. Holmes: America's First Serial Killer
-4002,3.79756968379414,Cosplay Complex
-1076,3.7973908066882,American Chopper: Season 2
-1675,3.7967215902409,Oasis: There and Then
-4268,3.79552013212696,Double
-12757,3.79493029600817,Patlabor 2: The Movie
-2198,3.79491738157766,Betrayed
-595,3.79431586749684,Monarch of the Glen: Series 2
-15449,3.793041203566,Man of the House
-5699,3.79286947796149,Joshua
-16262,3.79224205180274,Assault on Precinct 13
-1803,3.79201089830237,Alien: Resurrection: Collector's Edition
-13604,3.7916937566571,Monster Garage
-16931,3.79166419333233,The Tigger Movie
-4552,3.78988972877061,Laverne & Shirley: Season 1
-9028,3.78944827580108,Jersey Girl
-1853,3.78909182285981,Death Wish
-7916,3.78898624642125,Tibetan Book of the Dead
-13328,3.78828083889333,Death and the Maiden
-6281,3.78805683653122,The Adventures of Priscilla
-606,3.78786698063634,Quatermass and the Pit
-8029,3.78753630709584,Dora the Explorer: Catch the Stars
-12199,3.78695117891669,Secrets of War: Nazi Warfare
-10077,3.78657477899944,The Snake Pit
-3705,3.78607192573472,Directors: Martin Scorsese
-6946,3.7858224611919,Eating Out
-5556,3.78533785360478,Silk Stalkings: Season 1
-5785,3.78163035868224,The Cars: Live
-16733,3.78144002450315,Mona Lisa
-2905,3.77941357758277,Croupier
-7408,3.77915812423408,Burn Up Scramble
-69,3.77777777777778,WWE: Armageddon 2003
-84,3.77777777777778,The Powerpuff Girls Movie
-118,3.77777777777778,Rambo: First Blood Part II
-191,3.77777777777778,X2: X-Men United
-209,3.77777777777778,Star Trek: Deep Space Nine: Season 5
-252,3.77777777777778,Stuart Little 2
-263,3.77777777777778,Dragon Ball: Tournament Saga
-281,3.77777777777778,The Legend
-290,3.77777777777778,Harold and Kumar Go to White Castle
-289,3.77777777777778,The Avengers
-295,3.77777777777778,Ace Ventura: When Nature Calls
-313,3.77777777777778,Pay It Forward
-362,3.77777777777778,The Flintstones in Viva Rock Vegas
-468,3.77777777777778,The Matrix: Revolutions
-483,3.77777777777778,Rush Hour 2
-564,3.77777777777778,Predator 2
-607,3.77777777777778,Speed
-5921,3.77772516354631,Genesis: Live at Wembley Stadium
-13601,3.77706452938131,Hanky Panky
-6550,3.77651383037508,Outlaw Justice
-6914,3.77510099830295,The Swimmer
-7625,3.77455120500788,Young Lady Chatterley
-3613,3.77369194988615,Jack and Sarah
-9681,3.77350723434989,Heavenly Creatures
-14720,3.77207186122028,Fancy Pants
-12336,3.77169424880594,The Gauntlet
-6566,3.77090786197462,The Brave Little Toaster to the Rescue
-11107,3.77066744613128,Snake in the Eagle's Shadow
-5062,3.77059724726011,The Monster Club
-1967,3.77051133579154,Diary of a Chambermaid
-10733,3.77041673777243,She's Out of Control
-10493,3.77008130498983,Hunted
-4932,3.76982643325265,The Saint
-3359,3.76843177147547,Sam Kinison: Outlaws of Comedy
-2745,3.7684235558345,Bob the Builder: Bob's Big Plan
-12822,3.76807197508889,That's Entertainment 2
-12661,3.76707636750573,Hellraiser
-15246,3.76669507037486,Alien 3: Collector's Edition
-725,3.76425967472239,Woman Thou Art Loosed
-1609,3.76412054263891,Hunter: Season 1
-11240,3.76402003876616,Baby Einstein: Language Nursery
-6466,3.76396979525808,She
-2375,3.76380916709056,Fletch Lives
-8781,3.76375993474176,Quest for Camelot
-15915,3.76247313132991,Danger Man: Season 1
-17706,3.76135617620645,Najica Blitz Tactics
-11851,3.76062889695551,The Yearling
-10019,3.7604128206793,Metropolis
-7906,3.76034445717286,NFL Films Super Bowl Collection: Super Bowl I-X
-10034,3.75981052029094,Miss Julie
-16629,3.75914067347899,Easy Money
-17290,3.75881205718952,The Paleface
-9997,3.75871612754078,Oh God! You Devil!
-11295,3.75844755349299,Perfect Blue
-14611,3.75822968615906,Birth of the Blues / Blue Skies: Double Feature
-16467,3.75754087688711,Alanis Morissette: Jagged Little Pill
-6406,3.75499370354406,Fighting Spirit
-14248,3.75385184062811,D2: The Mighty Ducks
-9310,3.75329985368607,The Candidate
-6912,3.75327485207195,The Taking of Pelham One Two Three
-5485,3.75232051823103,Chuck Jones: Extremes and in Betweens
-4441,3.75176401561994,The Last Supper
-17558,3.75088700306976,Kiss of the Dragon
-888,3.75081904897065,Discovering Australia
-13188,3.75077856566251,Are You Being Served?: The Movie
-9752,3.75072035876645,Dragon Inn
-7698,3.75013784779993,Children of the Revolution
-12695,3.74926771933748,Little Bear: Feel Better Little Bear
-16955,3.74923029103773,Battle of the Planets
-8493,3.74911962063725,The Rose
-8163,3.74844297442962,Two Brothers
-3638,3.74804918285314,Bad Boys II
-3893,3.74803466382833,The People vs. Larry Flynt
-5945,3.74771499713774,Home Movies: Season 1
-9107,3.74755030402812,Handel: The Messiah: Choir of King's College
-2597,3.74748762230495,The Day of the Triffids
-7022,3.74710868697406,American Buffalo
-2552,3.74487157061582,The Element of Crime
-4613,3.74443293874178,Ayn Rand: A Sense of Life
-7292,3.74341519629452,Project A-ko: Uncivil Wars
-2786,3.74316002383118,Seance
-14216,3.74312557117138,Children of Heaven
-12847,3.74164806840893,Mobile Suit Gundam SEED the Movie: The Empty Battlefield
-6395,3.74098770309541,Mutant X: Season 1
-1252,3.74082788509351,The Story of O
-7137,3.73950992825662,GateKeepers
-12627,3.73900065586528,Saturday Night Live: The Best of Jimmy Fallon
-11412,3.73710233562025,Lone Star State of Mind
-267,3.73386243128853,Touched by an Angel: Season 1
-15222,3.73341586195985,The Guyver
-13858,3.73289593412525,Dead or Alive
-15040,3.73249756049936,Rage Against the Machine
-11284,3.73225577881413,Casino
-9230,3.73121259177958,Max Dugan Returns
-11829,3.7301989791468,James and the Giant Peach
-15982,3.72844140740778,RahXephon: The Motion Picture
-11614,3.72825984672536,Flawless
-681,3.7268517388505,Police Academy 3: Back in Training
-15496,3.72682002063643,Easy Rider
-15371,3.72671535728114,Murder by Decree
-8220,3.72669280749453,Jack Benny Collection
-6872,3.72647875967546,Greenfingers
-12705,3.72599130582179,Vanished
-4190,3.72503381390483,Hugh Hefner: American Playboy
-1832,3.72414541117662,Rosemary's Baby
-11638,3.72366272489278,Sliding Doors
-12100,3.72315965419837,Prime Suspect 2
-11723,3.72270431653066,For Da Love of Money
-12760,3.72194742188703,Crimes of the Heart
-718,3.72083115440854,44 Minutes
-14442,3.7207312773046,Ex-Driver: The Movie
-4061,3.72051645789556,Soft Skin
-15516,3.72018865639938,Sarafina!
-12812,3.71969432731002,Madonna: The Drowned World Tour 2001
-11867,3.7194903475014,Ed Sullivan: Rock 'n' Roll Forever
-566,3.7172375004675,Bullet
-11651,3.71504641183626,Ferngully: The Last Rainforest
-3878,3.7141922893313,Public Enemy: Live from the House of Blues
-8249,3.71350015941099,Genesis Climber Mospeada
-2028,3.71329085745835,Poison
-9747,3.7127592290583,Warm Springs
-16335,3.71144677803807,Janet Jackson: Velvet Rope Tour
-15911,3.71108929178174,War and Remembrance: Vol. 1
-9824,3.7087257660636,Street Fighter II: Animated Movie
-13055,3.70829634189299,Rocky (Hindi)
-2104,3.70767653344448,Kickboxer
-17337,3.70679411804462,Andromeda: Season 5
-16993,3.70656297542308,The Smashing Machine
-13432,3.70617592142606,The Moonlight Express
-9672,3.70605545985766,The Osbournes: Season 2 1/2
-17515,3.70591055091017,LeapFrog: Letter Factory
-9237,3.70569203685435,The Witches
-12391,3.70526378076252,Ulee's Gold
-16131,3.70453094980214,Marvin Gaye: Greatest Hits Live in '76
-12488,3.70357571132447,Inspector Morse 21: Dead on Time
-6932,3.70333988741485,Jazz on a Summer's Day
-4224,3.70302932473327,Wish Upon a Star
-9640,3.70258871765927,Detective Story
-5336,3.70212114698645,The Inkwell
-17725,3.7009782961977,Jerry Seinfeld: I'm Telling You for the Last Time
-4005,3.69969497461692,Dr. Quinn
-6901,3.69960012214987,Heaven Help Us
-13363,3.69850899572163,Saint Seiya
-14503,3.69678767877352,Wanted Dead or Alive
-8738,3.69500476293085,Grover Washington Jr.: Standing Room Only
-4761,3.69449180957994,The Cannonball Run
-14234,3.69420448368779,The Rocky Horror Picture Show: Bonus Material
-1146,3.69356970122266,Fearless Hyena 1 / Fearless Hyena 2
-3220,3.69352329240594,Xena: Warrior Princess: Series Finale
-11076,3.69333908341022,The Heroic Trio
-4627,3.69261393431087,Little Women
-16231,3.69227219537087,Unknown Jonathan Winters: On the Loose
-12778,3.69122325176911,Thelma & Louise: Special Edition
-10836,3.69080476867718,Return of the Living Dead 2
-10889,3.6905458040891,Keeping the Faith
-15410,3.69049683686721,The Dancer Upstairs
-5272,3.6897311548014,Invaders from Mars
-1983,3.68871248205318,Final Fantasy: The Spirits Within
-3355,3.68835291668985,The Ice Storm
-6523,3.68757122740921,Wildcats
-13507,3.68714262543432,Dragons of the Orient
-13909,3.68601356172722,Onibaba
-1500,3.68561696797192,Miss Marple: Collection 2
-4647,3.68526524029334,American Yakuza
-15378,3.68511927622847,Mystery Train
-8977,3.68475938793302,The Ladykillers
-8452,3.68424288804713,Roujin Z
-6318,3.6842142826827,Mr. Majestyk
-15071,3.68184736573716,The Outer Limits: The New Series: Sex and Science Fiction
-7721,3.6815478491489,The Jury
-3237,3.68069051539559,Plump Fiction
-9717,3.67928589012889,Airport
-852,3.6790149860778,Disorganized Crime
-6556,3.67858529256194,Romeo + Juliet
-2243,3.67630034645165,Alaska
-12230,3.67618050824601,Conviction
-13633,3.67572152365832,Girls! Girls! Girls!
-1134,3.67457071508135,Empire Falls
-11673,3.67354496491893,Drumline
-5069,3.67154971048507,Sleeping With the Enemy
-5364,3.67077472696354,Body Story
-7806,3.66896782884948,Classic Albums: The Band
-7736,3.66888159585787,The Train
-14810,3.66858940922143,Dolphins: IMAX
-11408,3.66850209216211,Love and a Bullet
-10589,3.66775477501789,Daphne in the Brilliant Blue
-9735,3.66634204799149,Avril Lavigne: My World
-797,3.66560832152367,Look Back in Anger
-15855,3.66550118857396,Cadet Kelly
-15122,3.66509712232511,Stan Lee's Mutants
-3733,3.66498929673387,Spencer's Mountain
-13936,3.66301357580717,Call Me Madam
-9297,3.66084198540861,Magic User's Club
-8341,3.66062151826583,Mr. North
-4144,3.66055852277027,The Brothers
-4032,3.66004896300576,Young Duke Series: The Fugitive
-6177,3.65984846277607,The Boy Who Could Fly
-911,3.65976137906404,Buck Rogers
-14077,3.65892804857602,Los Angeles Lakers: NBA Finals 2000
-4064,3.65884919330357,The Big Hit
-6911,3.65827670446503,Little Shop of Horrors
-16889,3.65773386311248,Take the Money and Run
-13787,3.65615332534914,Powder
-2794,3.65591445893618,The Curse of Frankenstein
-8162,3.65566939224911,Get on the Bus
-7247,3.6551995942582,My Chauffeur
-3706,3.6551065173468,Dixie Chicks: Top of the World
-5607,3.65479584582217,The Hunchback of Notre Dame
-16982,3.65468816957637,The Black Stallion Returns
-13298,3.65394498344845,National Lampoon's European Vacation
-11197,3.6531344760797,The Mummy's Ghost / The Mummy's Curse
-8354,3.65196059064577,Da Ali G Show: Season 1
-3351,3.64905420514545,Gospel According to Al Green
-11951,3.64825663371269,Pressure Point
-11637,3.6478744787475,The Inspector Lynley Mysteries: Payment in Blood
-14199,3.6467544754812,South Pacific
-12273,3.64568788247065,Johns
-2512,3.64562024806187,Trees Lounge
-6991,3.6449749766835,A History of God
-16915,3.64435457743414,Reboot: My Two Bobs
-12421,3.64395465849997,The Crusades
-12775,3.64372326855523,A Pup Named Scooby-Doo
-16999,3.64360755935104,Charles Manson Superstar
-15772,3.64293931102231,Kikujiro
-4858,3.64291680877176,Relentless
-15121,3.64206623179727,National Geographic: Surviving West Point
-14189,3.64200731609468,Patlabor: The Mobile Police: The TV Series
-5361,3.64148758918349,Masquerade
-17635,3.64109825162337,Good Fences
-13965,3.63899548091935,Dragnet
-12503,3.63682650339347,Urbania
-3257,3.63614736648637,Takegami: Guardian of Darkness: War God
-9607,3.63602671681168,Cromartie High School
-305,3.63561811195767,Jack
-7822,3.63455822599226,Millionaire's Express
-13145,3.63392912291983,Ghulam
-16277,3.63362619401053,Terminal Countdown
-7283,3.6334917149302,Due South: Call of the Wild
-15152,3.63311380505321,Punky Brewster: Season 2
-8699,3.63255950500178,Mermaids
-12178,3.63221012731298,Midsomer Murders: Beyond the Grave
-12634,3.63196635590438,Nirvana: Nevermind
-3824,3.63176061323149,Fear and Loathing in Las Vegas
-8058,3.62963164296345,Learning HTML: No Brainers
-3734,3.62891425512298,Gorgeous
-14738,3.62873020243876,Formula 51
-11316,3.62699627883802,Where the Truth Lies
-10076,3.62628711023384,WWE: John Cena: Word Life
-17447,3.62625801426133,The Angry Red Planet
-3881,3.62623571746928,The Lost Skeleton of Cadavra
-6871,3.62592763878977,Disney Princess Sing-Along Songs: Once Upon a Dream
-14372,3.62587525487205,Brief Encounter
-287,3.62486060910276,Luther Vandross: Always and Forever: An Evening of Songs
-13377,3.62451121923066,Winter Light
-13831,3.62412490856967,Unfaithfully Yours
-15567,3.62345786606503,Grateful Dead: Ticket to New Year's
-16599,3.62293837425467,Grappler Baki
-15955,3.62186963758966,Pollock
-8096,3.62023234353034,Mountains of the Moon
-2147,3.61990557105574,Tupac Vs.
-16788,3.61800437049659,Blast from the Past
-13431,3.61763052358351,Kora Kagaz
-4901,3.61725012563446,Aa Ab Laut Chalen
-2039,3.61689469318698,No Doubt: Rock Steady Live
-1523,3.61680874214169,Dynasty: Season 1
-5623,3.61572876704063,Daredevil: Bonus Material
-11786,3.61544950112961,Murder One: Season 1
-3135,3.61406721430329,Frankie and Johnny
-4566,3.61344587376552,LeapFrog: Math Circus
-14013,3.6132925386059,Tom Jones
-16153,3.61320034106511,Big Eden
-16928,3.61216433682953,JFK: A Presidency Revealed
-11732,3.6120681451848,Good Boy!
-2103,3.61137235305596,Sunshine
-8718,3.61099638330435,Dead Silence
-8128,3.61092395783604,Five Card Stud
-518,3.61019315010908,The Prime of Miss Jean Brodie
-2859,3.60968470436874,Flip Wilson
-16444,3.60967333692567,Over the Top
-14096,3.60843297867196,Step Into Liquid
-2528,3.60823360488888,Arachnophobia
-17082,3.60801581740153,Nostradamus
-15085,3.60761633721452,The BRD Trilogy: Veronika Voss
-14826,3.60658104890223,Secret Honor
-9817,3.6062792409049,Juggernaut
-16770,3.60583085242108,Happy
-5901,3.60573590130313,The Forgetting: A Portrait of Alzheimer's
-16606,3.60563904121888,Fear
-3253,3.60462925252412,The Opposite of Sex
-2818,3.60454402945894,The Police: Every Breath You Take
-1406,3.60358716526785,Hook
-6885,3.60235180392208,Seasons: IMAX
-15331,3.60231153070366,The Bela Lugosi Collection: Murders in Rue Morgue / The Black Cat / The Raven
-9043,3.60113853603469,Arthur
-15539,3.60067146523125,Suicide Club
-14505,3.60061185044033,The War
-2352,3.59973297480502,Youngblood
-930,3.5986122313944,Back to the Beach
-14560,3.59820185552557,Kon-Tiki
-12423,3.59785039105148,Dr. Quinn
-9798,3.5975123217533,A Civil Action
-1825,3.59572689840296,L'Age D'Or
-229,3.59557294325399,Peter Gabriel: Growing Up Live
-14947,3.59534680741408,Bombay
-6291,3.59441564011203,King Kong
-15165,3.59292660336724,100 Women
-17304,3.59254444114821,Eurythmics: Greatest Hits
-7919,3.59236370949887,Niagara
-17358,3.59198136952728,Narc
-4963,3.59134066488769,Grateful Dead: View from the Vault 2
-1432,3.59129686114909,Ride with the Devil
-7262,3.5906450443603,War and Peace
-4546,3.59001024198092,Chasing Liberty
-4840,3.5885888945763,Kaena: The Prophecy
-3559,3.5881039996971,Cowboys & Angels
-15576,3.58720107742306,Bad Girls
-3151,3.58506185761874,Napoleon Dynamite
-12046,3.58399652330193,Depeche Mode: One Night in Paris: The Exciter Tour 2001
-2995,3.58357259306385,Things I Left in Havana
-1305,3.58256768753001,Thirteen
-16996,3.58233203235714,Jack Frost (Animated)
-9376,3.582303075558,This Land Is Your Land: The Folk Years
-11027,3.58192445349473,Love After Death
-13046,3.58187030646798,Mysterious Skin
-17574,3.58182741041038,Eye for an Eye
-6389,3.5807531285333,Colonial House
-14154,3.58074919808333,Don't Be a Menace to South Central While Drinking Your Juice in the Hood
-3229,3.58034225020177,Dinotopia
-11003,3.5795063052575,A Certain Kind of Death
-452,3.5791384451079,Scorched
-9953,3.57849909328408,The Science of Magic
-4981,3.57836482025464,Dracula
-13682,3.57742834312283,Karajan / Mutter: Beethoven: Violin Concert
-12232,3.57700807499507,Lost in Translation
-6965,3.57622813468156,Robinson Crusoe
-10429,3.57560043780269,Final Destination 2
-17653,3.57556339274862,The Accidental Spy
-7517,3.57490320731475,Before Sunrise
-1779,3.57490316889052,Led Zeppelin: Inside Led Zeppelin 1968-1972
-5640,3.57400772347049,Once a Thief
-12497,3.57386647122578,Bring It On
-10870,3.57369448432113,Charles Bronson: Chino / Man with a Camera
-14575,3.57254700488705,Quiet Days in Clichy
-8488,3.57241029147525,Winnie the Pooh: ABC's
-8052,3.57215225464495,Emmanuelle's Intimate Encounters
-647,3.57213439483979,Cinderfella
-1557,3.5715043883145,Dolls
-96,3.56973758834051,Inside the Space Station
-1007,3.56940017631145,America's Dream
-1046,3.56923840587211,Uptown Girls
-15592,3.56902981114972,Camp Nowhere
-11213,3.56840518208006,Apt Pupil
-4160,3.56624973971921,Dead Man's Walk
-7077,3.56543382507382,To Die For
-1944,3.56471436513291,Gall Force: Vol. 1: Eternal Story
-626,3.56451734948387,They Died with Their Boots On
-15257,3.56436746594604,Lost Highway
-14932,3.56328704308534,Saturday Morning with Sid & Marty Krofft
-16790,3.56237686490788,The Grinch
-15515,3.56227093563793,Belly
-13912,3.56203706355391,The Harder They Fall
-4429,3.56122943418544,Undisputed
-7437,3.56100241443336,The Rachel Papers
-17640,3.55978179692638,Unsolved Mysteries: Bizarre Murders
-3301,3.55949693920188,Burnt by the Sun
-5026,3.55871576621843,Kathy Griffin: Allegedly
-1104,3.55863653811039,Krull
-6448,3.5585956128453,Circuit
-7656,3.55859515030838,George Michael: Ladies & Gentlemen: The Best of George Michael
-15582,3.55833124004817,Sweet Home Alabama
-3861,3.55829612149996,Jekyll & Hyde: The Musical
-7075,3.5581299171233,The Cosmic Man
-13099,3.55574430089143,The Spiral Staircase
-13905,3.55537551564645,Captain Kronos: Vampire Hunter
-9404,3.5553001298959,WOW Gospel 2004
-3143,3.55454977840284,King Solomon's Mines
-92,3.55396891397624,ECW: Cyberslam '99
-5799,3.55384131273228,Jackie Chan's Project A
-8207,3.5537291018807,Discovering Egypt
-6014,3.55219421936601,House of Wax
-6234,3.5517737870263,Catch That Kid
-8200,3.55158903274226,The Right Temptation
-2518,3.55106433401138,Things to Do in Denver When You're Dead
-8582,3.55065382204035,Big Shot's Funeral
-14995,3.55050234294167,GWAR: Phallus in Wonderland
-4042,3.54989091691769,Pretty Baby
-10750,3.54958972194153,Survivor: Season 2: The Australian Outback
-10024,3.54845022662143,Hello Again
-4346,3.54842110505519,The Last American Virgin
-14429,3.54793199407449,The Inspector Lynley Mysteries: A Cry for Justice
-4876,3.54733197946682,Vegas Vacation
-1367,3.54671633039864,The Piano
-3584,3.54661355003536,A Private Function
-13242,3.54593493948291,Audrey Rose
-8121,3.54404278586037,Search for the Great Sharks: IMAX
-12623,3.54281556647846,The Way Home
-7382,3.54279338330268,WWE: Tombstone: The History of the Undertaker
-11312,3.54252208572912,Mystery Kids
-5883,3.54184070438403,My Voyage to Italy
-9617,3.54086387858892,Stepmom
-2969,3.53986053292068,The Suspect
-5123,3.53936529545787,Darkside Blues
-795,3.53854641471638,Landmarks of Early Film
-13334,3.53835463802884,Catfish in Black Bean Sauce
-13339,3.53784064992258,No Small Affair
-15610,3.53778290195761,The Prowler
-2460,3.53777040786887,Cujo
-878,3.53776088915412,Short: International Release #2
-10978,3.53768150952403,Cartoon Crazys Goes to War
-13561,3.53740478854807,Monsieur Ibrahim
-5129,3.53723503091453,Permanent Record
-3149,3.53680764452026,Pompeii: The Last Day
-16689,3.53583424578302,The Wind Will Carry Us
-4215,3.5341665516439,Alfred Hitchcock: Rich and Strange/The Sorcerer's Apprentice
-4257,3.53302040570187,French & Saunders: Living in a Material World
-3022,3.53232577726083,Wanted: Dead or Alive: Season 1
-15529,3.53038378273018,Money Talks
-3538,3.52887086851925,Beaches
-11317,3.52623500184718,Me Without You
-8657,3.52521236834071,Bob Dylan: World Tour 1966: The Home Movies
-16555,3.52426769725371,Midsomer Murders: Destroying Angel
-12682,3.52415898452595,Candyman
-17561,3.52357743510469,I'm With Lucy
-17196,3.52348943443494,Bird
-12920,3.52338040555449,Attack the Gas Station!
-2506,3.52276214772382,Inspector Morse 15: Masonic Mysteries
-16820,3.52124066914566,Paul Simon: You're the One: In Concert from Paris
-16975,3.51976126881005,Dimples
-218,3.51903914565419,Triumph: Live at the US Festival
-17107,3.51885416519206,The Ghost Breakers
-6336,3.51745806748625,The Crying Game: Collector's Edition
-7273,3.51734563902274,Mayor of the Sunset Strip
-14643,3.51414751052196,3: The Dale Earnhardt Story
-16572,3.51269341955736,The Perfect Score
-16066,3.51213843619761,Save the Green Planet!
-8919,3.5117680348233,Cardcaptor Sakura
-8905,3.5112084302628,Knight Hunters
-13606,3.51018134414135,Deewaar
-6069,3.50981052029094,Love Film
-16902,3.50981052029094,The Mad Adventures of Rabbi Jacob
-13569,3.50951494034123,Die Mommie Die
-6226,3.5079103918465,Juliet of the Spirits
-10321,3.5078825128943,Upstairs
-8307,3.50736900326435,Franklin and the Green Knight: The Movie
-9530,3.50732776250227,Vietnam: We Were Heroes 1st Cavalry Division Airmobile
-14712,3.50631819543623,Tomb Raider
-1313,3.50457735255218,The Wiggles: Wiggle Time
-2053,3.502184666273,Ground Control
-15532,3.50210873422491,She's All That
-6215,3.50137852613297,Dragons: Fire and Ice
-11348,3.50125794357781,Carmen Electra's Fit to Strip
-655,3.50074669442939,Green Acres: Season 1
-17090,3.50064136085696,NFL: Super Bowl XXXIX
-12780,3.50061389253706,Alexander: Director's Cut: Bonus Material
-9187,3.50037898252346,Sacred Planet
-13817,3.49998873831836,Troma's War
-10237,3.49987671751219,All About Ah-Long
-17624,3.49919484078212,Free Willy 2: The Adventure Home
-5849,3.49857272334776,Superstars of '70s Soul Live
-10735,3.49838731238288,Meat Loaf: Live with the Melbourne Symphony Orchestra
-14380,3.49653279573063,Born to Be Bad
-15929,3.49603122681298,Shining Through
-11837,3.49527379599242,Three Men and a Baby
-16344,3.49478970122094,Wonderland
-318,3.49457280295714,Beyond Suspicion
-7768,3.49284973175416,The Berenstain Bears: Adventure & Fun for Everyone
-2749,3.49166550253443,The Big Tease
-15251,3.49100269064961,Crank Yankers: Season 2: Vol. 1
-3069,3.48889154567069,Strawberry Shortcake: Dress Up Days
-15695,3.48880252975267,Shamus
-16188,3.488546358206,You're the Top: The Cole Porter Story
-17104,3.48810523100088,In the Army Now
-13748,3.48457397252783,The First Wives Club
-14722,3.48430846935252,Bug
-7386,3.48390071787718,Ninja Cadets
-17338,3.48370994635994,Forget Paris
-11442,3.48325351245056,Lost in America
-5008,3.48262427296932,The Pentagon Wars
-4586,3.48217031255248,But I'm a Cheerleader
-12372,3.48192086033236,Faithless
-10712,3.48183459520896,Above the Law
-2036,3.48137047679462,'N Sync: PopOdyssey Live
-3164,3.48066366136458,Stella Dallas
-6680,3.47969854399423,Galaxy Angel
-15712,3.47828831392561,Cradle 2 the Grave
-8849,3.47813132523231,Kama Sutra: A Tale of Love
-17020,3.47753127108637,Before and After
-1893,3.47737436215093,Fun with Dick and Jane
-13150,3.47729540796011,The Odyssey of Life: The Photographer's Secrets: Nova
-16252,3.47725884564242,Midsomer Murders: The Killings at Badger's Drift
-9421,3.47705244163011,Anatomy
-2544,3.47482590468332,3-2-1 Penguins: The Doom Funnel Rescue
-4943,3.47468201590007,Against All Odds
-17741,3.47386369249541,Ginger Snaps 2: Unleashed
-11806,3.47370739594296,The Secret of N-I-M-H 2: Timmy to the Rescue
-1340,3.4735211096069,Strapped
-15962,3.47340575776291,Maximum Risk
-12733,3.47149063319818,Johnny Greyeyes
-16576,3.47066759831983,2002 Olympic Figure Skating Exhibition
-13212,3.47022990906192,The Company of Wolves
-1356,3.47003955329003,Too Close for Comfort: Season 1
-16741,3.4699795011877,Guadalcanal Diary
-3170,3.46992266525537,Together
-6260,3.46956607591573,Bootmen
-12852,3.46836230468502,To Be and To Have
-6917,3.46740453249583,Under the Sand
-9945,3.4660955845633,Melissa Etheridge: Live ... and Alone
-16046,3.46443116092259,The Beverly Hillbillies
-8534,3.46414979104666,Snow Queen
-10576,3.46295628650405,DiG!
-9492,3.46280253009649,3 Walls
-3084,3.46145276765824,Rollerball
-3760,3.46135752251731,Tom Jones
-4935,3.4606516155915,VH1 Divas Live
-11352,3.46041725312255,The Day of the Dolphin
-7931,3.46021043763221,8 Man After: Perfect Collection
-336,3.45877938226509,The Driver
-11025,3.45861976319506,A Midsummer Night's Sex Comedy
-12948,3.45835641856469,'Round Midnight
-14930,3.45662927201075,Pearl Jam: Single Video Theory
-5729,3.45622641716484,The Winter Stallion
-8008,3.45462237860717,Treasure Island
-12276,3.45451568833432,Bloodfist 2
-8206,3.45431306269739,All Things Fair
-4811,3.45295079277896,Trishul
-16112,3.45248367242476,Shock Waves
-9324,3.45234529585904,The Mrs. Bradley Mysteries
-2343,3.45113327836596,Heck's Way Home
-3586,3.44997268361796,Tannhauser: Wagner: Metropolitan Opera
-14793,3.44979166771101,The Comfort of Strangers
-7544,3.44918365135505,Orange County
-7238,3.44911595646711,Prozac Nation
-8182,3.44791239864363,In Heaven as it is on Earth
-12709,3.44783792678294,Too Late the Hero
-6013,3.44776206179883,An American Werewolf in Paris
-16869,3.44712601351289,Sweet and Lowdown
-12977,3.4465472198532,Free to Be You and Me
-13218,3.44651660522771,The Complete Holy Bible: King James Version
-17689,3.4460676439088,Kiss: Unauthorized Kiss
-14079,3.44540736871866,The Very Best of the Ed Sullivan Show: Vol. 1: Unforgettable Performances
-1958,3.44504081752189,WWE: Before They Were Superstars 2
-14231,3.44501323355232,Dreadnaught
-17056,3.4430362307512,The North Avenue Irregulars
-6714,3.44214415226148,WWE: 'Cause Stone Cold Said So
-10835,3.44188943906734,Stigmata
-7991,3.4410653399463,The Hunted
-237,3.439763143423,Broken Blossoms
-4966,3.43939347966284,The Hot Spot
-4952,3.43734511330973,Dr. Wayne Dyer: How to Get What You Really Want & Improve Your Life
-8566,3.43634514825889,Merci Docteur Rey
-8005,3.43428505585533,Therese
-1731,3.43387356292763,Jackie Chan: Who is He?
-850,3.43320102157315,Stoked: The Rise and Fall of Gator
-17255,3.43271805121069,American Photography: A Century of Images
-1668,3.43182195565854,Friday the 13th: Part 3
-11286,3.43134579056358,White Fang 2: Myth of the White Wolf
-3200,3.43101488320279,Charley Varrick
-1430,3.43037403785154,The House Next Door
-1092,3.43025662749121,Thin Line Between Love & Hate
-3492,3.42963452811838,Map of the Human Heart
-13022,3.42944427405548,Lucio Fulci: Don't Torture a Duckling
-9256,3.4284535111065,Tom & Viv
-12504,3.42843126453048,The Stooge
-1260,3.42818304750731,Journey to the Center of the Earth
-16246,3.42743829147732,Tom Horn
-13769,3.4262884279565,MTV: Inside TRL
-14329,3.42526086530961,Occasional Hell
-7776,3.42467419755216,The Brandon Teena Story
-13853,3.42356709712661,Dark Blue
-1048,3.42310304548751,Year of the Horse: Neil Young & Crazy Horse Live
-7923,3.4229446951316,The Day the Earth Caught Fire
-14386,3.42278073738671,The Velveteen Rabbit
-1078,3.42219228777476,After the Storm
-1482,3.42180733101271,Beyond Borders
-813,3.42055586041943,On Cukor
-9967,3.420307826724,The Organization
-4538,3.41997840346968,Ninja vs. Bruce Lee
-12604,3.41933155736647,Hangman
-11775,3.41816708701887,The Fighting Temptations
-7466,3.41761509903977,Beast City
-16256,3.41725012563446,Earthlight
-2492,3.41644633076459,The War Zone
-2251,3.41613329402849,The Rookie
-17650,3.41529489157299,Unstrung Heroes
-9517,3.41496318012256,Silent Running
-7109,3.41472311997663,Cilantro y Perejil
-12700,3.41386345178479,Elvis '56
-214,3.41384537157491,Read-Along: Beauty and the Beast
-7868,3.41241022231237,Gasaraki
-17742,3.40988585392675,Catherine the Great
-1444,3.40931044154732,Pride FC: The Return of the Warriors
-9537,3.40787931017052,The Twins Effect 2
-5175,3.40728884783814,Under One Roof
-16408,3.40606224009009,The History Channel Presents: Julius Caesar's Rome
-5337,3.40521212884027,Tales of the Unexpected: Set 1
-826,3.40400907887782,Goosebumps: Cry of the Cat
-16129,3.40324587269608,Bob the Builder: Building Friendships
-17454,3.40283394917859,Patlabor WXIII: The Movie
-398,3.40176387459749,In the Realm of the Senses
-10354,3.40144236153413,Monarch of the Glen: Series 3
-1851,3.40137674630471,I Want to Live!
-6988,3.40074912495762,Mighty Aphrodite
-13758,3.40034112249145,Bloodfist
-9087,3.40023840940897,Hero
-13838,3.4001555794697,Dream with the Fishes
-5813,3.40014897512128,Diana Krall: Live in Paris
-6979,3.39911744719774,Fear Strikes Out
-5568,3.39880485265054,Not of This Earth
-15060,3.39802529180592,Xena #1: Girls Just Want to Have Fun: Multipath Adventure
-12683,3.39751831668365,Bride of Re-Animator
-12348,3.39624679640914,I'll Be Seeing You
-15707,3.39577406984781,The Debut
-14070,3.39504625657458,The Last Wave
-6522,3.39339708921082,Trailer Park Boys: Seasons 1 & 2
-17068,3.39287342387385,King of the Cage: Sin City
-6737,3.39254304080448,Christmas in Connecticut
-6334,3.39189262238831,Things You Can Tell Just By Looking at Her
-3647,3.39153807241546,Death Before Dishonor
-16948,3.39140967345454,Bridget Jones: The Edge of Reason
-14902,3.38999448781568,Doggy Poo
-6629,3.3890172877197,Legend of the Dragon Kings: Under Fire
-4685,3.38796517444714,Lake Placid
-15808,3.3878192415966,Citizen Ruth
-8889,3.38618437765853,Mother
-13032,3.3844417125823,The Stone Cold Truth
-7476,3.38434826278621,Space Battleship Yamato: The Movie
-4128,3.38428548121684,Under the Roofs of Paris
-10762,3.38302414706479,The Last Outlaw
-16477,3.38249695988934,Bright Future
-13288,3.38206559678538,All I Want
-13760,3.38154112579091,A Fine Romance: Set 3
-17344,3.38152759790177,Creature
-3068,3.38110736438071,Harlock Saga
-2366,3.37933864309504,Just Visiting
-17554,3.37921425637122,Wide Awake
-8697,3.37801503729347,King of Texas
-185,3.37786621311707,Missing in Action 2: The Beginning / Missing in Action 3: Braddock
-10926,3.37757969727048,Employee of the Month
-8458,3.37640055904797,Burn the Floor
-9131,3.37569060165085,Air America
-15661,3.37559941609301,The End Times
-9152,3.37540506172206,Fire Birds
-15223,3.37447729027593,Osmosis Jones
-13360,3.37420726920147,NBA at 50
-10415,3.37337600602237,16 December
-15272,3.37305084797104,Wild Orchid
-13154,3.37099696604484,The Roman Spring of Mrs. Stone
-2988,3.36980452303555,About Adam
-11159,3.36961877077169,Growing up with Winnie the Pooh: Friends Forever
-14203,3.36725665764567,Batman Forever
-5425,3.36516573883019,Best Laid Plans
-3486,3.36379824190716,The Source
-10943,3.36334829139472,Ben Folds Five: Complete Sessions at West 54th
-14169,3.36299765244102,The Guyver
-4619,3.36194475966397,Clockmaker
-4189,3.36155274075676,Newlyweds: Nick & Jessica: Seasons 2 & 3
-15993,3.35966354136664,Mystic Iran: The Unseen World
-5897,3.35863715029854,Jeepers Creepers 2
-12396,3.35810658964911,The Heroic Legend of Arslan
-8867,3.35778143121115,The Tommyknockers
-14581,3.35756807362963,Magic Kitchen
-380,3.3571631053707,Live Wire
-15338,3.35681958530615,Barbary Coast
-6417,3.35632057848424,A Storm in Summer
-3598,3.35483082187679,The Seduction of Mimi
-7524,3.35468279324151,Slackers
-11436,3.35450669243172,Super Atragon
-4868,3.35426515438407,Midsomer Murders: Death of a Hollow Man
-9199,3.35415892025525,Bring Me the Head of Alfredo Garcia
-14282,3.35291972863519,McMillan and Wife: Season 1
-11952,3.35281319552586,Chaos
-3904,3.35169897840335,The Hole: 2000 Seen By ...
-12275,3.35141507323713,Married to the Mob
-14552,3.35134470034257,To Walk with Lions
-16091,3.35128811900763,Firelight
-12413,3.35106452731942,The Wonderful
-10089,3.35035920962379,Soccer Dog
-17523,3.34963708778174,Campion: Sweet Danger
-1884,3.34941652099529,Captain Corelli's Mandolin
-481,3.34793644017318,Building the Great Pyramid
-11133,3.34678539176518,Top Fighter
-4563,3.34623094333174,The Statement
-61,3.34465075378543,Ricky Martin: One Night Only
-13664,3.34432731791873,Submarines
-1140,3.34411189937535,To Gillian on her 37th Birthday
-7255,3.34199670399057,Jojo's Circus: Take a Bow
-7334,3.34147485621189,Midsomer Murders: Death in Disguise
-3891,3.34078717075907,Over the Edge: Motorcycle Mayhem X
-541,3.34062241043438,King Cobra
-11347,3.34036912011151,Legal Eagles
-5790,3.3402912312256,The Drifter
-15842,3.33999585850316,I'm Losing You
-14347,3.33927178565737,Running Free
-4986,3.33892844731278,The Shipment
-9843,3.33845319214195,Dallas: Season 3
-13199,3.33800462395808,Don't Try This at Home: The Steve-O Video
-16021,3.3361901657492,The Adventures of Prince Achmed
-6998,3.3359800037134,Laserhawk
-11689,3.33559000148628,Ffolkes
-12243,3.33373942049144,Pushing Tin
-9831,3.33351922155988,Vanishing Point
-9632,3.33317805461522,Danzig: Archive De La Morte
-16916,3.33239388456198,David Alan Grier: The Book of David: The Cult Figure's Manifesto
-11395,3.33221390081933,Kickboxer 3 / Kickboxer 4: Double Feature
-3243,3.33145615896292,Mermaid
-1455,3.32931193579463,Belly of the Beast
-10826,3.32931028919059,Shakespeare Tragedies: Othello/ Macbeth/ King Lear: The Standard Deviants
-111,3.32922002971591,Duplex (Widescreen)
-7067,3.32783351289561,Charlie's Angels: Full Throttle
-11034,3.32735369681874,Father Hood
-3652,3.32714672071476,Happy Tree Friends
-9720,3.32676229809557,Yessongs: Yes
-3418,3.32573418562808,Sister Act 2: Back in the Habit
-2866,3.32555069041035,Message in a Bottle
-13485,3.32306921693639,City Heat
-666,3.32161891241171,The Man Who Came to Dinner
-10721,3.32071296069868,Tomcats
-16232,3.31844222510796,Leviathan
-1122,3.31827720103628,The Attic / Crawl Space (Double Feature)
-14354,3.31744104360477,Deathstalker 4
-1966,3.31572589005327,Gay Games VI: Sydney 2002: Under New Skies
-10368,3.31469205437533,Triangle
-5641,3.31437639146885,Voodoo
-1600,3.31373371004108,Poison Ivy 2
-9854,3.3132527389062,Battle of the X-Planes: Nova
-5367,3.31279803728241,The Glimmer Man
-17203,3.31245295054054,Big Top Pee-Wee
-11307,3.31149952383582,The Barbarian Invasions
-12059,3.31137123024963,Unscripted: The Complete Series
-761,3.31102970814462,O Fantasma
-790,3.31098550640893,A Single Girl
-8594,3.31078501404274,The Artist: Rave UN2 the Year 2000
-3978,3.31075881577342,Hangman's Curse
-4569,3.31036237940285,3 Ninjas
-192,3.30888545393789,The SoulTaker
-5651,3.30876508846598,Boomerang
-4359,3.3080282938525,Track Down
-5979,3.30789704102402,Speed of Life
-11245,3.30640993360481,A Rage in Harlem
-13674,3.30626216304739,Kandahar
-11376,3.30588888805021,Head of State
-15691,3.30393001260861,Elmo's Magic Cookbook
-12653,3.30277677441168,Live Nude Girls
-16663,3.3026458173756,Mac and Me
-5098,3.3004826234737,Pyaar Ishq aur Mohabbat
-9973,3.30023785997155,David Bowie: A Reality Tour
-12936,3.29971051842274,Hollywood Musicals of the '50s
-13565,3.29970069409693,You Got Served
-14137,3.29913506342816,Johnny Mnemonic
-11824,3.29563553012679,Middlemarch
-10780,3.29403369706278,Signing Made Easy
-9410,3.2939403669035,P.S.
-6066,3.29392461486251,The Story of the Weeping Camel
-15153,3.2937227347343,Flashback
-3326,3.29370271569924,Chain Reaction
-14317,3.29348122239571,View from the Top
-15234,3.29328443756584,Red Planet
-735,3.29193267076516,Hillary & Tenzing: Climbing to the Roof of World
-11021,3.29182447136879,Clockwise
-885,3.29179375189609,The Maldonado Miracle
-12189,3.29147310885846,Spanish Judges
-6536,3.29085480466526,Panda! Go Panda!
-11259,3.29060256178183,Shooting Fish
-5716,3.2897821657249,Devil's Pond
-16506,3.28951740938402,American Idol
-5814,3.28891644721917,One Hour Photo
-4272,3.28890267063899,Miracle in the Woods
-9551,3.28816104016512,Drunks
-4445,3.28737109953343,Thomas & Friends: The Early Years
-4218,3.28661998772901,Sorority Babes in the Slimeball Bowl-O-Rama
-5426,3.28388224907786,RoboCop: Resurrection
-3743,3.28371599146485,Boys and Girls
-12455,3.28370043402918,Hollywood Screen Tests
-7607,3.28346337754819,Dirty Dancing: Havana Nights
-4645,3.28322683869667,The Day the World Ended
-3670,3.28321111209884,Encino Man
-14462,3.28286329313009,She Shoots Straight
-2707,3.28070114316483,The Street Fighter
-17654,3.28068630528755,K-911
-4880,3.27576419534531,Times of Terror
-122,3.27465218466641,Cube 2: Hypercube
-3498,3.27319796260718,Combat! Season 2: Mission 1
-43,3.27230064877544,Silent Service
-7950,3.27192749994535,Le Professionnel
-16904,3.27139302704775,WWE: Unforgiven 2003
-14470,3.27015993022715,Gods of Olympia
-154,3.26909614308928,Demon Warrior Koji
-66,3.26837964929508,Barbarian Queen 2
-1464,3.26790037745824,Pistol Opera
-8896,3.26754844056398,Bollywood / Hollywood
-11177,3.26703367316963,Worth Winning
-156,3.26688463618542,Husbands and Wives
-9059,3.26455414763018,A Troll in Central Park
-17137,3.26414639155321,Secret Ballot
-6230,3.26399527495726,Riverworld
-145,3.26396297059063,Get Out Your Handkerchiefs
-2284,3.26184365891877,Teen Wolf / Teen Wolf Too (Double Feature)
-3890,3.26144338215482,Confessions of a Teenage Drama Queen
-2715,3.2609097629272,Whiteboyz
-816,3.25981052029094,Marlene Dietrich: Her Own Song
-1388,3.25981052029094,Spring Symphony
-11966,3.25981052029094,Cafe au Lait
-17394,3.25917038367644,In the Shadows
-510,3.25721315291636,Blue's Clues: Blue's Room: It's Hug Day
-4023,3.25662561760854,Fate
-9602,3.2565965710471,Tower of Death
-11418,3.25569023539145,Bridge of Dragons
-10187,3.25500071444239,Lenny Kravitz: Live
-8384,3.25487359393096,3000 Miles to Graceland
-10109,3.25435539811607,Major League II
-16247,3.25346828662327,The Human Face
-14088,3.25303033086482,The Pillow Book
-7939,3.25258250963359,Submerged
-6481,3.25232287385675,Beat
-669,3.25213394224702,Real Kung Fu of Shaolin
-5157,3.25165021169592,Shark Attack
-11340,3.24806217084405,Johnny Be Good
-17626,3.24629996204643,Henry Rollins: Up for It
-6220,3.24628569091491,The Color of Paradise
-10781,3.24595961827829,Airline: Season 1
-6356,3.24567559951778,Lost Command
-2931,3.2449706785134,Cutaway
-17693,3.2447152368594,Operation Dumbo Drop
-11902,3.24397900975718,A Thief of Time
-6093,3.24306996187876,House of Cards Trilogy III: The Final Cut
-3192,3.24263509158622,Double Impact
-2718,3.24250696286723,Ultimate Beginner Xpress: An Introduction to Musical Styles: Acoustic Guitar
-12355,3.24161488765143,A.I. Artificial Intelligence
-64,3.24139432228936,Outside the Law
-14255,3.24138528973096,Yeh Dillagi
-16554,3.24078359806732,Divorce
-9568,3.2401206756184,W.C. Fields
-11510,3.24003862175286,Modesty Blaise
-10404,3.23957960394815,Marlene
-4119,3.23957587639937,White Palace
-2629,3.23839484408658,Highlander: The Raven
-8365,3.23760999917229,Laughing Out Loud: Vol. 5
-16169,3.23754302827495,The Haunting
-17074,3.23650590376605,Two Women
-7527,3.23620599877734,The World of Drunken Master
-1407,3.23392877579277,Orphans of the Storm
-9875,3.2329739711636,Innocence
-13680,3.23222918108506,Red Dwarf
-11319,3.2320541029469,Revenge in Olympia
-578,3.23133960072144,The Terror
-12912,3.23097555573573,Metropolitan Opera: Puccini: La Boheme
-583,3.23097206828821,Third Man on the Mountain
-1896,3.23085431858261,Splitting Heirs
-5342,3.22945149290848,The Butcher's Wife
-10663,3.22927478589467,Kipper: Friendship Tails
-15005,3.22671221676501,Cameron's Closet
-7442,3.2266274378712,Beowulf
-4122,3.22602365609467,Parting Glances
-4921,3.22430091645498,Megaman: Battle for the Future
-11235,3.22317100273494,Shinjuku Triad Society
-2939,3.22290351006785,Michael Moore Hates America
-6543,3.22050772331231,The Solid Gold Cadillac
-10540,3.21992190662672,Good Night Maisy
-16849,3.21939482503116,Tommy & Tuppence: Partners in Crime: Set 2
-11080,3.21891597409166,The Patriot
-6308,3.21843252891736,Going Greek
-10006,3.21748061689862,Target Earth
-4852,3.21720198943283,U Turn
-5911,3.21528079777851,Rudyland
-14075,3.21490074154946,A Rumor of Angels
-16488,3.21291808352442,Dark Ages
-7770,3.21157519132915,Piece of Cake
-10921,3.21134767004049,Just Married
-16988,3.21086972893528,The Wolves of Kromer
-740,3.20951927026344,The House on Carroll Street
-8051,3.20944571532009,The Curse of the Jade Scorpion
-15074,3.20844420148493,The Baby
-2616,3.20791295678552,The Tigers
-15731,3.20612512005304,Roxy Music: Live at the Apollo
-6257,3.20597421773835,Aftershock
-17334,3.20419880995318,Beethoven's 3rd
-15150,3.20373848209875,The Brain That Wouldn't Die
-5131,3.20369532457218,Sometimes They Come Back For More
-3043,3.20356106110874,Lord of Illusions
-16132,3.20305430113093,Karan Arjun
-12452,3.2029818506985,I Got the Hook Up
-15213,3.20155024157051,Sonic the Hedgehog: The Movie
-1952,3.20126554862507,Anything Goes
-3271,3.2011848992357,Schizo
-3568,3.20007293360064,Come and See
-4574,3.19991073070385,Pippi on the Run
-15216,3.19919215567737,Circus
-3994,3.19894859676498,Freeze Frame
-12472,3.19581367695816,Decoys
-5096,3.19581348326445,My Summer of Love
-17232,3.19366488580559,Me and the Mob
-10939,3.19323088151179,The Soong Sisters
-1190,3.19267147163869,The Late Shift
-6338,3.19167534283669,The Truth About Love
-13438,3.19138806281201,Captain Jack
-13938,3.19122252985551,Futuresport
-10248,3.19058258924032,Taxman
-14392,3.18972778330189,Wholly Moses
-16300,3.18944575674954,The Great White Hype
-10195,3.18825001859573,Charlie Chan: The Chinese Cat
-6480,3.18698300238588,Ten Tiny Love Stories
-7567,3.18673046497902,Mussolini and I
-10670,3.18658870715597,Full Metal Yakuza
-11330,3.18651160491064,Martin & Lewis: At War with the Army
-6347,3.18605290714327,Big Momma's House
-15820,3.18460477558043,Love Don't Cost a Thing
-9699,3.18306834337778,The Snow Walker
-9730,3.18283685707303,Clonus
-723,3.18238253725271,Curly Sue
-16494,3.18197737140416,Cops: Caught in the Act
-6354,3.18147036699882,The Deviants
-3329,3.18145011940942,INXS: Live Baby Live
-13632,3.18114020385423,Wolverine
-14962,3.17893270916811,Kiss Toledo Goodbye
-11098,3.1784039717883,Wish You Were Here
-11908,3.17677730600334,Embrace of the Vampire
-15547,3.17652904546377,Fortress 2
-7068,3.17617595029172,Eric Idle's Personal Best
-5465,3.17617545684126,The Scalphunters
-7747,3.17430101274944,Korn: Deuce
-2432,3.17290348683091,29 Palms
-10194,3.17263196718448,Visible Secret
-4008,3.1707684873035,David Blaine: Fearless
-10659,3.17001575185323,The Cheerleaders Collection: The Cheerleaders
-14046,3.16971626414711,World War I in Color
-4152,3.16964895274577,Terror Firmer: Special Edition
-7132,3.16920708059659,Goodbye Dragon Inn
-6839,3.16905313276093,Marquis De Sade: Intimate Tales of the Dark Prince
-3848,3.16857227191742,The Ghoul
-16035,3.16801060047,Disappearance
-7329,3.16759338308696,Wicked Ways
-5220,3.16708870916134,Drowning Mona
-6894,3.16663359515688,Peter & Paul
-8,3.16662919276416,What the #$*! Do We Know!?
-9855,3.16034320440273,The Ranch
-15809,3.15980618066871,Legendary Victor Borge
-8495,3.15811408133586,Snipes
-4742,3.15800430882156,Todd McFarlane: The Devil You Know
-11380,3.15795838689478,Edie and Pen
-815,3.15794102594443,Tiger Bay
-6663,3.15704852475568,Latin Kings: A Street Gang Story
-16970,3.15701301196586,The Little Vampire
-8002,3.15566509977509,Deewaar
-10676,3.15485997006539,The Kennel Murder Case / Nancy Drew
-7089,3.15441844310603,Blood Sisters of Lesbian Sin
-9885,3.14926973054018,See How They Run
-11086,3.14796327083854,Julian Po
-13686,3.14743140765318,Mr. Skeffington
-9343,3.14642871439285,MTV: The Real World You Never Saw: Back to New York
-5225,3.1461325912873,The Nazis: A Warning from History
-11253,3.14567400323397,Gate to the Mind's Eye
-7299,3.14496777714699,The Oscar Wilde Collection: Stage Right
-7030,3.14429134965437,The Collected Shorts of Jan Svankmajer: Vol. 2
-6611,3.14326883410433,Ed Gein
-15391,3.14018968607402,Dead Silence
-8537,3.13732217728978,Vlad
-5142,3.13703420547441,Beatles: From the Beginning to the End
-13519,3.13607913172434,Envy
-3201,3.13492584174571,Billy Bragg and Wilco: Man in the Sand
-2565,3.1344955493483,Forbidden Sins / Human Desires
-14314,3.13203711665204,The Nightmare Room: Scareful What You Wish For
-865,3.13113202790719,Elvis by the Presleys
-8268,3.12897484709756,Muay Thai: Ultimate Fights
-12386,3.12866188573049,The Fanny Trilogy
-10846,3.12730146776997,Bamboozled
-2316,3.12684217773478,Breathless
-909,3.12559934782542,Too Young to Die
-6919,3.12470897953197,Incident at Loch Ness
-6136,3.12409749393286,The Kiss
-1333,3.12266900322196,Mother's Day
-450,3.12169708977981,Isaac Stern: Life's Virtuoso
-2504,3.12144654177582,Bloodfist 3: Forced to Fight
-15202,3.12098985618252,Kill!
-9767,3.11922908395914,Windwalker
-17534,3.11879918832244,The Newsroom: The Complete Series
-6315,3.11754437645345,Friday the 13th: Part 8: Jason Takes Manhattan
-15670,3.11736536445742,L.A. Law: The Movie
-8435,3.11724142044703,Urban Ghost Story
-13137,3.11521796963894,Two Shades of Blue
-8352,3.11511032297485,The Mystic Masseur
-6250,3.11481494012178,Female Perversions
-15946,3.11477806813084,The Rats
-12798,3.11439979387078,How to Deal
-14292,3.11432254733591,Earth vs. The Spider
-16830,3.1135238731353,7 Girls: White Knuckle Extreme
-7061,3.11227551588484,Kizuna
-6358,3.11212925454527,Alien Tracker
-5311,3.11206616032841,Cadillac Ranch
-6562,3.11008944428478,Karen Voight: Slim Physique
-11232,3.11008944428478,Streetball Classics: Vol. 1
-15527,3.10966720047791,Golfballs!
-15020,3.10922910709246,Blue Vinyl
-12606,3.10899492089291,Disorder II: Fat Tire Fury: White Knuckle Extreme
-4637,3.10818529602739,Night of the Lepus
-1188,3.10797177284669,A Little Inside
-4283,3.10696389099791,The Main Event
-15413,3.1065592621438,Miss Cast Away and the Island Girls
-2510,3.10638088684175,Joe the King
-10100,3.10422960325934,Flesh and Bone
-8422,3.10046098428481,Thomas & Friends: Cranky Bugs
-16127,3.09906457215719,Good News
-17734,3.09746313276007,Shanghai Ghetto
-1054,3.09579916946835,Odin: Photon Space Sailer Starlight
-15726,3.09577661699674,Jane's Addiction: Three Days
-2235,3.09529798606741,Undertow
-10522,3.09413085736525,Aria
-7899,3.09136902194316,Junior
-12010,3.09089527572495,Strangers in Good Company
-6200,3.09078954121536,Those Calloways
-17728,3.08858908982657,Me & Isaac Newton
-2658,3.08711996753857,MVP: Most Valuable Primate
-3316,3.08694493745835,Bartleby
-3944,3.08686234976363,Wonderland
-16055,3.08547353348093,Kissed
-12156,3.08389363392401,Tabu: A Story of the South Seas
-5160,3.08357259306385,Cows
-1167,3.08115904231862,La Buche
-9167,3.07978770135798,Major Saab
-16398,3.07892756436927,The White Dawn
-13262,3.07889044332611,Children of the Night
-1554,3.07852198021623,The 5th Musketeer
-2604,3.07789747403432,Merce Cunningham: A Lifetime of Dance
-9629,3.0767278030155,Stranded
-5474,3.07487618708735,Gloria
-3094,3.07480634012662,According to Spencer
-10555,3.07388881532779,Masti
-12864,3.07388881532779,Chokher Bali
-13638,3.07364766101207,George of the Jungle 2
-6567,3.07232488630842,Bob & Carol & Ted & Alice
-6121,3.07162562180997,Kirby: Kirby Comes to Cappytown
-8994,3.07047293843936,A Fond Kiss
-6405,3.07041401207404,H
-9930,3.06994156107483,Working with Orson Welles
-7681,3.06956020638816,Island at War
-15741,3.06899957298657,Burglar
-10025,3.06881592597906,Institute Benjamenta
-6593,3.06805253032959,Howling V / Howling VI: Double Feature
-12510,3.06682121923558,Sesame Street: Babies
-5027,3.06491532550831,Bad Timing
-14171,3.06223805458481,Chicago: City of the Century: American Experience
-10572,3.06070151097953,Marianne Faithfull: Dreaming My Dreams
-16627,3.05945436151987,The Magic School Bus: Catches a Wave
-12422,3.0584712363623,The Murder Room
-13289,3.0579854302681,Pride FC: Pride Fighting Legacy: Vol. 1
-12432,3.05151371099254,The Owl and the Pussycat
-16001,3.04656594806547,Dangerous Moves
-11923,3.04597235370263,Last Man Standing: Politics - Texas Style: POV
-10578,3.04496864973294,The Great Ecstasy of the Sculptor Steiner / How Much Wood Would a Woodchuck Chuck? / La Soufriere
-9744,3.04329797770876,Dust
-14551,3.04030286429031,Happy Campers
-8401,3.03842851504085,Teenage Catgirls in Heat
-8661,3.03577985671509,Franklin: Favorite Turtle Tales
-123,3.03474130859994,Chain of Fools
-7236,3.03362644347135,Saint Sinner
-10843,3.03318394702086,City of M
-16589,3.0330654035288,Children of the Corn 5: Fields of Terror
-3862,3.03164429054779,Superman IV: The Quest for Peace
-2807,3.02844138934452,The Worst Witch: Battle of the Broomsticks
-5941,3.02619937352152,The Way We Live Now
-779,3.02445045389517,Loving Jezebel
-1268,3.02305859691336,Martha Stewart Holidays: Homemade Holidays
-7921,3.02094995920192,Day of the Dead 2: Contagium
-16018,3.01987755934371,Best of the VonErichs
-14594,3.01765725149416,Dragon from Shaolin
-3889,3.01627110645591,Assisted Living
-15754,3.0152482451877,Breaking Up
-9750,3.01458106989516,The Turn of the Screw
-6668,3.01362953391217,The Last Minute
-2659,3.01199922946198,Grateful Dawg
-11766,3.01174572992185,Extreme Limits
-12496,3.01090112403997,Whispers: An Elephant's Tale
-3298,3.00981052029094,Baller Blockin
-4875,3.00981052029094,Felicidades
-7033,3.00981052029094,A Date with Shahrukh
-7339,3.00981052029094,The Code
-7838,3.00981052029094,In the Country where Nothing Happens
-16120,3.00981052029094,ABCD
-222,3.00683035333711,Yellow
-7726,3.00609573294947,Brady Bunch Home Movies
-8920,3.00599160842683,Tapeheads
-17556,3.00555958397193,November Moon
-594,3.00537888782498,By Hook or By Crook
-3874,3.00344191246719,Fashion Victim: The Killing of Gianni Versace
-15192,3.00133996967045,Nature: Reptiles: Snakes and Lizards
-9620,3.00115365287398,It Started in Naples
-4095,2.99980748056023,Girl Play
-8390,2.99980748056023,Surfin' Shorts
-10845,2.99980748056023,Hard to Hold
-11048,2.99760495976859,Beta
-6285,2.99642484943271,Goodbye Lover
-2731,2.99551363621979,Tank Girl
-6289,2.99391611833519,The Perfect Neighbor
-11009,2.99338192364741,De Sade
-6137,2.99327515862375,The Red Sneakers
-2925,2.99251874987544,Virginia's Run
-5835,2.99011555845351,Dario Argento's The Card Player
-17202,2.98977754352356,Pandemic: Facing Aids
-7571,2.98902169540508,The Dreamlife of Angels
-16787,2.98900900664239,Primary
-17466,2.98821464283794,Sex: The Annabel Chong Story
-15998,2.98785433641228,Place Vendome
-13235,2.98773625341356,Lisa Picard Is Famous
-323,2.98355210505577,Modern Vampires
-9422,2.98330089492243,Chutney Popcorn
-1951,2.98202947956086,Faces of Death IV
-1343,2.9771446123498,Strange Planet
-13531,2.97690481341253,Wildest Street Brawls 3
-3044,2.97612913821065,The Inheritance
-5766,2.97595875818257,Final Cut
-1845,2.97321928772936,Gordy
-3440,2.96971626414711,Hi
-15142,2.96971626414711,Times Square
-2193,2.96959232988972,The Wasp Woman/Attack of the Giant Leeches
-2569,2.96806433929676,Washington Heights
-4264,2.96793364383924,The River
-14089,2.96649546870199,Mo'Nique: One Night Stand
-127,2.96568237736204,Fatal Beauty
-9989,2.96511849513375,Festival in Cannes
-6678,2.961882927563,Spike & Mike's Cutting Edge Classics
-11496,2.96165114974601,Staying Alive
-10082,2.95994765886972,Soul Plane
-13590,2.95795790295365,MPD Psycho
-8560,2.95745289347787,Perfect Harmony
-4439,2.95478020530379,Gimme Power
-13823,2.95229286067719,Carnage
-4076,2.95028323406965,Directors: Joel Schumacher
-11011,2.94810340444502,Countess Dracula's Orgy of Blood
-16613,2.94472230418263,The Bounty Huntress
-14136,2.94420584884219,Hook'd Up
-7503,2.94277301140246,Requiem for Murder
-14743,2.94271690869977,Short Cut to Nirvana
-11339,2.94244519846449,Larva
-2313,2.94018968607402,Funny Dirty Little War
-14469,2.93892844731278,Soldier - World Wide Entertainment
-9697,2.9382537215296,Love in a Cold Climate
-14800,2.93776467594652,A Touch of Frost: Season 5
-4750,2.93741201368735,The Beauty of Ireland
-207,2.93730464364124,Denise Austin: Ultimate Fat Burner
-4737,2.93713944516599,After School Specials: 1976-1977
-14775,2.9336891752323,Vicious
-1903,2.9335290127264,Ozzy Osbourne: Crown Prince of Darkness
-8804,2.93213726703433,DIO: Evil or Divine
-440,2.92963805291693,Just 4 Kicks
-2642,2.92568634092538,Double Bang
-2116,2.92478878184876,Halloween III: Season of the Witch
-2042,2.92449476519489,Wodehouse Playhouse: Series 2
-1059,2.91979657504587,Extreme Bloopers: Sports Gone Wrong
-557,2.91870509199791,Liebestraum
-11757,2.91776986052919,Eat My Dust!
-3196,2.91742872705427,Leave it to Beaver
-11690,2.91608028300562,Soul Survivors
-6889,2.91515475198131,When the Party's Over
-5966,2.91439624831801,Other Voices
-16135,2.91375223446467,The Holy Land
-946,2.91287814093727,Sex and the Teenage Mind
-1192,2.91008944428478,Masters of Poker: Phil Hellmuth's Million Dollar Texas Hold'em Tournament Strategies
-1841,2.91008944428478,Yoga for Meditation
-8007,2.90987288955454,Nothing But a Man
-12679,2.90758878882237,Young Adam
-2621,2.90677593777466,Peter Gunn
-11294,2.90671068868936,Barney: Come on Over to Barney's House
-2918,2.90610482072686,Momentum
-11838,2.9052883775804,Omagh
-2678,2.9050016090815,Price of Desire
-9650,2.90126811591232,Since You've Been Gone
-1091,2.90030253009649,Dostana
-10992,2.89917727587133,The Doe Boy
-3189,2.89861315138421,The Treat
-8766,2.89775660139257,The Brotherhood
-12284,2.8964321908822,The Guess Who: Running Back Thru Canada
-14279,2.89538679975941,Witness to a Kill
-2356,2.8903850240791,The Adventures of Rocky and Bullwinkle
-1898,2.88972051007259,Greyfriars Bobby
-15228,2.88609314873178,House Calls
-16762,2.88220293625069,Crazy Mama
-6419,2.88048830681776,A Change of Place
-2014,2.88044732319115,5X2
-11344,2.87339530765826,Hockey Mom
-16000,2.87339530765826,Aitraaz
-5267,2.87194584735828,Untold Scandal
-3330,2.87163949589156,The Secret Life of the Brain
-15510,2.86845615236792,Bad Trip
-11493,2.8633440121615,Newsbreak
-14625,2.85973917828421,Good Charlotte: Video Collection
-855,2.85809486401436,Bruiser
-14290,2.85718678462163,Sesame Street: Elmo's World: Birthdays
-4394,2.85493634673059,Druids
-8706,2.85409761939143,Mark of the Devil
-17326,2.8529650382423,Changi
-8491,2.84913511141732,The Doorway
-16122,2.84280478617346,Linkin Park
-7136,2.83767574900124,Dallas 362
-1522,2.83634514825889,Teorema
-12419,2.83330026182355,An Amazing Couple: Trilogy 2
-13828,2.83330026182355,Son of Gascogne
-5604,2.83313423190075,Dorm Daze
-11054,2.82742834312283,Kaakha Kaakha
-1807,2.82542376786962,Sonny
-16283,2.82438463382823,Cops & Robbersons
-16243,2.82023369690588,Blood of Beasts
-16456,2.81958059827955,Kolobos
-827,2.81915699317254,C'est La Vie
-2667,2.81640657829424,Devil's Nightmare
-3655,2.80888274774965,Taboo
-7518,2.80838642306231,Scarlet Diva
-8023,2.80638468006026,Dark Descent
-15961,2.80613955015243,Dead and Rotting
-7802,2.80364421202854,Dance for Camera
-15763,2.79676979455757,Six: The Mark Unleashed
-12117,2.79048089486523,Cruise Hawaii & Tahiti
-16042,2.78831699884331,Face of Terror
-844,2.78668653628458,La Cienaga
-5827,2.78638896688042,Jupiter's Wife
-15135,2.7833060169513,Striptease: The Greatest Exotic Dancers of All Time
-16906,2.78249323763667,On the Run: Trilogy 1
-11536,2.77589577375913,IFC TV Uncut: New Season Sneak Preview
-8798,2.77427854621761,Trader Hornee
-10108,2.77363177800801,New Rose Hotel
-9897,2.7712485823676,Wolfhound
-15175,2.76942572064556,Asylum of Satan / Satan's Children
-9401,2.76803727453585,Strange Things Happen at Sundown
-2560,2.76639417284074,Fat to Firm: Fitness Ball Workout for Dummies
-6390,2.76636442719657,Saved by the Bell: The New Class: Season 4
-3658,2.76546584161941,Zombie 3
-7011,2.75981052029094,A Loving Father
-8260,2.75981052029094,Crime of Passion
-8628,2.75981052029094,A Woman's Guide to Adultery
-14440,2.75981052029094,Love Is Colder than Death
-6208,2.75921844495879,Desecration
-2058,2.75578634610605,Eminem: The Slim Shady Show Uncut
-10219,2.7549998477438,Flesh (Andy Warhol)
-13589,2.75104305042751,Witches of the Caribbean
-3722,2.75045619103827,Luminarias
-1289,2.74943761189122,Look Who's Talking Too
-2438,2.7473659770993,Ricochet River
-17551,2.74373003058142,G-Men From Hell
-2675,2.74036228226213,Solaris
-1993,2.74018968607402,The Night and the Moment
-9550,2.73862023462627,Perfect
-13456,2.73824472406813,Come and Get It
-13305,2.73664794262767,Stage Ghost
-13059,2.73312027487295,The Man Who Loved Women
-10048,2.73230047630224,T-Rex: Born to Boogie: Special Edition
-11866,2.73182929646677,The Defilers/ Scum of the Earth!
-9716,2.73016135748524,Therese and Isabelle
-14099,2.72899229146862,A Galaxy Far Far Away
-2344,2.72513803364517,Songs from the Second Floor
-4239,2.72482296068464,Maitresse
-13861,2.72176431089717,Half Japanese: The Band That Would Be King
-4837,2.72097651711307,Howling II: Your Sister Is a Werewolf
-9719,2.71849118056612,Ring of Darkness
-9186,2.71770211491485,Hittin' It!
-15438,2.71523713601215,The Off Season
-6537,2.71510295829531,Lucky
-15536,2.71240795585205,Decasia: The State of Decay
-7512,2.71184130623999,Poor White Trash
-140,2.71072267601028,Lost in the Wild
-7901,2.7105588057911,Sudden Manhattan
-2666,2.70868592640776,A Farewell to Arms
-9518,2.70587893337052,Showgirls
-6276,2.70456231310016,Unknown Pleasures
-10462,2.69546327787956,Cruel and Unusual
-276,2.69368963409637,Cold Harvest
-12133,2.6925312867304,Redneck Zombies
-17616,2.68635810666798,The Westerner
-15951,2.67383161140636,Devon's Ghost: Legend of the Bloody Boy
-1100,2.66804345424784,Dr. T & the Women
-3176,2.66438153889299,The Decline of the American Empire
-17660,2.6584712363623,Round Trip
-10595,2.64431793191345,Bill Monroe: The Father of Bluegrass
-16726,2.64390581061498,Homework
-11657,2.64211803930323,The Quarry
-1205,2.63792305548696,Dragstrip Girl
-11511,2.63359817707677,Basket Case 3: Progeny
-13461,2.63337813884328,Dirty Deeds
-15981,2.63009870461973,Amour de Femme
-4694,2.62211837668973,Horrors of Spider Island
-6103,2.61489458442844,Hotel
-13215,2.60502313062891,Galaxina
-6975,2.59095077925154,Monster-a-Go-Go! / Psyched by the 4-D Witch (Double Feature)
-13464,2.59062204393184,Quicksand
-7084,2.58769757224692,Ghost Rig
-16422,2.57910956329273,Admissions
-7116,2.5769348749594,ABC News Presents: Jesus
-4329,2.57605131266305,Jungle Holocaust
-13110,2.57361010898117,The Book of Stars
-11288,2.56920708059659,Golden Balls
-12952,2.56868686868687,The God Who Wasn't There
-5159,2.56802395080237,The Real World Movie: The Lost Season
-6140,2.56231359292849,Southlander: Diary of a Desperate Musician
-4556,2.54735066926805,Stealing Time
-13677,2.54279631574617,Neverland
-16933,2.53786509750957,Shake
-11513,2.53513615734616,Vampires in Havana
-16950,2.51637937307668,Mummy's Kiss
-16761,2.51134969689405,In The Woods
-9696,2.50981052029094,Fart: The Movie
-12957,2.50934528323327,Greendale
-7587,2.50215049594801,It's Pat: The Movie
-8921,2.48700979913264,Steve-O: Gross Misconduct
-11631,2.47676674562109,The Brady Bunch in the White House
-17124,2.47585601671095,Inbred Rednecks Alien Abduction
-14957,2.41534826195125,The Vault
-9600,2.40173022497213,Intermedio
-15478,2.40041696301034,Manchild: The Complete First Season
-12123,2.39285942906611,S.I.C.K.
-13299,2.38477017051571,Mango Yellow
-15687,2.37052508457121,Vampiyaz
-7063,2.36965032615553,Girls on Top: Set 1
-7418,2.34518951286508,From Justin to Kelly: The Tale of Two American Idols
-14740,2.31132399768533,Seamless
-6363,2.28766952461609,Hot Wax Zombies on Wheels
-15083,2.26203004568946,Mulva: Zombie Ass Kicker! / Filthy McNasty (Double Feature)
-11686,2.24964706696146,Da Hip Hop Witch
-17065,2.23074424580486,Forbidden Homework
-1924,2.15419858969402,Terror Toons
-4544,2.11687089556281,Italian Stallion
-12887,2.10715878605933,Legend of the Chupacabra
-2562,0.609636184857424,MTV: The Real World You Never Saw: Hawaii
+7016,6.63342736248237,Raging Bull: Collector's Edition: Bonus Material
+15480,5.28767266532294,Farscape: The Peacekeeper Wars: Bonus Material
+3033,5.09588313014129,Ghost in the Shell: Stand Alone Complex: 2nd Gig
+14648,5.06651056081517,Finding Nemo (Full-screen)
+10947,5.03000819000259,The Incredibles
+12589,4.99302947071487,Heat: Special Edition: Bonus Material
+4238,4.88471422026648,Inu-Yasha
+12293,4.86524631525716,The Godfather
+7569,4.81587661698247,Dead Like Me: Season 2
+8072,4.80143723716199,Seven: Bonus Material
+9612,4.79645421948823,Destiny of a Man
+16147,4.78850848148577,The Sopranos: Season 1
+13835,4.76581114863487,Batman the Animated Series: Vol. 2
+634,4.75629739470919,Christmas with The Simpsons
+14859,4.74840482058509,The Return of Sherlock Holmes
+3290,4.74343734762098,The Godfather
+17085,4.73691125676351,24: Season 2
+4207,4.71994783601768,The Blues Brothers: Extended Cut
+14283,4.71750887200071,The Best of Friends: Vol. 3
+2290,4.71190094774775,Aladdin: Platinum Edition
+1256,4.70279509988151,The Best of Friends: Vol. 4
+16342,4.68951063144088,Teddy Roosevelt: An American Lion
+5700,4.67991154936335,Law & Order: Season 14
+5760,4.67218393408994,The Sopranos: Season 3
+48,4.65888310712128,Justice League
+9046,4.65493671445755,Dances With Wolves: Special Edition: Bonus Material
+5326,4.65417020221207,Star Trek: The Next Generation: Season 4
+10757,4.6508544132234,Justice League Unlimited: Saving the World
+577,4.65064830703869,The Twilight Zone: Vol. 36
+2861,4.64294211356432,Babylon 5: Season 4
+16022,4.62717348936919,Battlestar Galactica: The Miniseries
+15557,4.61649073708008,Futurama: Vol. 3
+417,4.60091205740488,Transformers: Season 3: Part 1
+7147,4.60011180471901,MacGyver: Season 3
+2430,4.59094335575733,Alien: Collector's Edition
+11088,4.58628522350569,Adventures of Batman & Robin: The Joker/Fire & Ice
+7445,4.585495641627,Monk: Season 3
+5577,4.5797204453639,Throne of Blood
+6277,4.57219490584019,The Mafia: An Expose - Vegas and Hoffa
+13911,4.57219490584019,Dizzy's Dream Band
+4468,4.57070042713661,Frasier: Season 6
+15648,4.56283407593068,National Geographic: Dinosaur Hunters: Secrets of the Gobi Desert
+7903,4.55983925887219,Adventures of Batman & Robin: Poison Ivy/The Penguin
+8596,4.5502783067518,Seven
+15836,4.54268707139422,MASH: Season 8
+8915,4.54106138185571,Terminator 2: Extreme Edition
+12298,4.52993640841282,The Twilight Zone: Vol. 5
+907,4.52813783594494,Animal Crackers
+3928,4.52754209548745,Nip/Tuck: Season 2
+8933,4.52152110097922,Ikiru: Bonus Material
+2532,4.51928904304762,Futurama: Vol. 1
+11812,4.51479009675335,Million Dollar Baby
+4847,4.51103210454933,Glory
+10686,4.50928022875912,The Twilight Zone: Vol. 23
+2756,4.50769799124659,Tenchi Muyo
+17087,4.50633427771496,Doctor Who: Seeds of Death
+11124,4.50293501481391,21 Up
+6971,4.497871545724,Ferris Bueller's Day Off
+11965,4.49621255645145,Madea's Family Reunion (Stage Play)
+7516,4.49616356984173,Hidden Fortress
+11236,4.49265581321919,Quantum Leap: Season 2
+13608,4.49024236742548,A Woman Called Moses
+14941,4.4890418996365,Vandread
+17522,4.47830651347927,Cross Creek
+2985,4.476933531825,There's Something About Mary: Special Edition: Bonus Material
+2601,4.47289478485668,Best of The Muppet Show: Peter Sellers / John Cleese / Dudley Moore
+2913,4.46551333034397,Finding Neverland
+14185,4.45536141891528,Mary Poppins
+3269,4.45480091452962,The Longest Day
+9528,4.45103272180012,12 Angry Men
+12125,4.45013698265767,The Blue Planet: Seas of Life: Open Ocean - The Deep
+10080,4.44870814990347,Six Feet Under: Season 2
+12855,4.44562332938769,Tom and Jerry: Hijinks and Shrieks
+6085,4.44519770150247,M
+14320,4.44142738000842,MASH: Season 2
+7537,4.43984906859731,The Wolf Man / Frankenstein Meets the Wolf Man: The Legacy Collection
+15183,4.43893951100743,MASH: Season 4
+1213,4.43645675835165,VeggieTales: Madame Blueberry
+15201,4.43603169650906,The Atomic Cafe
+7577,4.43415563743506,Horatio Hornblower: The New Adventures
+3742,4.4316454069139,Notorious
+8842,4.42957156641715,Walking with Dinosaurs: Bonus Material
+13614,4.42822135422723,Office Space
+3032,4.42679024151805,The Adventures of Robin Hood: Bonus Material
+2682,4.42477469821421,Million Dollar Baby: Bonus Material
+12202,4.42456189873262,Ray Charles in Concert
+3941,4.41431474299875,The French Connection: Bonus Material
+2886,4.40996692466515,Grateful Dead: View from the Vault 4
+9819,4.40692596408265,Macross Plus
+4405,4.4019736914789,In Living Color: Season 3
+15214,4.4011837694263,Il Posto
+8107,4.39988453552435,Predator: Collector's Edition
+7557,4.39433608035677,The Outer Limits: The New Series: Time Travel and Infinity
+8654,4.39173545207017,Sherlock Holmes: The Hound of the Baskervilles
+8692,4.38678894388339,Shania Twain: Up Close and Personal
+13015,4.38299783754638,The Lost Boys: Special Edition
+14506,4.38259319398759,Doctor Who: The Five Doctors
+12159,4.3817186717544,The Tuskegee Airmen: They Fought Two Wars
+6650,4.38043424915997,Dragon Ball Z: Lord Slug
+11391,4.37713073321655,The Work of Director Michel Gondry
+7148,4.37371479675832,Doctor Who: The Ribos Operation
+3147,4.37352927652232,The Twilight Zone: Vol. 25
+3702,4.36767710025028,Halloweentown High
+7244,4.36719178386881,History of Rock 'N' Roll
+10662,4.36715550501824,Akira
+14807,4.36698546191179,Sharpe 13: Sharpe's Justice
+7823,4.36663615237817,Monty Python's The Meaning of Life: Special Edition: Bonus Material
+4385,4.36498838412111,Sharpe 5: Sharpe's Honour
+14361,4.36166088936968,SpongeBob SquarePants: Absorbing Favorites
+14198,4.36081288520859,Trainspotting: Collector's Edition
+15475,4.36058232945456,The Ox-Bow Incident
+17310,4.3595501725111,Bob Marley: The Legend Live
+8526,4.35948452390727,The Guns of Navarone
+6939,4.35674456828553,Living Planet
+12755,4.35505781831186,WWE: The Monday Night War
+722,4.35407163093025,The Wire: Season 1
+17642,4.34713125781426,X-Men: Evolution: Season 1
+2928,4.34624676237028,Dragon Ball Z: Captain Ginyu Saga
+359,4.3438988454559,Absolutely Fabulous: Series 5
+28,4.33924177963876,Lilo and Stitch
+4640,4.33860972880355,Rain Man
+9689,4.33813185615633,The Exorcist: Restored Version
+1123,4.33606423315137,Dragon: The Bruce Lee Story
+3541,4.32732780527598,History of the World: Part 1
+16349,4.32646782571577,Mr. Show: Season 3
+17324,4.32633625036739,Hitch
+3914,4.32573416111374,To the Manor Born: The Complete Series
+5294,4.32538224328377,Tom and Jerry: Whiskers Away!
+9946,4.32384266782159,Saturday Night Live: The Best of Will Ferrell
+17348,4.32144467466665,Andromeda: Season 3
+395,4.31953283786098,Captain Blood
+712,4.31148532219955,Homicide: Life on the Street: Season 7
+2043,4.310669869093,Shane
+13636,4.31054390413274,Fast Times at Ridgemont High
+14496,4.3055523307219,Mystery Science Theater 3000: Attack of the Giant Leeches
+7505,4.30429159075546,Fushigi Yugi: The Mysterious Play
+1061,4.30182547177272,Spider-Man vs. Doc Ock
+17182,4.30179856197554,Remington Steele: Season 1
+2954,4.30119674099126,My Favorite Year
+11839,4.30083943733494,Mark Twain
+8678,4.3000926880354,Charmed: Season 1
+7511,4.2973583781473,Blade
+14177,4.29641466997092,The Three Stooges: Spook Louder
+851,4.29455373708621,Back to the Future Part III
+7400,4.29102955292931,Inspector Morse 19: Greeks Bearing Gifts
+916,4.28798511406461,Earth 2: The Complete Series
+9567,4.28721551661963,Mystery Science Theater 3000: Overdrawn at the Memory Bank
+1488,4.28352303461892,King of the Hill: Season 4
+6756,4.27856903172024,Absolutely Fabulous: Series 1
+1744,4.27629696421611,Beverly Hills Cop
+3685,4.2721043673783,Scooby-Doo's Spookiest Tales
+12946,4.27201649749546,Mystery Science Theater 3000: Hercules Unchained
+6228,4.27102113201135,Best of the Chris Rock Show: Vol. 2
+16311,4.2660201616839,Scooby-Doo's Greatest Mysteries
+12180,4.26594015123017,The Outer Limits: The Original Series: Season 2
+2232,4.26200701912099,Ken Burns' America: Thomas Hart Benton
+16545,4.25581484422904,Fairly Oddparents: Superhero Spectacle
+13964,4.25554008985918,Desk Set
+17536,4.25518092988855,Northern Exposure: Season 2
+9337,4.25478424766003,Three's Company: Season 4
+15507,4.25231653632262,State Fair
+4768,4.25135098235755,WWE: Survivor Series 2003: A Fall from Grace
+12184,4.25101486418571,Sex and the City: Season 5
+15568,4.25038844364929,Cheers: Season 3
+5369,4.25037146430495,Sanford and Son: Season 3
+10255,4.24886588114827,An Affair to Remember
+13899,4.24581336998462,Mohabbatein
+2079,4.24334291046918,Family Viewing
+12824,4.24278634130213,4 Little Girls
+8677,4.23918845673929,The Apartment
+11237,4.23614870900713,Hercules: The Legendary Journeys: Season 3
+9867,4.23106501750248,Fairly Oddparents: Scary Godparents
+11292,4.22632020714409,Little Women
+259,4.22586648003031,Animal
+2503,4.22395708152216,Mystery Science Theater 3000: Red Zone Cuba
+5898,4.22345932903879,Mystery Science Theater 3000: Hercules Against the Moon Men
+5484,4.22237185136061,Har dil jo Pyar karega...
+442,4.22162128144287,Mississippi Burning
+1202,4.22105927247836,National Lampoon's Vacation
+543,4.21697507940094,Roughnecks: The Starship Troopers Chronicles: The Pluto Campaign
+2808,4.21639715245791,Gidget
+7858,4.2072474342472,Burst Angel
+15662,4.20653737222258,The Killing Fields
+2110,4.20558604065531,Alien Quadrilogy: Bonus Material
+10743,4.20508650092013,Pearl Jam: Touring Band 2000
+13989,4.20422739532811,Queen: Greatest Video Hits 2
+10810,4.20410851786453,Dragon Ball: General Blue Saga
+3590,4.20392137079148,Jason and the Argonauts
+5963,4.20374270667849,The Gold Rush
+4129,4.2024728516425,Santa Claus Is Comin' to Town
+9805,4.20173834257771,The Absent-Minded Professor
+4049,4.20107107400873,Torch Song Trilogy
+12246,4.2001639798133,Rebel Without a Cause: Special Edition
+14272,4.19872611286469,The Dukes of Hazzard: Season 2
+10284,4.1949483712027,Doctor Who: The Power of Kroll
+13783,4.19388548426614,Fist of the North Star
+5562,4.19046864812337,Ladyhawke
+3232,4.19036924254217,The Enforcer
+5408,4.18843637947586,Star Trek VI: The Undiscovered Country: Bonus Material
+7812,4.18801062374126,Freaks
+2660,4.18789477448751,When Harry Met Sally
+3107,4.18742200008762,Mulan
+3955,4.18678605932966,The Horse Soldiers
+7801,4.1866204238039,The Abyss: Bonus Material
+10800,4.18599822095158,Dark Shadows: Vol. 7
+923,4.18570743818433,Giant Robo
+13878,4.18463267839203,Sanford and Son: Season 5
+1644,4.18270864168275,Tom Dowd and the Language of Music
+3285,4.17860475534173,Flight of the Navigator
+11616,4.17448881209355,A Summer's Tale
+11613,4.17351795645084,The Man with the Golden Gun
+2418,4.17305990775762,Sink the Bismarck
+12875,4.1730545386723,Treasure Island
+16329,4.1678516289026,The Golden Voyage of Sinbad
+12993,4.16445719869655,The John Wayne Collection: Vol. 3: The Dawn Rider / The Trail Beyond
+11888,4.16443795004776,In the Line of Fire
+15992,4.16324941613752,The Lone Gunmen: The Complete Series
+6110,4.16242739639019,It's a Mad
+6408,4.16223160104515,Good Morning
+992,4.16209713873997,The Cowboys
+13107,4.1606033565739,Touch of Evil
+16540,4.15779573915873,The Others: Bonus Material
+9482,4.15746897117864,Inspector Morse 23: The Death of the Self
+642,4.1565871137972,Mystery Science Theater 3000: The Hellcats
+5656,4.15506592452129,Star Trek IV: The Voyage Home
+16731,4.15350119757667,Moonlighting: Seasons 1 & 2
+4432,4.15332221803367,The Italian Job
+11563,4.15268487151696,Dragon Ball Z: Imperfect Cell Saga
+16685,4.15049864350582,The Battle of the Bulge: World War II's Deadliest Battle
+5970,4.15007380479574,Dead Again
+13270,4.14999578048092,Gigi
+6748,4.14974813586452,When Trumpets Fade
+5552,4.14854521675222,Mobile Suit Gundam SEED the Movie 2: The Far-Away Dawn
+3740,4.14813513431679,Dracula
+5958,4.14510991637555,Noises Off!
+6400,4.14375994263039,Catch Me If You Can: Bonus Material
+6666,4.14193023401485,The Frighteners
+11056,4.1415400074474,Duran Duran: Greatest
+1629,4.14033269299483,Sesame Street: 1-2-3
+10777,4.13987875986038,Battle Athletes Victory: Vol. 3: Tragedy & Triumph
+13563,4.13980024202242,Master with Cracked Fingers
+12280,4.13518556510496,The Jerk
+6985,4.13441844826334,Real Life
+10350,4.13419856188573,Love on the Run
+17174,4.13042073990414,Maria Full of Grace
+3977,4.13014771344193,National Geographic: The FBI
+9993,4.12931732653802,The Big O II
+10774,4.12834505124127,Taxi Driver
+8017,4.12750834645242,The Munsters: Season 1
+13877,4.12542784630352,Elvis: Aloha from Hawaii
+2342,4.12445178759431,Super Size Me
+15033,4.12324208634636,The Greatest Story Ever Told
+17411,4.1220607745972,How to Marry a Millionaire
+8851,4.12152208822195,Rounders
+14258,4.12077684213851,Peeping Tom
+6743,4.12075944709457,Scars of Dracula
+15714,4.1200603445296,Wild Zero
+7186,4.11862594041398,Jeffrey
+10734,4.11861985223865,The Last Emperor
+10428,4.11740822850512,Splash: 20th Anniversary Edition
+14836,4.11499433796291,Care Bears: Bears Share a Scare
+13927,4.11331293380275,Door to Door
+9728,4.11232560515239,As Good as It Gets
+6541,4.1115361382547,The Andy Griffith Show: Vol 2: The Big House / A Wife for Andy
+12894,4.11061905265591,The Time Machine
+10851,4.1093164624894,Red River
+13477,4.10843479840773,Stephen King's The Shining
+15469,4.1081189989681,Steel Angel Kurumi
+12639,4.107252570309,An American in Paris
+949,4.10543807198261,Henry Fool
+16396,4.10339782540068,Ranma 1/2: Ranma Forever: Vol. 4: Rock a Bye Ranma
+9423,4.10323092702673,Faces
+16854,4.10193816359557,Die Hard: Bonus Material
+13802,4.10171861286461,Zone of the Enders: Dolores
+16707,4.10086680335947,Old School
+5727,4.09781342195111,The Last Starfighter
+10104,4.09741870470078,The Young Master
+12482,4.09457972790463,Scooby-Doo and the Witch's Ghost
+6892,4.09395017567259,Doctor Who: The Visitation
+6424,4.09394630703954,As Time Goes By: Series 3
+16162,4.09366893308237,Kim Possible: The Secret Files
+16559,4.09330634386742,Red Green: Stuffed and Mounted 1
+11567,4.092522470873,Death Hunt
+16451,4.09250143701968,Same River Twice
+15716,4.09158547670561,Three's Company: Season 2
+14100,4.09087626716065,Maxim: The Real Swimsuit DVD: Vol. 1
+16797,4.08888499131879,Dragon Ball: The Saga of Goku
+14072,4.08776247700092,Dragonslayer
+10959,4.08688327767901,Dorothy L. Sayers Mysteries: Gaudy Night
+2130,4.08679605176521,Citizen X
+15830,4.0863662149292,The Gods Must Be Crazy 2
+2212,4.08251546194773,The Secret Garden
+15629,4.08224875597459,The Place Promised in Our Early Days
+11688,4.07951159717454,Heaven Knows
+16157,4.07873845329474,Chaplin Mutuals: Vol. 2
+14209,4.07871266438332,Pitch Black
+10692,4.07868663773064,Broadway: The American Musical
+14335,4.07854313498038,Barry Lyndon
+4513,4.07662216202518,Carly Simon: Live from Martha's Vineyard
+14537,4.0758765868141,Garfield and Friends: Vol. 3
+9691,4.07530723254716,ECW: The Best of Cactus Jack
+14144,4.07530096765363,Suicide Kings
+2755,4.07490068498998,The Longest Yard
+14324,4.07462210806517,Nostradamus: His Life and Prophecies
+16784,4.07449024349543,The Sisterhood of the Traveling Pants
+3274,4.07387605799861,Half Baked
+507,4.07335183549546,Nevada Smith
+10319,4.07129605921003,Ray Charles: Line in Concert with the Edmonton Symphony
+9920,4.06969883361247,Superman Cartoons
+2955,4.06913731032418,The Commitments
+13186,4.06749431116033,Neon Genesis Evangelion: Death and Rebirth
+4485,4.06635859302656,House of Wax / The Mystery of the Wax Museum
+1559,4.0660856368557,AFI's 100 Years
+15676,4.06357744348129,Sherlock Holmes: Terror by Night
+7495,4.06352902892013,This Island Earth
+361,4.06279828693984,The Phantom of the Opera: Special Edition
+5284,4.06240207045499,Linkin Park/Jay-Z: Collision Course
+13651,4.06201676789642,Air Force One
+16986,4.06080434652729,Oliver Twist
+14407,4.06050140945584,The Last Castle
+8392,4.05851941465547,The American President
+3281,4.05833461828016,Larryboy: Leggo My Ego
+14492,4.0582177841616,Forever Knight: The Trilogy: Part 2
+8085,4.05776042158834,Star Blazers: Series 1: The Quest for Iscandar
+10127,4.05690703891238,Underdog: Nemesis
+4496,4.056702547763,Farewell My Concubine
+2160,4.05641505052894,Magnetic Storm: Nova
+2015,4.05606775146661,Talk to Her
+4902,4.05367624646985,Young Sherlock Holmes
+7387,4.0534878669811,Repulsion
+3587,4.04973020320399,Abbott & Costello Meet the Mummy
+3727,4.04856009193405,Rich and Famous
+4918,4.0475074318415,Slayers Try DVD Collection
+1868,4.04719957316679,Mad Monster Party
+14983,4.04569451521334,Camelot
+12291,4.04546974120919,Legend of the Lost
+10188,4.0438661570643,Mysteries of the Deep: Legendary Shipwrecks: Last Voyage of the Lusitania
+11261,4.0427978159045,Secret Agent
+7145,4.04148232111609,Star Trek III: The Search for Spock
+8561,4.03993232667697,Adventures of Captain Marvel
+1757,4.03921498822777,The Lord of the Rings
+1484,4.03745026997121,Fiend Without a Face
+14457,4.03599079048801,What's Love Got to Do with It
+1615,4.03468532087951,The American President
+9701,4.03398238500075,Radiohead: 7 Television Commercials
+4299,4.03254096263282,Knight Rider: Season 1
+174,4.03193298064846,Adam-12: Season 1
+9202,4.02901015333545,It Happened at the World's Fair
+13387,4.02805870364206,Duran Duran: Sing Blue Silver
+11007,4.02749035490275,Infernal Affairs II
+11835,4.02666026571659,Tragic Hero
+12544,4.02554569775259,Peter Gabriel: Play: The Video Collection
+8512,4.02481086195476,The World Is Not Enough
+6172,4.02141787674347,The Best of Insomniac: Uncensored: Vol. 2
+8448,4.01925416524941,The Incredible Hulk
+1425,4.0180546858896,No Way Out
+409,4.01613936107957,Godzilla vs. The Sea Monster
+14645,4.01528885778233,Behind the Lines
+16410,4.01405501121292,The Hammer Horror Series: Brides of Dracula / The Curse of the Werewolf
+8770,4.01388278527292,Cadfael: The Holy Thief
+10900,4.01140436979198,Broken Vessels
+13587,4.01132000575196,In Old California
+8315,4.01081727423643,Wicked City
+14716,4.01072237780765,Pillow Talk
+1564,4.01031158492056,The Rare Breed
+3943,4.00851328033013,Hitman
+5025,4.00829808557545,Mask: Director's Cut
+7188,4.00783180369561,Gundam Mobile Suit: Movie I: Special Edition
+16286,4.00757803377241,Red Dragon
+10349,4.00641510410467,Black Sabbath: The Last Supper
+6190,4.00569634755318,Some Kind of Wonderful
+16150,4.00551213665014,Shine
+12793,4.00535089860684,Alf: Season 2
+16705,4.00357384319762,Fresh
+11884,4.00267978138367,Scooby-Doo Meets the Harlem Globetrotters
+7458,4.00224980255258,Mummy (Documentary)
+7406,4.00163053978427,Thirteen Days
+15657,4.00069217690547,Dead Man
+10903,4.00023415285277,Mystery Science Theater 3000: The Brain That Wouldn't Die
+8825,3.99905101521923,Mad About You: Season 1
+6131,3.99835190047461,Wizards
+9890,3.99736345214561,National Geographic: Egypt Eternal: The Quest for Lost Tombs
+6467,3.99721581163818,Bonanza: Season 2 Two-Pack
+10747,3.99689820079224,Can't Buy Me Love
+12170,3.99668742189968,Duel to the Death
+15816,3.99579374422501,Ronin
+5943,3.99535504207829,The Life and Times of Judge Roy Bean
+1848,3.99489533572351,Samurai Trilogy 3: Duel at Ganryu Island
+15428,3.99174255262231,The Last Samurai: Bonus Material
+1889,3.99111676783987,The Pirates of Penzance
+12292,3.98928963078264,The Secret of Roan Inish
+9481,3.98783404367025,Deliverance
+2909,3.98729312433423,Treasure Hunt
+13744,3.98647528960243,The Chosen
+14244,3.98644467836372,Doctor Who: Doctor Who and the Daleks
+8039,3.98376499952853,Saturday Night Live: 25 Years of Music
+6529,3.98272735265776,Three's Company: Season 1
+5143,3.98055849884509,Shadows
+12969,3.98036303611579,Great Trains of America: Western Railroading
+14484,3.97892058281897,The Naked Gun
+11182,3.97872300656694,Master and Commander: The Far Side of the World
+14904,3.97783078886721,Rivers and Tides
+14086,3.97782969401506,Dawson's Creek: Season 3
+14518,3.97715627801437,WWE: Unforgiven 2005
+960,3.97714797333276,The Unforgiven
+6619,3.9755201996987,Slayers Next DVD Collection
+2355,3.9754878508019,Berlin: Symphony of a Great City / Opus 1
+15115,3.97513918960944,Horror Hotel
+834,3.9742235971911,Niagara: Miracles
+3057,3.97347421019594,UFC 43: Ultimate Fighting Championship: Meltdown
+3054,3.97345617195772,I'm Not Scared
+638,3.97317290157269,The Last Dragon
+13489,3.97269321576934,Attila
+2640,3.97151194895721,The Spanish Prisoner
+6086,3.96994661337858,Battling Butler
+12795,3.96936637537211,Salvador
+1901,3.96878725675085,Cheech & Chong's Up in Smoke
+15276,3.96876300913668,The Land Before Time X: The Great Longneck Migration
+5877,3.96810140447051,George Washington
+5149,3.96800670161294,The Great Mouse Detective
+15464,3.9676095554412,Further Tales of the City
+12607,3.96706856919136,Flame of Barbary Coast
+15409,3.96700664959336,Eurotrip
+14808,3.9663076957077,Viva La Bam: Seasons 2 and 3
+16670,3.96543805562464,Grand Hotel
+14430,3.96530826026019,Black Widow
+8951,3.96514422841354,Floating Weeds
+10391,3.96470206522232,The Bridge
+11238,3.96397848162541,The NBA's 100 Greatest Plays
+7638,3.96387902253349,Saturday Night Live: The Best of Tom Hanks
+13887,3.9636482290818,The Princess Diaries 2: Royal Engagement
+2168,3.96338747828434,Upright Citizens Brigade: Season 1
+2789,3.96236381000932,Gus
+636,3.96131900006536,Stir Crazy
+3073,3.96088461599323,Ballykissangel: Series 2
+12863,3.95976946726019,Tidal Wave: No Escape
+10561,3.95836118348366,Ice Princess
+5327,3.95823116237233,Guess Who
+13326,3.95815272536497,House of Games
+6252,3.95647430219074,Ghost Stories #2
+8703,3.95641786702034,Margaret Cho: Revolution
+2757,3.95515093631856,Back to School
+443,3.95472338379934,Rabbit-Proof Fence
+6287,3.95457150776788,Pretty Woman
+6482,3.95434927023118,Gremlins
+2106,3.95395658755814,Bon Jovi: Live From London
+5748,3.95266869235003,Variable Geo
+2643,3.94745247372248,Carolina
+3165,3.94575681658109,Dirty Rotten Scoundrels
+6446,3.94529056253378,NFL Super Bowl XXXVII
+8428,3.94489977802763,The Original Kings of Comedy
+9093,3.94413071488996,Serial Killing 101
+7968,3.94381607477626,The Magnificent Seven Ride
+16082,3.94309679057496,13 Going on 30
+15632,3.94199014216866,Lou Reed: Rock & Roll Heart
+2083,3.94177393536144,Blood Alley
+12538,3.94173847096443,The Black Cauldron
+15160,3.94105596105147,Our Man Flint
+16563,3.94043888082658,Asunder
+6830,3.93986046509443,The 1964 World's Fair
+3546,3.93959767080377,Speed Racer
+15841,3.93819086069984,Watership Down
+4849,3.93780097093794,Taps
+4518,3.93665452867185,The Beatles: Washington D.C. Feb. 11th
+11887,3.93594737393306,Operation Condor
+9025,3.93553557502817,City Hunter
+15051,3.93417046135029,Fighter Pilot: Operation Red Flag
+5206,3.93407432313632,Daria: Is it College Yet?
+13451,3.93370942723854,The Player
+9130,3.93231394663919,A Chinese Ghost Story 2
+3903,3.93128823826415,PCU
+15785,3.92976462605135,Mystery of the Maya: IMAX
+849,3.92950613906829,Mr. & Mrs. Bridge
+8166,3.92948765020735,The Care Bears Movie
+14732,3.92901851122675,Butterfly
+11041,3.92877857857751,The Weather
+14459,3.92857817582072,Uncle Buck
+7551,3.92794471834445,Primus: Animals Should Not Try to Act Like People
+13934,3.92777143715655,A Place in the Sun
+7763,3.92706613777695,La Cage aux Folles
+2773,3.92673971173087,Cleopatra Jones
+2298,3.92673197574901,Yngwie Malmsteen: Live!
+10792,3.92655747289608,Dora the Explorer: Egg Hunt
+7973,3.92410040436695,The Sum of Us
+11463,3.92367607491839,Deranged / Motel Hell (Double Feature)
+11158,3.92324446536327,Fatal Instinct
+17423,3.92071074926698,The Five People You Meet in Heaven
+7257,3.92050552071208,Remo Williams: The Adventure Begins
+11505,3.91999594727593,H.H. Holmes: America's First Serial Killer
+4002,3.91979190601636,Cosplay Complex
+1076,3.91961302891042,American Chopper: Season 2
+1675,3.91894381246312,Oasis: There and Then
+4268,3.91774235434918,Double
+12757,3.91715251823039,Patlabor 2: The Movie
+2198,3.91713960379988,Betrayed
+595,3.91653808971906,Monarch of the Glen: Series 2
+15449,3.91526342578822,Man of the House
+5699,3.91509170018372,Joshua
+16262,3.91446427402497,Assault on Precinct 13
+1803,3.9142331205246,Alien: Resurrection: Collector's Edition
+13604,3.91391597887932,Monster Garage
+16931,3.91388641555456,The Tigger Movie
+4552,3.91211195099284,Laverne & Shirley: Season 1
+9028,3.9116704980233,Jersey Girl
+1853,3.91131404508204,Death Wish
+7916,3.91120846864347,Tibetan Book of the Dead
+13328,3.91050306111555,Death and the Maiden
+6281,3.91027905875345,The Adventures of Priscilla
+606,3.91008920285856,Quatermass and the Pit
+8029,3.90975852931806,Dora the Explorer: Catch the Stars
+12199,3.90917340113891,Secrets of War: Nazi Warfare
+10077,3.90879700122166,The Snake Pit
+3705,3.90829414795694,Directors: Martin Scorsese
+6946,3.90804468341412,Eating Out
+5556,3.907560075827,Silk Stalkings: Season 1
+5785,3.90385258090446,The Cars: Live
+16733,3.90366224672537,Mona Lisa
+2905,3.90163579980499,Croupier
+7408,3.9013803464563,Burn Up Scramble
+13,3.9,Lord of the Rings: The Return of the King: Extended Edition: Bonus Material
+69,3.9,WWE: Armageddon 2003
+91,3.9,WWE: Royal Rumble 2005
+84,3.9,The Powerpuff Girls Movie
+118,3.9,Rambo: First Blood Part II
+191,3.9,X2: X-Men United
+209,3.9,Star Trek: Deep Space Nine: Season 5
+252,3.9,Stuart Little 2
+263,3.9,Dragon Ball: Tournament Saga
+281,3.9,The Legend
+290,3.9,Harold and Kumar Go to White Castle
+289,3.9,The Avengers
+295,3.9,Ace Ventura: When Nature Calls
+313,3.9,Pay It Forward
+362,3.9,The Flintstones in Viva Rock Vegas
+468,3.9,The Matrix: Revolutions
+483,3.9,Rush Hour 2
+564,3.9,Predator 2
+607,3.9,Speed
+5921,3.89994738576853,Genesis: Live at Wembley Stadium
+13601,3.89928675160353,Hanky Panky
+6550,3.89873605259731,Outlaw Justice
+6914,3.89732322052517,The Swimmer
+7625,3.8967734272301,Young Lady Chatterley
+3613,3.89591417210837,Jack and Sarah
+9681,3.89572945657212,Heavenly Creatures
+14720,3.89429408344251,Fancy Pants
+12336,3.89391647102816,The Gauntlet
+6566,3.89313008419684,The Brave Little Toaster to the Rescue
+11107,3.89288966835351,Snake in the Eagle's Shadow
+5062,3.89281946948233,The Monster Club
+1967,3.89273355801376,Diary of a Chambermaid
+10733,3.89263895999466,She's Out of Control
+10493,3.89230352721205,Hunted
+4932,3.89204865547487,The Saint
+3359,3.89065399369769,Sam Kinison: Outlaws of Comedy
+2745,3.89064577805672,Bob the Builder: Bob's Big Plan
+12822,3.89029419731111,That's Entertainment 2
+12661,3.88929858972795,Hellraiser
+15246,3.88891729259708,Alien 3: Collector's Edition
+725,3.88648189694461,Woman Thou Art Loosed
+1609,3.88634276486113,Hunter: Season 1
+11240,3.88624226098838,Baby Einstein: Language Nursery
+6466,3.8861920174803,She
+2375,3.88603138931278,Fletch Lives
+8781,3.88598215696398,Quest for Camelot
+15915,3.88469535355213,Danger Man: Season 1
+17706,3.88357839842868,Najica Blitz Tactics
+11851,3.88285111917773,The Yearling
+10019,3.88263504290152,Metropolis
+7906,3.88256667939508,NFL Films Super Bowl Collection: Super Bowl I-X
+10034,3.88203274251316,Miss Julie
+16629,3.88136289570121,Easy Money
+17290,3.88103427941174,The Paleface
+9997,3.880938349763,Oh God! You Devil!
+11295,3.88066977571521,Perfect Blue
+14611,3.88045190838128,Birth of the Blues / Blue Skies: Double Feature
+16467,3.87976309910933,Alanis Morissette: Jagged Little Pill
+6406,3.87721592576628,Fighting Spirit
+14248,3.87607406285033,D2: The Mighty Ducks
+9310,3.87552207590829,The Candidate
+6912,3.87549707429417,The Taking of Pelham One Two Three
+5485,3.87454274045325,Chuck Jones: Extremes and in Betweens
+4441,3.87398623784216,The Last Supper
+17558,3.87310922529198,Kiss of the Dragon
+888,3.87304127119287,Discovering Australia
+13188,3.87300078788473,Are You Being Served?: The Movie
+9752,3.87294258098867,Dragon Inn
+7698,3.87236007002215,Children of the Revolution
+12695,3.8714899415597,Little Bear: Feel Better Little Bear
+16955,3.87145251325995,Battle of the Planets
+8493,3.87134184285947,The Rose
+8163,3.87066519665184,Two Brothers
+3638,3.87027140507537,Bad Boys II
+3893,3.87025688605055,The People vs. Larry Flynt
+5945,3.86993721935996,Home Movies: Season 1
+9107,3.86977252625034,Handel: The Messiah: Choir of King's College
+2597,3.86970984452717,The Day of the Triffids
+7022,3.86933090919628,American Buffalo
+2552,3.86709379283804,The Element of Crime
+4613,3.86665516096401,Ayn Rand: A Sense of Life
+7292,3.86563741851674,Project A-ko: Uncivil Wars
+2786,3.8653822460534,Seance
+14216,3.8653477933936,Children of Heaven
+12847,3.86387029063116,Mobile Suit Gundam SEED the Movie: The Empty Battlefield
+6395,3.86320992531763,Mutant X: Season 1
+1252,3.86305010731574,The Story of O
+7137,3.86173215047884,GateKeepers
+12627,3.86122287808751,Saturday Night Live: The Best of Jimmy Fallon
+11412,3.85932455784247,Lone Star State of Mind
+267,3.85608465351075,Touched by an Angel: Season 1
+15222,3.85563808418207,The Guyver
+13858,3.85511815634747,Dead or Alive
+15040,3.85471978272158,Rage Against the Machine
+11284,3.85447800103636,Casino
+9230,3.8534348140018,Max Dugan Returns
+11829,3.85242120136902,James and the Giant Peach
+15982,3.85066362963001,RahXephon: The Motion Picture
+11614,3.85048206894758,Flawless
+681,3.84907396107272,Police Academy 3: Back in Training
+15496,3.84904224285866,Easy Rider
+15371,3.84893757950337,Murder by Decree
+8220,3.84891502971675,Jack Benny Collection
+6872,3.84870098189768,Greenfingers
+12705,3.84821352804401,Vanished
+4190,3.84725603612705,Hugh Hefner: American Playboy
+1832,3.84636763339884,Rosemary's Baby
+11638,3.845884947115,Sliding Doors
+12100,3.84538187642059,Prime Suspect 2
+11723,3.84492653875288,For Da Love of Money
+12760,3.84416964410925,Crimes of the Heart
+718,3.84305337663076,44 Minutes
+14442,3.84295349952682,Ex-Driver: The Movie
+4061,3.84273868011778,Soft Skin
+15516,3.8424108786216,Sarafina!
+12812,3.84191654953224,Madonna: The Drowned World Tour 2001
+11867,3.84171256972362,Ed Sullivan: Rock 'n' Roll Forever
+566,3.83945972268972,Bullet
+11651,3.83726863405848,Ferngully: The Last Rainforest
+3878,3.83641451155352,Public Enemy: Live from the House of Blues
+8249,3.83572238163321,Genesis Climber Mospeada
+2028,3.83551307968058,Poison
+9747,3.83498145128052,Warm Springs
+16335,3.83366900026029,Janet Jackson: Velvet Rope Tour
+15911,3.83331151400396,War and Remembrance: Vol. 1
+9824,3.83094798828583,Street Fighter II: Animated Movie
+13055,3.83051856411522,Rocky (Hindi)
+2104,3.8298987556667,Kickboxer
+17337,3.82901634026684,Andromeda: Season 5
+16993,3.8287851976453,The Smashing Machine
+13432,3.82839814364828,The Moonlight Express
+9672,3.82827768207988,The Osbournes: Season 2 1/2
+17515,3.82813277313239,LeapFrog: Letter Factory
+9237,3.82791425907657,The Witches
+12391,3.82748600298474,Ulee's Gold
+16131,3.82675317202436,Marvin Gaye: Greatest Hits Live in '76
+12488,3.82579793354669,Inspector Morse 21: Dead on Time
+6932,3.82556210963707,Jazz on a Summer's Day
+4224,3.82525154695549,Wish Upon a Star
+9640,3.82481093988149,Detective Story
+5336,3.82434336920867,The Inkwell
+17725,3.82320051841992,Jerry Seinfeld: I'm Telling You for the Last Time
+4005,3.82191719683914,Dr. Quinn
+6901,3.82182234437209,Heaven Help Us
+13363,3.82073121794385,Saint Seiya
+14503,3.81900990099575,Wanted Dead or Alive
+8738,3.81722698515307,Grover Washington Jr.: Standing Room Only
+4761,3.81671403180217,The Cannonball Run
+14234,3.81642670591001,The Rocky Horror Picture Show: Bonus Material
+1146,3.81579192344488,Fearless Hyena 1 / Fearless Hyena 2
+3220,3.81574551462816,Xena: Warrior Princess: Series Finale
+11076,3.81556130563244,The Heroic Trio
+4627,3.81483615653309,Little Women
+16231,3.81449441759309,Unknown Jonathan Winters: On the Loose
+12778,3.81344547399133,Thelma & Louise: Special Edition
+10836,3.81302699089941,Return of the Living Dead 2
+10889,3.81276802631132,Keeping the Faith
+15410,3.81271905908944,The Dancer Upstairs
+5272,3.81195337702362,Invaders from Mars
+1983,3.8109347042754,Final Fantasy: The Spirits Within
+3355,3.81057513891207,The Ice Storm
+6523,3.80979344963144,Wildcats
+13507,3.80936484765654,Dragons of the Orient
+13909,3.80823578394945,Onibaba
+1500,3.80783919019414,Miss Marple: Collection 2
+4647,3.80748746251556,American Yakuza
+15378,3.80734149845069,Mystery Train
+8977,3.80698161015524,The Ladykillers
+8452,3.80646511026936,Roujin Z
+6318,3.80643650490493,Mr. Majestyk
+15071,3.80406958795938,The Outer Limits: The New Series: Sex and Science Fiction
+7721,3.80377007137112,The Jury
+3237,3.80291273761781,Plump Fiction
+9717,3.80150811235112,Airport
+852,3.80123720830002,Disorganized Crime
+6556,3.80080751478416,Romeo + Juliet
+2243,3.79852256867388,Alaska
+12230,3.79840273046824,Conviction
+13633,3.79794374588055,Girls! Girls! Girls!
+1134,3.79679293730357,Empire Falls
+11673,3.79576718714115,Drumline
+5069,3.79377193270729,Sleeping With the Enemy
+5364,3.79299694918576,Body Story
+7806,3.79119005107171,Classic Albums: The Band
+7736,3.79110381808009,The Train
+14810,3.79081163144365,Dolphins: IMAX
+11408,3.79072431438433,Love and a Bullet
+10589,3.78997699724012,Daphne in the Brilliant Blue
+9735,3.78856427021371,Avril Lavigne: My World
+797,3.7878305437459,Look Back in Anger
+15855,3.78772341079618,Cadet Kelly
+15122,3.78731934454733,Stan Lee's Mutants
+3733,3.7872115189561,Spencer's Mountain
+13936,3.78523579802939,Call Me Madam
+9297,3.78306420763083,Magic User's Club
+8341,3.78284374048805,Mr. North
+4144,3.78278074499249,The Brothers
+4032,3.78227118522798,Young Duke Series: The Fugitive
+6177,3.78207068499829,The Boy Who Could Fly
+911,3.78198360128626,Buck Rogers
+14077,3.78115027079824,Los Angeles Lakers: NBA Finals 2000
+4064,3.78107141552579,The Big Hit
+6911,3.78049892668725,Little Shop of Horrors
+16889,3.7799560853347,Take the Money and Run
+13787,3.77837554757136,Powder
+2794,3.7781366811584,The Curse of Frankenstein
+8162,3.77789161447133,Get on the Bus
+7247,3.77742181648042,My Chauffeur
+3706,3.77732873956902,Dixie Chicks: Top of the World
+5607,3.77701806804439,The Hunchback of Notre Dame
+16982,3.77691039179859,The Black Stallion Returns
+13298,3.77616720567067,National Lampoon's European Vacation
+11197,3.77535669830192,The Mummy's Ghost / The Mummy's Curse
+8354,3.774182812868,Da Ali G Show: Season 1
+3351,3.77127642736767,Gospel According to Al Green
+11951,3.77047885593491,Pressure Point
+11637,3.77009670096972,The Inspector Lynley Mysteries: Payment in Blood
+14199,3.76897669770342,South Pacific
+12273,3.76791010469287,Johns
+2512,3.76784247028409,Trees Lounge
+6991,3.76719719890572,A History of God
+16915,3.76657679965637,Reboot: My Two Bobs
+12421,3.76617688072219,The Crusades
+12775,3.76594549077745,A Pup Named Scooby-Doo
+16999,3.76582978157327,Charles Manson Superstar
+15772,3.76516153324454,Kikujiro
+4858,3.76513903099399,Relentless
+15121,3.76428845401949,National Geographic: Surviving West Point
+14189,3.7642295383169,Patlabor: The Mobile Police: The TV Series
+5361,3.76370981140571,Masquerade
+17635,3.76332047384559,Good Fences
+13965,3.76121770314158,Dragnet
+12503,3.75904872561569,Urbania
+3257,3.75836958870859,Takegami: Guardian of Darkness: War God
+9607,3.7582489390339,Cromartie High School
+305,3.75784033417989,Jack
+7822,3.75678044821448,Millionaire's Express
+13145,3.75615134514205,Ghulam
+16277,3.75584841623275,Terminal Countdown
+7283,3.75571393715242,Due South: Call of the Wild
+15152,3.75533602727543,Punky Brewster: Season 2
+8699,3.754781727224,Mermaids
+12178,3.7544323495352,Midsomer Murders: Beyond the Grave
+12634,3.7541885781266,Nirvana: Nevermind
+3824,3.75398283545371,Fear and Loathing in Las Vegas
+8058,3.75185386518567,Learning HTML: No Brainers
+3734,3.7511364773452,Gorgeous
+14738,3.75095242466098,Formula 51
+11316,3.74921850106024,Where the Truth Lies
+10076,3.74850933245606,WWE: John Cena: Word Life
+17447,3.74848023648355,The Angry Red Planet
+3881,3.74845793969151,The Lost Skeleton of Cadavra
+6871,3.748149861012,Disney Princess Sing-Along Songs: Once Upon a Dream
+14372,3.74809747709428,Brief Encounter
+287,3.74708283132498,Luther Vandross: Always and Forever: An Evening of Songs
+13377,3.74673344145288,Winter Light
+13831,3.74634713079189,Unfaithfully Yours
+15567,3.74568008828725,Grateful Dead: Ticket to New Year's
+16599,3.74516059647689,Grappler Baki
+15955,3.74409185981188,Pollock
+8096,3.74245456575256,Mountains of the Moon
+2147,3.74212779327796,Tupac Vs.
+16788,3.74022659271881,Blast from the Past
+13431,3.73985274580573,Kora Kagaz
+4901,3.73947234785668,Aa Ab Laut Chalen
+2039,3.7391169154092,No Doubt: Rock Steady Live
+1523,3.73903096436391,Dynasty: Season 1
+5623,3.73795098926285,Daredevil: Bonus Material
+11786,3.73767172335183,Murder One: Season 1
+3135,3.73628943652552,Frankie and Johnny
+4566,3.73566809598774,LeapFrog: Math Circus
+14013,3.73551476082812,Tom Jones
+16153,3.73542256328733,Big Eden
+16928,3.73438655905176,JFK: A Presidency Revealed
+11732,3.73429036740702,Good Boy!
+2103,3.73359457527819,Sunshine
+8718,3.73321860552658,Dead Silence
+8128,3.73314618005826,Five Card Stud
+518,3.7324153723313,The Prime of Miss Jean Brodie
+2859,3.73190692659096,Flip Wilson
+16444,3.7318955591479,Over the Top
+14096,3.73065520089418,Step Into Liquid
+2528,3.7304558271111,Arachnophobia
+17082,3.73023803962375,Nostradamus
+15085,3.72983855943674,The BRD Trilogy: Veronika Voss
+14826,3.72880327112446,Secret Honor
+9817,3.72850146312712,Juggernaut
+16770,3.7280530746433,Happy
+5901,3.72795812352535,The Forgetting: A Portrait of Alzheimer's
+16606,3.7278612634411,Fear
+3253,3.72685147474635,The Opposite of Sex
+2818,3.72676625168116,The Police: Every Breath You Take
+1406,3.72580938749007,Hook
+6885,3.7245740261443,Seasons: IMAX
+15331,3.72453375292588,The Bela Lugosi Collection: Murders in Rue Morgue / The Black Cat / The Raven
+9043,3.72336075825692,Arthur
+15539,3.72289368745348,Suicide Club
+14505,3.72283407266255,The War
+2352,3.72195519702724,Youngblood
+930,3.72083445361662,Back to the Beach
+14560,3.7204240777478,Kon-Tiki
+12423,3.7200726132737,Dr. Quinn
+9798,3.71973454397552,A Civil Action
+1825,3.71794912062519,L'Age D'Or
+229,3.71779516547621,Peter Gabriel: Growing Up Live
+14947,3.7175690296363,Bombay
+6291,3.71663786233425,King Kong
+15165,3.71514882558946,100 Women
+17304,3.71476666337043,Eurythmics: Greatest Hits
+7919,3.71458593172109,Niagara
+17358,3.7142035917495,Narc
+4963,3.71356288710991,Grateful Dead: View from the Vault 2
+1432,3.71351908337131,Ride with the Devil
+7262,3.71286726658253,War and Peace
+4546,3.71223246420314,Chasing Liberty
+4840,3.71081111679852,Kaena: The Prophecy
+3559,3.71032622191932,Cowboys & Angels
+15576,3.70942329964528,Bad Girls
+3151,3.70728407984096,Napoleon Dynamite
+12046,3.70621874552415,Depeche Mode: One Night in Paris: The Exciter Tour 2001
+2995,3.70579481528608,Things I Left in Havana
+1305,3.70478990975223,Thirteen
+16996,3.70455425457936,Jack Frost (Animated)
+9376,3.70452529778022,This Land Is Your Land: The Folk Years
+11027,3.70414667571695,Love After Death
+13046,3.7040925286902,Mysterious Skin
+17574,3.7040496326326,Eye for an Eye
+6389,3.70297535075553,Colonial House
+14154,3.70297142030555,Don't Be a Menace to South Central While Drinking Your Juice in the Hood
+3229,3.70256447242399,Dinotopia
+11003,3.70172852747972,A Certain Kind of Death
+452,3.70136066733012,Scorched
+9953,3.7007213155063,The Science of Magic
+4981,3.70058704247686,Dracula
+13682,3.69965056534505,Karajan / Mutter: Beethoven: Violin Concert
+12232,3.6992302972173,Lost in Translation
+6965,3.69845035690378,Robinson Crusoe
+10429,3.69782266002491,Final Destination 2
+17653,3.69778561497084,The Accidental Spy
+7517,3.69712542953697,Before Sunrise
+1779,3.69712539111275,Led Zeppelin: Inside Led Zeppelin 1968-1972
+5640,3.69622994569272,Once a Thief
+12497,3.69608869344801,Bring It On
+10870,3.69591670654335,Charles Bronson: Chino / Man with a Camera
+14575,3.69476922710927,Quiet Days in Clichy
+8488,3.69463251369747,Winnie the Pooh: ABC's
+8052,3.69437447686717,Emmanuelle's Intimate Encounters
+647,3.69435661706201,Cinderfella
+1557,3.69372661053672,Dolls
+96,3.69195981056273,Inside the Space Station
+1007,3.69162239853367,America's Dream
+1046,3.69146062809433,Uptown Girls
+15592,3.69125203337195,Camp Nowhere
+11213,3.69062740430228,Apt Pupil
+4160,3.68847196194143,Dead Man's Walk
+7077,3.68765604729604,To Die For
+1944,3.68693658735513,Gall Force: Vol. 1: Eternal Story
+626,3.68673957170609,They Died with Their Boots On
+15257,3.68658968816826,Lost Highway
+14932,3.68550926530756,Saturday Morning with Sid & Marty Krofft
+16790,3.6845990871301,The Grinch
+15515,3.68449315786016,Belly
+13912,3.68425928577613,The Harder They Fall
+4429,3.68345165640766,Undisputed
+7437,3.68322463665558,The Rachel Papers
+17640,3.6820040191486,Unsolved Mysteries: Bizarre Murders
+3301,3.68171916142411,Burnt by the Sun
+5026,3.68093798844065,Kathy Griffin: Allegedly
+1104,3.68085876033262,Krull
+6448,3.68081783506753,Circuit
+7656,3.68081737253061,George Michael: Ladies & Gentlemen: The Best of George Michael
+15582,3.68055346227039,Sweet Home Alabama
+3861,3.68051834372219,Jekyll & Hyde: The Musical
+7075,3.68035213934552,The Cosmic Man
+13099,3.67796652311366,The Spiral Staircase
+13905,3.67759773786867,Captain Kronos: Vampire Hunter
+9404,3.67752235211813,WOW Gospel 2004
+3143,3.67677200062506,King Solomon's Mines
+92,3.67619113619846,ECW: Cyberslam '99
+5799,3.6760635349545,Jackie Chan's Project A
+8207,3.67595132410293,Discovering Egypt
+6014,3.67441644158823,House of Wax
+6234,3.67399600924852,Catch That Kid
+8200,3.67381125496448,The Right Temptation
+2518,3.6732865562336,Things to Do in Denver When You're Dead
+8582,3.67287604426257,Big Shot's Funeral
+14995,3.67272456516389,GWAR: Phallus in Wonderland
+4042,3.67211313913991,Pretty Baby
+10750,3.67181194416375,Survivor: Season 2: The Australian Outback
+10024,3.67067244884365,Hello Again
+4346,3.67064332727741,The Last American Virgin
+14429,3.67015421629671,The Inspector Lynley Mysteries: A Cry for Justice
+4876,3.66955420168905,Vegas Vacation
+1367,3.66893855262086,The Piano
+3584,3.66883577225758,A Private Function
+13242,3.66815716170514,Audrey Rose
+8121,3.66626500808259,Search for the Great Sharks: IMAX
+12623,3.66503778870068,The Way Home
+7382,3.6650156055249,WWE: Tombstone: The History of the Undertaker
+11312,3.66474430795134,Mystery Kids
+5883,3.66406292660626,My Voyage to Italy
+9617,3.66308610081114,Stepmom
+2969,3.6620827551429,The Suspect
+5123,3.66158751768009,Darkside Blues
+795,3.6607686369386,Landmarks of Early Film
+13334,3.66057686025106,Catfish in Black Bean Sauce
+13339,3.6600628721448,No Small Affair
+15610,3.66000512417983,The Prowler
+2460,3.65999263009109,Cujo
+878,3.65998311137634,Short: International Release #2
+10978,3.65990373174625,Cartoon Crazys Goes to War
+13561,3.6596270107703,Monsieur Ibrahim
+5129,3.65945725313675,Permanent Record
+3149,3.65902986674249,Pompeii: The Last Day
+16689,3.65805646800524,The Wind Will Carry Us
+4215,3.65638877386612,Alfred Hitchcock: Rich and Strange/The Sorcerer's Apprentice
+4257,3.65524262792409,French & Saunders: Living in a Material World
+3022,3.65454799948306,Wanted: Dead or Alive: Season 1
+15529,3.6526060049524,Money Talks
+3538,3.65109309074147,Beaches
+11317,3.6484572240694,Me Without You
+8657,3.64743459056294,Bob Dylan: World Tour 1966: The Home Movies
+16555,3.64648991947593,Midsomer Murders: Destroying Angel
+12682,3.64638120674817,Candyman
+17561,3.64579965732691,I'm With Lucy
+17196,3.64571165665716,Bird
+12920,3.64560262777671,Attack the Gas Station!
+2506,3.64498436994604,Inspector Morse 15: Masonic Mysteries
+16820,3.64346289136789,Paul Simon: You're the One: In Concert from Paris
+16975,3.64198349103227,Dimples
+218,3.64126136787641,Triumph: Live at the US Festival
+17107,3.64107638741428,The Ghost Breakers
+6336,3.63968028970847,The Crying Game: Collector's Edition
+7273,3.63956786124496,Mayor of the Sunset Strip
+14643,3.63636973274418,3: The Dale Earnhardt Story
+16572,3.63491564177958,The Perfect Score
+16066,3.63436065841983,Save the Green Planet!
+8919,3.63399025704552,Cardcaptor Sakura
+8905,3.63343065248503,Knight Hunters
+13606,3.63240356636357,Deewaar
+6069,3.63203274251316,Love Film
+16902,3.63203274251316,The Mad Adventures of Rabbi Jacob
+13569,3.63173716256346,Die Mommie Die
+6226,3.63013261406872,Juliet of the Spirits
+10321,3.63010473511652,Upstairs
+8307,3.62959122548657,Franklin and the Green Knight: The Movie
+9530,3.62954998472449,Vietnam: We Were Heroes 1st Cavalry Division Airmobile
+14712,3.62854041765845,Tomb Raider
+1313,3.6267995747744,The Wiggles: Wiggle Time
+2053,3.62440688849522,Ground Control
+15532,3.62433095644713,She's All That
+6215,3.62360074835519,Dragons: Fire and Ice
+11348,3.62348016580003,Carmen Electra's Fit to Strip
+655,3.62296891665162,Green Acres: Season 1
+17090,3.62286358307918,NFL: Super Bowl XXXIX
+12780,3.62283611475928,Alexander: Director's Cut: Bonus Material
+9187,3.62260120474568,Sacred Planet
+13817,3.62221096054058,Troma's War
+10237,3.62209893973441,All About Ah-Long
+17624,3.62141706300434,Free Willy 2: The Adventure Home
+5849,3.62079494556998,Superstars of '70s Soul Live
+10735,3.6206095346051,Meat Loaf: Live with the Melbourne Symphony Orchestra
+14380,3.61875501795285,Born to Be Bad
+15929,3.6182534490352,Shining Through
+11837,3.61749601821464,Three Men and a Baby
+16344,3.61701192344316,Wonderland
+318,3.61679502517936,Beyond Suspicion
+7768,3.61507195397638,The Berenstain Bears: Adventure & Fun for Everyone
+2749,3.61388772475665,The Big Tease
+15251,3.61322491287183,Crank Yankers: Season 2: Vol. 1
+3069,3.61111376789291,Strawberry Shortcake: Dress Up Days
+15695,3.6110247519749,Shamus
+16188,3.61076858042822,You're the Top: The Cole Porter Story
+17104,3.6103274532231,In the Army Now
+13748,3.60679619475006,The First Wives Club
+14722,3.60653069157474,Bug
+7386,3.6061229400994,Ninja Cadets
+17338,3.60593216858217,Forget Paris
+11442,3.60547573467278,Lost in America
+5008,3.60484649519154,The Pentagon Wars
+4586,3.6043925347747,But I'm a Cheerleader
+12372,3.60414308255458,Faithless
+10712,3.60405681743118,Above the Law
+2036,3.60359269901684,'N Sync: PopOdyssey Live
+3164,3.6028858835868,Stella Dallas
+6680,3.60192076621645,Galaxy Angel
+15712,3.60051053614783,Cradle 2 the Grave
+8849,3.60035354745454,Kama Sutra: A Tale of Love
+17020,3.59975349330859,Before and After
+1893,3.59959658437315,Fun with Dick and Jane
+13150,3.59951763018233,The Odyssey of Life: The Photographer's Secrets: Nova
+16252,3.59948106786464,Midsomer Murders: The Killings at Badger's Drift
+9421,3.59927466385234,Anatomy
+2544,3.59704812690554,3-2-1 Penguins: The Doom Funnel Rescue
+4943,3.5969042381223,Against All Odds
+17741,3.59608591471763,Ginger Snaps 2: Unleashed
+11806,3.59592961816518,The Secret of N-I-M-H 2: Timmy to the Rescue
+1340,3.59574333182912,Strapped
+15962,3.59562797998513,Maximum Risk
+12733,3.59371285542041,Johnny Greyeyes
+16576,3.59288982054205,2002 Olympic Figure Skating Exhibition
+13212,3.59245213128414,The Company of Wolves
+1356,3.59226177551225,Too Close for Comfort: Season 1
+16741,3.59220172340992,Guadalcanal Diary
+3170,3.59214488747759,Together
+6260,3.59178829813795,Bootmen
+12852,3.59058452690724,To Be and To Have
+6917,3.58962675471805,Under the Sand
+9945,3.58831780678552,Melissa Etheridge: Live ... and Alone
+16046,3.58665338314481,The Beverly Hillbillies
+8534,3.58637201326888,Snow Queen
+10576,3.58517850872627,DiG!
+9492,3.58502475231871,3 Walls
+3084,3.58367498988046,Rollerball
+3760,3.58357974473953,Tom Jones
+4935,3.58287383781373,VH1 Divas Live
+11352,3.58263947534477,The Day of the Dolphin
+7931,3.58243265985443,8 Man After: Perfect Collection
+336,3.58100160448731,The Driver
+11025,3.58084198541729,A Midsummer Night's Sex Comedy
+12948,3.58057864078691,'Round Midnight
+14930,3.57885149423297,Pearl Jam: Single Video Theory
+5729,3.57844863938706,The Winter Stallion
+8008,3.57684460082939,Treasure Island
+12276,3.57673791055654,Bloodfist 2
+8206,3.57653528491962,All Things Fair
+4811,3.57517301500118,Trishul
+16112,3.57470589464698,Shock Waves
+9324,3.57456751808126,The Mrs. Bradley Mysteries
+2343,3.57335550058818,Heck's Way Home
+3586,3.57219490584019,Tannhauser: Wagner: Metropolitan Opera
+14793,3.57201388993323,The Comfort of Strangers
+7544,3.57140587357727,Orange County
+7238,3.57133817868933,Prozac Nation
+8182,3.57013462086585,In Heaven as it is on Earth
+12709,3.57006014900516,Too Late the Hero
+6013,3.56998428402105,An American Werewolf in Paris
+16869,3.56934823573511,Sweet and Lowdown
+12977,3.56876944207542,Free to Be You and Me
+13218,3.56873882744993,The Complete Holy Bible: King James Version
+17689,3.56828986613102,Kiss: Unauthorized Kiss
+14079,3.56762959094089,The Very Best of the Ed Sullivan Show: Vol. 1: Unforgettable Performances
+1958,3.56726303974411,WWE: Before They Were Superstars 2
+14231,3.56723545577455,Dreadnaught
+17056,3.56525845297342,The North Avenue Irregulars
+6714,3.5643663744837,WWE: 'Cause Stone Cold Said So
+10835,3.56411166128956,Stigmata
+7991,3.56328756216852,The Hunted
+237,3.56198536564523,Broken Blossoms
+4966,3.56161570188507,The Hot Spot
+4952,3.55956733553195,Dr. Wayne Dyer: How to Get What You Really Want & Improve Your Life
+8566,3.55856737048111,Merci Docteur Rey
+8005,3.55650727807756,Therese
+1731,3.55609578514985,Jackie Chan: Who is He?
+850,3.55542324379537,Stoked: The Rise and Fall of Gator
+17255,3.55494027343291,American Photography: A Century of Images
+1668,3.55404417788076,Friday the 13th: Part 3
+11286,3.5535680127858,White Fang 2: Myth of the White Wolf
+3200,3.55323710542501,Charley Varrick
+1430,3.55259626007376,The House Next Door
+1092,3.55247884971343,Thin Line Between Love & Hate
+3492,3.5518567503406,Map of the Human Heart
+13022,3.55166649627771,Lucio Fulci: Don't Torture a Duckling
+9256,3.55067573332872,Tom & Viv
+12504,3.5506534867527,The Stooge
+1260,3.55040526972953,Journey to the Center of the Earth
+16246,3.54966051369954,Tom Horn
+13769,3.54851065017873,MTV: Inside TRL
+14329,3.54748308753184,Occasional Hell
+7776,3.54689641977438,The Brandon Teena Story
+13853,3.54578931934883,Dark Blue
+1048,3.54532526770973,Year of the Horse: Neil Young & Crazy Horse Live
+7923,3.54516691735383,The Day the Earth Caught Fire
+14386,3.54500295960893,The Velveteen Rabbit
+1078,3.54441450999698,After the Storm
+1482,3.54402955323493,Beyond Borders
+813,3.54277808264165,On Cukor
+9967,3.54253004894622,The Organization
+4538,3.5422006256919,Ninja vs. Bruce Lee
+12604,3.54155377958869,Hangman
+11775,3.54038930924109,The Fighting Temptations
+7466,3.53983732126199,Beast City
+16256,3.53947234785668,Earthlight
+2492,3.53866855298681,The War Zone
+2251,3.53835551625071,The Rookie
+17650,3.53751711379522,Unstrung Heroes
+9517,3.53718540234478,Silent Running
+7109,3.53694534219886,Cilantro y Perejil
+12700,3.53608567400701,Elvis '56
+214,3.53606759379713,Read-Along: Beauty and the Beast
+7868,3.53463244453459,Gasaraki
+17742,3.53210807614897,Catherine the Great
+1444,3.53153266376954,Pride FC: The Return of the Warriors
+9537,3.53010153239275,The Twins Effect 2
+5175,3.52951107006036,Under One Roof
+16408,3.52828446231231,The History Channel Presents: Julius Caesar's Rome
+5337,3.5274343510625,Tales of the Unexpected: Set 1
+826,3.52623130110004,Goosebumps: Cry of the Cat
+16129,3.52546809491831,Bob the Builder: Building Friendships
+17454,3.52505617140081,Patlabor WXIII: The Movie
+398,3.52398609681971,In the Realm of the Senses
+10354,3.52366458375635,Monarch of the Glen: Series 3
+1851,3.52359896852693,I Want to Live!
+6988,3.52297134717984,Mighty Aphrodite
+13758,3.52256334471368,Bloodfist
+9087,3.52246063163119,Hero
+13838,3.52237780169192,Dream with the Fishes
+5813,3.5223711973435,Diana Krall: Live in Paris
+6979,3.52133966941997,Fear Strikes Out
+5568,3.52102707487276,Not of This Earth
+15060,3.52024751402814,Xena #1: Girls Just Want to Have Fun: Multipath Adventure
+12683,3.51974053890587,Bride of Re-Animator
+12348,3.51846901863136,I'll Be Seeing You
+15707,3.51799629207003,The Debut
+14070,3.5172684787968,The Last Wave
+6522,3.51561931143304,Trailer Park Boys: Seasons 1 & 2
+17068,3.51509564609607,King of the Cage: Sin City
+6737,3.51476526302671,Christmas in Connecticut
+6334,3.51411484461053,Things You Can Tell Just By Looking at Her
+3647,3.51376029463768,Death Before Dishonor
+16948,3.51363189567676,Bridget Jones: The Edge of Reason
+14902,3.51221671003791,Doggy Poo
+6629,3.51123950994192,Legend of the Dragon Kings: Under Fire
+4685,3.51018739666936,Lake Placid
+15808,3.51004146381882,Citizen Ruth
+8889,3.50840659988075,Mother
+13032,3.50666393480452,The Stone Cold Truth
+7476,3.50657048500843,Space Battleship Yamato: The Movie
+4128,3.50650770343906,Under the Roofs of Paris
+10762,3.50524636928701,The Last Outlaw
+16477,3.50471918211156,Bright Future
+13288,3.5042878190076,All I Want
+13760,3.50376334801313,A Fine Romance: Set 3
+17344,3.50374982012399,Creature
+3068,3.50332958660293,Harlock Saga
+2366,3.50156086531726,Just Visiting
+17554,3.50143647859345,Wide Awake
+8697,3.5002372595157,King of Texas
+185,3.50008843533929,Missing in Action 2: The Beginning / Missing in Action 3: Braddock
+10926,3.4998019194927,Employee of the Month
+8458,3.49862278127019,Burn the Floor
+9131,3.49791282387307,Air America
+15661,3.49782163831523,The End Times
+9152,3.49762728394428,Fire Birds
+15223,3.49669951249815,Osmosis Jones
+13360,3.49642949142369,NBA at 50
+10415,3.49559822824459,16 December
+15272,3.49527307019326,Wild Orchid
+13154,3.49321918826706,The Roman Spring of Mrs. Stone
+2988,3.49202674525777,About Adam
+11159,3.49184099299391,Growing up with Winnie the Pooh: Friends Forever
+14203,3.48947887986789,Batman Forever
+5425,3.48738796105241,Best Laid Plans
+3486,3.48602046412939,The Source
+10943,3.48557051361694,Ben Folds Five: Complete Sessions at West 54th
+14169,3.48521987466324,The Guyver
+4619,3.48416698188619,Clockmaker
+4189,3.48377496297899,Newlyweds: Nick & Jessica: Seasons 2 & 3
+15993,3.48188576358886,Mystic Iran: The Unseen World
+5897,3.48085937252076,Jeepers Creepers 2
+12396,3.48032881187133,The Heroic Legend of Arslan
+8867,3.48000365343337,The Tommyknockers
+14581,3.47979029585186,Magic Kitchen
+380,3.47938532759292,Live Wire
+15338,3.47904180752837,Barbary Coast
+6417,3.47854280070647,A Storm in Summer
+3598,3.47705304409901,The Seduction of Mimi
+7524,3.47690501546373,Slackers
+11436,3.47672891465395,Super Atragon
+4868,3.47648737660629,Midsomer Murders: Death of a Hollow Man
+9199,3.47638114247748,Bring Me the Head of Alfredo Garcia
+14282,3.47514195085741,McMillan and Wife: Season 1
+11952,3.47503541774809,Chaos
+3904,3.47392120062557,The Hole: 2000 Seen By ...
+12275,3.47363729545935,Married to the Mob
+14552,3.47356692256479,To Walk with Lions
+16091,3.47351034122985,Firelight
+12413,3.47328674954165,The Wonderful
+10089,3.47258143184602,Soccer Dog
+17523,3.47185931000396,Campion: Sweet Danger
+1884,3.47163874321751,Captain Corelli's Mandolin
+481,3.4701586623954,Building the Great Pyramid
+11133,3.4690076139874,Top Fighter
+4563,3.46845316555397,The Statement
+61,3.46687297600765,Ricky Martin: One Night Only
+13664,3.46654954014096,Submarines
+1140,3.46633412159757,To Gillian on her 37th Birthday
+7255,3.46421892621279,Jojo's Circus: Take a Bow
+7334,3.46369707843411,Midsomer Murders: Death in Disguise
+3891,3.46300939298129,Over the Edge: Motorcycle Mayhem X
+541,3.46284463265661,King Cobra
+11347,3.46259134233374,Legal Eagles
+5790,3.46251345344782,The Drifter
+15842,3.46221808072538,I'm Losing You
+14347,3.46149400787959,Running Free
+4986,3.461150669535,The Shipment
+9843,3.46067541436417,Dallas: Season 3
+13199,3.4602268461803,Don't Try This at Home: The Steve-O Video
+16021,3.45841238797143,The Adventures of Prince Achmed
+6998,3.45820222593562,Laserhawk
+11689,3.45781222370851,Ffolkes
+12243,3.45596164271366,Pushing Tin
+9831,3.45574144378211,Vanishing Point
+9632,3.45540027683745,Danzig: Archive De La Morte
+16916,3.45461610678421,David Alan Grier: The Book of David: The Cult Figure's Manifesto
+11395,3.45443612304155,Kickboxer 3 / Kickboxer 4: Double Feature
+3243,3.45367838118515,Mermaid
+1455,3.45153415801686,Belly of the Beast
+10826,3.45153251141282,Shakespeare Tragedies: Othello/ Macbeth/ King Lear: The Standard Deviants
+111,3.45144225193814,Duplex (Widescreen)
+7067,3.45005573511783,Charlie's Angels: Full Throttle
+11034,3.44957591904096,Father Hood
+3652,3.44936894293698,Happy Tree Friends
+9720,3.44898452031779,Yessongs: Yes
+3418,3.4479564078503,Sister Act 2: Back in the Habit
+2866,3.44777291263257,Message in a Bottle
+13485,3.44529143915861,City Heat
+666,3.44384113463393,The Man Who Came to Dinner
+10721,3.4429351829209,Tomcats
+16232,3.44066444733018,Leviathan
+1122,3.4404994232585,The Attic / Crawl Space (Double Feature)
+14354,3.43966326582699,Deathstalker 4
+1966,3.43794811227549,Gay Games VI: Sydney 2002: Under New Skies
+10368,3.43691427659755,Triangle
+5641,3.43659861369108,Voodoo
+1600,3.43595593226331,Poison Ivy 2
+9854,3.43547496112842,Battle of the X-Planes: Nova
+5367,3.43502025950463,The Glimmer Man
+17203,3.43467517276276,Big Top Pee-Wee
+11307,3.43372174605805,The Barbarian Invasions
+12059,3.43359345247185,Unscripted: The Complete Series
+761,3.43325193036685,O Fantasma
+790,3.43320772863115,A Single Girl
+8594,3.43300723626496,The Artist: Rave UN2 the Year 2000
+3978,3.43298103799564,Hangman's Curse
+4569,3.43258460162507,3 Ninjas
+192,3.43110767616011,The SoulTaker
+5651,3.4309873106882,Boomerang
+4359,3.43025051607473,Track Down
+5979,3.43011926324624,Speed of Life
+11245,3.42863215582703,A Rage in Harlem
+13674,3.42848438526962,Kandahar
+11376,3.42811111027244,Head of State
+15691,3.42615223483083,Elmo's Magic Cookbook
+12653,3.4249989966339,Live Nude Girls
+16663,3.42486803959783,Mac and Me
+5098,3.42270484569592,Pyaar Ishq aur Mohabbat
+9973,3.42246008219377,David Bowie: A Reality Tour
+12936,3.42193274064496,Hollywood Musicals of the '50s
+13565,3.42192291631915,You Got Served
+14137,3.42135728565038,Johnny Mnemonic
+11824,3.41785775234901,Middlemarch
+10780,3.416255919285,Signing Made Easy
+9410,3.41616258912572,P.S.
+6066,3.41614683708473,The Story of the Weeping Camel
+15153,3.41594495695652,Flashback
+3326,3.41592493792146,Chain Reaction
+14317,3.41570344461793,View from the Top
+15234,3.41550665978806,Red Planet
+735,3.41415489298738,Hillary & Tenzing: Climbing to the Roof of World
+11021,3.41404669359102,Clockwise
+885,3.41401597411831,The Maldonado Miracle
+12189,3.41369533108068,Spanish Judges
+6536,3.41307702688749,Panda! Go Panda!
+11259,3.41282478400405,Shooting Fish
+5716,3.41200438794712,Devil's Pond
+16506,3.41173963160624,American Idol
+5814,3.41113866944139,One Hour Photo
+4272,3.41112489286121,Miracle in the Woods
+9551,3.41038326238734,Drunks
+4445,3.40959332175565,Thomas & Friends: The Early Years
+4218,3.40884220995123,Sorority Babes in the Slimeball Bowl-O-Rama
+5426,3.40610447130009,RoboCop: Resurrection
+3743,3.40593821368707,Boys and Girls
+12455,3.4059226562514,Hollywood Screen Tests
+7607,3.40568559977041,Dirty Dancing: Havana Nights
+4645,3.40544906091889,The Day the World Ended
+3670,3.40543333432106,Encino Man
+14462,3.40508551535231,She Shoots Straight
+2707,3.40292336538705,The Street Fighter
+17654,3.40290852750977,K-911
+4880,3.39798641756753,Times of Terror
+122,3.39687440688864,Cube 2: Hypercube
+3498,3.3954201848294,Combat! Season 2: Mission 1
+43,3.39452287099766,Silent Service
+7950,3.39414972216758,Le Professionnel
+16904,3.39361524926997,WWE: Unforgiven 2003
+14470,3.39238215244937,Gods of Olympia
+154,3.3913183653115,Demon Warrior Koji
+66,3.3906018715173,Barbarian Queen 2
+1464,3.39012259968046,Pistol Opera
+8896,3.38977066278621,Bollywood / Hollywood
+11177,3.38925589539185,Worth Winning
+156,3.38910685840764,Husbands and Wives
+9059,3.3867763698524,A Troll in Central Park
+17137,3.38636861377543,Secret Ballot
+6230,3.38621749717948,Riverworld
+145,3.38618519281285,Get Out Your Handkerchiefs
+2284,3.38406588114099,Teen Wolf / Teen Wolf Too (Double Feature)
+3890,3.38366560437705,Confessions of a Teenage Drama Queen
+2715,3.38313198514943,Whiteboyz
+816,3.38203274251316,Marlene Dietrich: Her Own Song
+1388,3.38203274251316,Spring Symphony
+11966,3.38203274251316,Cafe au Lait
+17394,3.38139260589866,In the Shadows
+510,3.37943537513858,Blue's Clues: Blue's Room: It's Hug Day
+4023,3.37884783983076,Fate
+9602,3.37881879326932,Tower of Death
+11418,3.37791245761367,Bridge of Dragons
+10187,3.37722293666461,Lenny Kravitz: Live
+8384,3.37709581615319,3000 Miles to Graceland
+10109,3.37657762033829,Major League II
+16247,3.37569050884549,The Human Face
+14088,3.37525255308704,The Pillow Book
+7939,3.37480473185581,Submerged
+6481,3.37454509607897,Beat
+669,3.37435616446924,Real Kung Fu of Shaolin
+5157,3.37387243391815,Shark Attack
+11340,3.37028439306627,Johnny Be Good
+17626,3.36852218426865,Henry Rollins: Up for It
+6220,3.36850791313713,The Color of Paradise
+10781,3.36818184050052,Airline: Season 1
+6356,3.36789782174,Lost Command
+2931,3.36719290073562,Cutaway
+17693,3.36693745908162,Operation Dumbo Drop
+11902,3.3662012319794,A Thief of Time
+6093,3.36529218410098,House of Cards Trilogy III: The Final Cut
+3192,3.36485731380844,Double Impact
+2718,3.36472918508945,Ultimate Beginner Xpress: An Introduction to Musical Styles: Acoustic Guitar
+12355,3.36383710987365,A.I. Artificial Intelligence
+64,3.36361654451158,Outside the Law
+14255,3.36360751195318,Yeh Dillagi
+16554,3.36300582028954,Divorce
+9568,3.36234289784062,W.C. Fields
+11510,3.36226084397508,Modesty Blaise
+10404,3.36180182617037,Marlene
+4119,3.36179809862159,White Palace
+2629,3.36061706630881,Highlander: The Raven
+8365,3.35983222139452,Laughing Out Loud: Vol. 5
+16169,3.35976525049717,The Haunting
+17074,3.35872812598827,Two Women
+7527,3.35842822099956,The World of Drunken Master
+1407,3.35615099801499,Orphans of the Storm
+9875,3.35519619338582,Innocence
+13680,3.35445140330729,Red Dwarf
+11319,3.35427632516912,Revenge in Olympia
+578,3.35356182294367,The Terror
+12912,3.35319777795795,Metropolitan Opera: Puccini: La Boheme
+583,3.35319429051043,Third Man on the Mountain
+1896,3.35307654080483,Splitting Heirs
+5342,3.3516737151307,The Butcher's Wife
+10663,3.35149700811689,Kipper: Friendship Tails
+15005,3.34893443898724,Cameron's Closet
+7442,3.34884966009342,Beowulf
+4122,3.34824587831689,Parting Glances
+4921,3.3465231386772,Megaman: Battle for the Future
+11235,3.34539322495716,Shinjuku Triad Society
+2939,3.34512573229007,Michael Moore Hates America
+6543,3.34272994553454,The Solid Gold Cadillac
+10540,3.34214412884895,Good Night Maisy
+16849,3.34161704725338,Tommy & Tuppence: Partners in Crime: Set 2
+11080,3.34113819631388,The Patriot
+6308,3.34065475113958,Going Greek
+10006,3.33970283912085,Target Earth
+4852,3.33942421165506,U Turn
+5911,3.33750302000073,Rudyland
+14075,3.33712296377168,A Rumor of Angels
+16488,3.33514030574665,Dark Ages
+7770,3.33379741355138,Piece of Cake
+10921,3.33356989226271,Just Married
+16988,3.3330919511575,The Wolves of Kromer
+740,3.33174149248567,The House on Carroll Street
+8051,3.33166793754231,The Curse of the Jade Scorpion
+15074,3.33066642370715,The Baby
+2616,3.33013517900774,The Tigers
+15731,3.32834734227527,Roxy Music: Live at the Apollo
+6257,3.32819643996057,Aftershock
+17334,3.3264210321754,Beethoven's 3rd
+15150,3.32596070432098,The Brain That Wouldn't Die
+5131,3.3259175467944,Sometimes They Come Back For More
+3043,3.32578328333096,Lord of Illusions
+16132,3.32527652335315,Karan Arjun
+12452,3.32520407292072,I Got the Hook Up
+15213,3.32377246379274,Sonic the Hedgehog: The Movie
+1952,3.3234877708473,Anything Goes
+3271,3.32340712145792,Schizo
+3568,3.32229515582286,Come and See
+4574,3.32213295292607,Pippi on the Run
+15216,3.32141437789959,Circus
+3994,3.32117081898721,Freeze Frame
+12472,3.31803589918039,Decoys
+5096,3.31803570548667,My Summer of Love
+17232,3.31588710802781,Me and the Mob
+10939,3.31545310373401,The Soong Sisters
+1190,3.31489369386091,The Late Shift
+6338,3.31389756505891,The Truth About Love
+13438,3.31361028503423,Captain Jack
+13938,3.31344475207774,Futuresport
+10248,3.31280481146254,Taxman
+14392,3.31195000552412,Wholly Moses
+16300,3.31166797897176,The Great White Hype
+10195,3.31047224081795,Charlie Chan: The Chinese Cat
+6480,3.3092052246081,Ten Tiny Love Stories
+7567,3.30895268720124,Mussolini and I
+10670,3.30881092937819,Full Metal Yakuza
+11330,3.30873382713287,Martin & Lewis: At War with the Army
+6347,3.30827512936549,Big Momma's House
+15820,3.30682699780265,Love Don't Cost a Thing
+9699,3.3052905656,The Snow Walker
+9730,3.30505907929525,Clonus
+723,3.30460475947493,Curly Sue
+16494,3.30419959362638,Cops: Caught in the Act
+6354,3.30369258922104,The Deviants
+3329,3.30367234163164,INXS: Live Baby Live
+13632,3.30336242607645,Wolverine
+14962,3.30115493139033,Kiss Toledo Goodbye
+11098,3.30062619401053,Wish You Were Here
+11908,3.29899952822556,Embrace of the Vampire
+15547,3.298751267686,Fortress 2
+7068,3.29839817251395,Eric Idle's Personal Best
+5465,3.29839767906348,The Scalphunters
+7747,3.29652323497167,Korn: Deuce
+2432,3.29512570905313,29 Palms
+10194,3.2948541894067,Visible Secret
+4008,3.29299070952573,David Blaine: Fearless
+10659,3.29223797407545,The Cheerleaders Collection: The Cheerleaders
+14046,3.29193848636933,World War I in Color
+4152,3.29187117496799,Terror Firmer: Special Edition
+7132,3.29142930281882,Goodbye Dragon Inn
+6839,3.29127535498315,Marquis De Sade: Intimate Tales of the Dark Prince
+3848,3.29079449413964,The Ghoul
+16035,3.29023282269222,Disappearance
+7329,3.28981560530918,Wicked Ways
+5220,3.28931093138356,Drowning Mona
+6894,3.28885581737911,Peter & Paul
+8,3.28885141498638,What the #$*! Do We Know!?
+9855,3.28256542662495,The Ranch
+15809,3.28202840289093,Legendary Victor Borge
+8495,3.28033630355809,Snipes
+4742,3.28022653104378,Todd McFarlane: The Devil You Know
+11380,3.28018060911701,Edie and Pen
+815,3.28016324816665,Tiger Bay
+6663,3.27927074697791,Latin Kings: A Street Gang Story
+16970,3.27923523418808,The Little Vampire
+8002,3.27788732199731,Deewaar
+10676,3.27708219228761,The Kennel Murder Case / Nancy Drew
+7089,3.27664066532826,Blood Sisters of Lesbian Sin
+9885,3.2714919527624,See How They Run
+11086,3.27018549306076,Julian Po
+13686,3.2696536298754,Mr. Skeffington
+9343,3.26865093661507,MTV: The Real World You Never Saw: Back to New York
+5225,3.26835481350952,The Nazis: A Warning from History
+11253,3.26789622545619,Gate to the Mind's Eye
+7299,3.26718999936921,The Oscar Wilde Collection: Stage Right
+7030,3.26651357187659,The Collected Shorts of Jan Svankmajer: Vol. 2
+6611,3.26549105632655,Ed Gein
+15391,3.26241190829624,Dead Silence
+8537,3.259544399512,Vlad
+5142,3.25925642769664,Beatles: From the Beginning to the End
+13519,3.25830135394656,Envy
+3201,3.25714806396793,Billy Bragg and Wilco: Man in the Sand
+2565,3.25671777157052,Forbidden Sins / Human Desires
+14314,3.25425933887427,The Nightmare Room: Scareful What You Wish For
+865,3.25335425012941,Elvis by the Presleys
+8268,3.25119706931979,Muay Thai: Ultimate Fights
+12386,3.25088410795271,The Fanny Trilogy
+10846,3.24952368999219,Bamboozled
+2316,3.249064399957,Breathless
+909,3.24782157004764,Too Young to Die
+6919,3.2469312017542,Incident at Loch Ness
+6136,3.24631971615508,The Kiss
+1333,3.24489122544418,Mother's Day
+450,3.24391931200204,Isaac Stern: Life's Virtuoso
+2504,3.24366876399804,Bloodfist 3: Forced to Fight
+15202,3.24321207840474,Kill!
+9767,3.24145130618136,Windwalker
+17534,3.24102141054467,The Newsroom: The Complete Series
+6315,3.23976659867567,Friday the 13th: Part 8: Jason Takes Manhattan
+15670,3.23958758667965,L.A. Law: The Movie
+8435,3.23946364266926,Urban Ghost Story
+13137,3.23744019186116,Two Shades of Blue
+8352,3.23733254519707,The Mystic Masseur
+6250,3.237037162344,Female Perversions
+15946,3.23700029035306,The Rats
+12798,3.23662201609301,How to Deal
+14292,3.23654476955813,Earth vs. The Spider
+16830,3.23574609535752,7 Girls: White Knuckle Extreme
+7061,3.23449773810706,Kizuna
+6358,3.2343514767675,Alien Tracker
+5311,3.23428838255063,Cadillac Ranch
+6562,3.232311666507,Karen Voight: Slim Physique
+11232,3.232311666507,Streetball Classics: Vol. 1
+15527,3.23188942270013,Golfballs!
+15020,3.23145132931468,Blue Vinyl
+12606,3.23121714311513,Disorder II: Fat Tire Fury: White Knuckle Extreme
+4637,3.23040751824962,Night of the Lepus
+1188,3.23019399506891,A Little Inside
+4283,3.22918611322013,The Main Event
+15413,3.22878148436602,Miss Cast Away and the Island Girls
+2510,3.22860310906397,Joe the King
+10100,3.22645182548156,Flesh and Bone
+8422,3.22268320650703,Thomas & Friends: Cranky Bugs
+16127,3.22128679437941,Good News
+17734,3.21968535498229,Shanghai Ghetto
+1054,3.21802139169057,Odin: Photon Space Sailer Starlight
+15726,3.21799883921896,Jane's Addiction: Three Days
+2235,3.21752020828963,Undertow
+10522,3.21635307958747,Aria
+7899,3.21359124416539,Junior
+12010,3.21311749794717,Strangers in Good Company
+6200,3.21301176343759,Those Calloways
+17728,3.2108113120488,Me & Isaac Newton
+2658,3.20934218976079,MVP: Most Valuable Primate
+3316,3.20916715968057,Bartleby
+3944,3.20908457198585,Wonderland
+16055,3.20769575570315,Kissed
+12156,3.20611585614624,Tabu: A Story of the South Seas
+5160,3.20579481528608,Cows
+1167,3.20338126454084,La Buche
+9167,3.2020099235802,Major Saab
+16398,3.20114978659149,The White Dawn
+13262,3.20111266554833,Children of the Night
+1554,3.20074420243845,The 5th Musketeer
+2604,3.20011969625654,Merce Cunningham: A Lifetime of Dance
+9629,3.19895002523772,Stranded
+5474,3.19709840930957,Gloria
+3094,3.19702856234884,According to Spencer
+10555,3.19611103755001,Masti
+12864,3.19611103755001,Chokher Bali
+13638,3.19586988323429,George of the Jungle 2
+6567,3.19454710853064,Bob & Carol & Ted & Alice
+6121,3.19384784403219,Kirby: Kirby Comes to Cappytown
+8994,3.19269516066159,A Fond Kiss
+6405,3.19263623429626,H
+9930,3.19216378329706,Working with Orson Welles
+7681,3.19178242861038,Island at War
+15741,3.19122179520879,Burglar
+10025,3.19103814820128,Institute Benjamenta
+6593,3.19027475255181,Howling V / Howling VI: Double Feature
+12510,3.1890434414578,Sesame Street: Babies
+5027,3.18713754773053,Bad Timing
+14171,3.18446027680703,Chicago: City of the Century: American Experience
+10572,3.18292373320175,Marianne Faithfull: Dreaming My Dreams
+16627,3.18167658374209,The Magic School Bus: Catches a Wave
+12422,3.18069345858452,The Murder Room
+13289,3.18020765249032,Pride FC: Pride Fighting Legacy: Vol. 1
+12432,3.17373593321476,The Owl and the Pussycat
+16001,3.16878817028769,Dangerous Moves
+11923,3.16819457592485,Last Man Standing: Politics - Texas Style: POV
+10578,3.16719087195516,The Great Ecstasy of the Sculptor Steiner / How Much Wood Would a Woodchuck Chuck? / La Soufriere
+9744,3.16552019993098,Dust
+14551,3.16252508651253,Happy Campers
+8401,3.16065073726307,Teenage Catgirls in Heat
+8661,3.15800207893731,Franklin: Favorite Turtle Tales
+123,3.15696353082216,Chain of Fools
+7236,3.15584866569358,Saint Sinner
+10843,3.15540616924308,City of M
+16589,3.15528762575103,Children of the Corn 5: Fields of Terror
+3862,3.15386651277001,Superman IV: The Quest for Peace
+2807,3.15066361156674,The Worst Witch: Battle of the Broomsticks
+5941,3.14842159574374,The Way We Live Now
+779,3.14667267611739,Loving Jezebel
+1268,3.14528081913558,Martha Stewart Holidays: Homemade Holidays
+7921,3.14317218142414,Day of the Dead 2: Contagium
+16018,3.14209978156593,Best of the VonErichs
+14594,3.13987947371638,Dragon from Shaolin
+3889,3.13849332867814,Assisted Living
+15754,3.13747046740992,Breaking Up
+9750,3.13680329211739,The Turn of the Screw
+6668,3.13585175613439,The Last Minute
+2659,3.1342214516842,Grateful Dawg
+11766,3.13396795214407,Extreme Limits
+12496,3.13312334626219,Whispers: An Elephant's Tale
+3298,3.13203274251316,Baller Blockin
+4875,3.13203274251316,Felicidades
+7033,3.13203274251316,A Date with Shahrukh
+7339,3.13203274251316,The Code
+7838,3.13203274251316,In the Country where Nothing Happens
+16120,3.13203274251316,ABCD
+222,3.12905257555933,Yellow
+7726,3.12831795517169,Brady Bunch Home Movies
+8920,3.12821383064906,Tapeheads
+17556,3.12778180619416,November Moon
+594,3.1276011100472,By Hook or By Crook
+3874,3.12566413468942,Fashion Victim: The Killing of Gianni Versace
+15192,3.12356219189267,Nature: Reptiles: Snakes and Lizards
+9620,3.12337587509621,It Started in Naples
+4095,3.12202970278246,Girl Play
+8390,3.12202970278246,Surfin' Shorts
+10845,3.12202970278246,Hard to Hold
+11048,3.11982718199081,Beta
+6285,3.11864707165493,Goodbye Lover
+2731,3.11773585844201,Tank Girl
+6289,3.11613834055741,The Perfect Neighbor
+11009,3.11560414586963,De Sade
+6137,3.11549738084597,The Red Sneakers
+2925,3.11474097209766,Virginia's Run
+5835,3.11233778067573,Dario Argento's The Card Player
+17202,3.11199976574578,Pandemic: Facing Aids
+7571,3.1112439176273,The Dreamlife of Angels
+16787,3.11123122886461,Primary
+17466,3.11043686506016,Sex: The Annabel Chong Story
+15998,3.1100765586345,Place Vendome
+13235,3.10995847563579,Lisa Picard Is Famous
+323,3.10577432727799,Modern Vampires
+9422,3.10552311714466,Chutney Popcorn
+1951,3.10425170178309,Faces of Death IV
+1343,3.09936683457202,Strange Planet
+13531,3.09912703563475,Wildest Street Brawls 3
+3044,3.09835136043287,The Inheritance
+5766,3.09818098040479,Final Cut
+1845,3.09544150995158,Gordy
+3440,3.09193848636933,Hi
+15142,3.09193848636933,Times Square
+2193,3.09181455211194,The Wasp Woman/Attack of the Giant Leeches
+2569,3.09028656151898,Washington Heights
+4264,3.09015586606146,The River
+14089,3.08871769092421,Mo'Nique: One Night Stand
+127,3.08790459958426,Fatal Beauty
+9989,3.08734071735597,Festival in Cannes
+6678,3.08410514978523,Spike & Mike's Cutting Edge Classics
+11496,3.08387337196824,Staying Alive
+10082,3.08216988109194,Soul Plane
+13590,3.08018012517587,MPD Psycho
+8560,3.07967511570009,Perfect Harmony
+4439,3.07700242752601,Gimme Power
+13823,3.07451508289942,Carnage
+4076,3.07250545629187,Directors: Joel Schumacher
+11011,3.07032562666724,Countess Dracula's Orgy of Blood
+16613,3.06694452640485,The Bounty Huntress
+14136,3.06642807106441,Hook'd Up
+7503,3.06499523362468,Requiem for Murder
+14743,3.06493913092199,Short Cut to Nirvana
+11339,3.06466742068672,Larva
+2313,3.06241190829624,Funny Dirty Little War
+14469,3.061150669535,Soldier - World Wide Entertainment
+9697,3.06047594375182,Love in a Cold Climate
+14800,3.05998689816874,A Touch of Frost: Season 5
+4750,3.05963423590957,The Beauty of Ireland
+207,3.05952686586346,Denise Austin: Ultimate Fat Burner
+4737,3.05936166738821,After School Specials: 1976-1977
+14775,3.05591139745453,Vicious
+1903,3.05575123494862,Ozzy Osbourne: Crown Prince of Darkness
+8804,3.05435948925655,DIO: Evil or Divine
+440,3.05186027513915,Just 4 Kicks
+2642,3.0479085631476,Double Bang
+2116,3.04701100407098,Halloween III: Season of the Witch
+2042,3.04671698741711,Wodehouse Playhouse: Series 2
+1059,3.04201879726809,Extreme Bloopers: Sports Gone Wrong
+557,3.04092731422014,Liebestraum
+11757,3.03999208275141,Eat My Dust!
+3196,3.03965094927649,Leave it to Beaver
+11690,3.03830250522784,Soul Survivors
+6889,3.03737697420353,When the Party's Over
+5966,3.03661847054023,Other Voices
+16135,3.03597445668689,The Holy Land
+946,3.03510036315949,Sex and the Teenage Mind
+1192,3.032311666507,Masters of Poker: Phil Hellmuth's Million Dollar Texas Hold'em Tournament Strategies
+1841,3.032311666507,Yoga for Meditation
+8007,3.03209511177676,Nothing But a Man
+12679,3.0298110110446,Young Adam
+2621,3.02899815999688,Peter Gunn
+11294,3.02893291091159,Barney: Come on Over to Barney's House
+2918,3.02832704294908,Momentum
+11838,3.02751059980262,Omagh
+2678,3.02722383130372,Price of Desire
+9650,3.02349033813455,Since You've Been Gone
+1091,3.02252475231871,Dostana
+10992,3.02139949809355,The Doe Boy
+3189,3.02083537360643,The Treat
+8766,3.01997882361479,The Brotherhood
+12284,3.01865441310442,The Guess Who: Running Back Thru Canada
+14279,3.01760902198163,Witness to a Kill
+2356,3.01260724630132,The Adventures of Rocky and Bullwinkle
+1898,3.01194273229481,Greyfriars Bobby
+15228,3.00831537095401,House Calls
+16762,3.00442515847291,Crazy Mama
+6419,3.00271052903998,A Change of Place
+2014,3.00266954541337,5X2
+11344,2.99561752988048,Hockey Mom
+16000,2.99561752988048,Aitraaz
+5267,2.9941680695805,Untold Scandal
+3330,2.99386171811378,The Secret Life of the Brain
+15510,2.99067837459014,Bad Trip
+11493,2.98556623438373,Newsbreak
+14625,2.98196140050643,Good Charlotte: Video Collection
+855,2.98031708623658,Bruiser
+14290,2.97940900684385,Sesame Street: Elmo's World: Birthdays
+4394,2.97715856895281,Druids
+8706,2.97631984161365,Mark of the Devil
+17326,2.97518726046452,Changi
+8491,2.97135733363955,The Doorway
+16122,2.96502700839568,Linkin Park
+7136,2.95989797122346,Dallas 362
+1522,2.95856737048111,Teorema
+12419,2.95552248404577,An Amazing Couple: Trilogy 2
+13828,2.95552248404577,Son of Gascogne
+5604,2.95535645412297,Dorm Daze
+11054,2.94965056534505,Kaakha Kaakha
+1807,2.94764599009184,Sonny
+16283,2.94660685605045,Cops & Robbersons
+16243,2.9424559191281,Blood of Beasts
+16456,2.94180282050177,Kolobos
+827,2.94137921539476,C'est La Vie
+2667,2.93862880051647,Devil's Nightmare
+3655,2.93110496997187,Taboo
+7518,2.93060864528453,Scarlet Diva
+8023,2.92860690228248,Dark Descent
+15961,2.92836177237465,Dead and Rotting
+7802,2.92586643425077,Dance for Camera
+15763,2.91899201677979,Six: The Mark Unleashed
+12117,2.91270311708745,Cruise Hawaii & Tahiti
+16042,2.91053922106553,Face of Terror
+844,2.9089087585068,La Cienaga
+5827,2.90861118910264,Jupiter's Wife
+15135,2.90552823917352,Striptease: The Greatest Exotic Dancers of All Time
+16906,2.90471545985889,On the Run: Trilogy 1
+11536,2.89811799598135,IFC TV Uncut: New Season Sneak Preview
+8798,2.89650076843983,Trader Hornee
+10108,2.89585400023023,New Rose Hotel
+9897,2.89347080458982,Wolfhound
+15175,2.89164794286778,Asylum of Satan / Satan's Children
+9401,2.89025949675808,Strange Things Happen at Sundown
+2560,2.88861639506296,Fat to Firm: Fitness Ball Workout for Dummies
+6390,2.88858664941879,Saved by the Bell: The New Class: Season 4
+3658,2.88768806384163,Zombie 3
+7011,2.88203274251316,A Loving Father
+8260,2.88203274251316,Crime of Passion
+8628,2.88203274251316,A Woman's Guide to Adultery
+14440,2.88203274251316,Love Is Colder than Death
+6208,2.88144066718101,Desecration
+2058,2.87800856832827,Eminem: The Slim Shady Show Uncut
+10219,2.87722206996602,Flesh (Andy Warhol)
+13589,2.87326527264974,Witches of the Caribbean
+3722,2.87267841326049,Luminarias
+1289,2.87165983411344,Look Who's Talking Too
+2438,2.86958819932152,Ricochet River
+17551,2.86595225280364,G-Men From Hell
+2675,2.86258450448435,Solaris
+1993,2.86241190829624,The Night and the Moment
+9550,2.86084245684849,Perfect
+13456,2.86046694629035,Come and Get It
+13305,2.85887016484989,Stage Ghost
+13059,2.85534249709517,The Man Who Loved Women
+10048,2.85452269852446,T-Rex: Born to Boogie: Special Edition
+11866,2.85405151868899,The Defilers/ Scum of the Earth!
+9716,2.85238357970747,Therese and Isabelle
+14099,2.85121451369084,A Galaxy Far Far Away
+2344,2.84736025586739,Songs from the Second Floor
+4239,2.84704518290686,Maitresse
+13861,2.84398653311939,Half Japanese: The Band That Would Be King
+4837,2.84319873933529,Howling II: Your Sister Is a Werewolf
+9719,2.84071340278835,Ring of Darkness
+9186,2.83992433713707,Hittin' It!
+15438,2.83745935823437,The Off Season
+6537,2.83732518051753,Lucky
+15536,2.83463017807427,Decasia: The State of Decay
+7512,2.83406352846222,Poor White Trash
+140,2.8329448982325,Lost in the Wild
+7901,2.83278102801332,Sudden Manhattan
+2666,2.83090814862998,A Farewell to Arms
+9518,2.82810115559274,Showgirls
+6276,2.82678453532238,Unknown Pleasures
+10462,2.81768550010178,Cruel and Unusual
+276,2.8159118563186,Cold Harvest
+12133,2.81475350895262,Redneck Zombies
+17616,2.8085803288902,The Westerner
+15951,2.79605383362858,Devon's Ghost: Legend of the Bloody Boy
+1100,2.79026567647006,Dr. T & the Women
+3176,2.78660376111521,The Decline of the American Empire
+17660,2.78069345858452,Round Trip
+10595,2.76654015413567,Bill Monroe: The Father of Bluegrass
+16726,2.7661280328372,Homework
+11657,2.76434026152545,The Quarry
+1205,2.76014527770919,Dragstrip Girl
+11511,2.75582039929899,Basket Case 3: Progeny
+13461,2.75560036106551,Dirty Deeds
+15981,2.75232092684196,Amour de Femme
+4694,2.74434059891195,Horrors of Spider Island
+6103,2.73711680665067,Hotel
+13215,2.72724535285113,Galaxina
+6975,2.71317300147376,Monster-a-Go-Go! / Psyched by the 4-D Witch (Double Feature)
+13464,2.71284426615406,Quicksand
+7084,2.70991979446914,Ghost Rig
+16422,2.70133178551495,Admissions
+7116,2.69915709718162,ABC News Presents: Jesus
+4329,2.69827353488527,Jungle Holocaust
+13110,2.69583233120339,The Book of Stars
+11288,2.69142930281882,Golden Balls
+12952,2.69090909090909,The God Who Wasn't There
+5159,2.69024617302459,The Real World Movie: The Lost Season
+6140,2.68453581515071,Southlander: Diary of a Desperate Musician
+4556,2.66957289149027,Stealing Time
+13677,2.66501853796839,Neverland
+16933,2.66008731973179,Shake
+11513,2.65735837956838,Vampires in Havana
+16950,2.6386015952989,Mummy's Kiss
+16761,2.63357191911627,In The Woods
+9696,2.63203274251316,Fart: The Movie
+12957,2.63156750545549,Greendale
+7587,2.62437271817023,It's Pat: The Movie
+8921,2.60923202135486,Steve-O: Gross Misconduct
+11631,2.59898896784331,The Brady Bunch in the White House
+17124,2.59807823893318,Inbred Rednecks Alien Abduction
+14957,2.53757048417347,The Vault
+9600,2.52395244719435,Intermedio
+15478,2.52263918523256,Manchild: The Complete First Season
+12123,2.51508165128833,S.I.C.K.
+13299,2.50699239273793,Mango Yellow
+15687,2.49274730679343,Vampiyaz
+7063,2.49187254837775,Girls on Top: Set 1
+7418,2.4674117350873,From Justin to Kelly: The Tale of Two American Idols
+14740,2.43354621990755,Seamless
+6363,2.40989174683831,Hot Wax Zombies on Wheels
+15083,2.38425226791169,Mulva: Zombie Ass Kicker! / Filthy McNasty (Double Feature)
+11686,2.37186928918368,Da Hip Hop Witch
+17065,2.35296646802708,Forbidden Homework
+1924,2.27642081191624,Terror Toons
+4544,2.23909311778503,Italian Stallion
+12887,2.22938100828155,Legend of the Chupacabra
+2562,0.731858407079646,MTV: The Real World You Never Saw: Hawaii
