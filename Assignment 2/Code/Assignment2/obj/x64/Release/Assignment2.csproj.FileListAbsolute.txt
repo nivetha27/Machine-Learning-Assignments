@@ -1,0 +1,5 @@
+C:\Users\nsathya\Desktop\CSE546P-ML\Machine-Learning-Assignments\Assignment 2\Code\Assignment2\bin\x64\Release\Assignment2.exe.config
+C:\Users\nsathya\Desktop\CSE546P-ML\Machine-Learning-Assignments\Assignment 2\Code\Assignment2\bin\x64\Release\Assignment2.exe
+C:\Users\nsathya\Desktop\CSE546P-ML\Machine-Learning-Assignments\Assignment 2\Code\Assignment2\bin\x64\Release\Assignment2.pdb
+C:\Users\nsathya\Desktop\CSE546P-ML\Machine-Learning-Assignments\Assignment 2\Code\Assignment2\obj\x64\Release\Assignment2.exe
+C:\Users\nsathya\Desktop\CSE546P-ML\Machine-Learning-Assignments\Assignment 2\Code\Assignment2\obj\x64\Release\Assignment2.pdb

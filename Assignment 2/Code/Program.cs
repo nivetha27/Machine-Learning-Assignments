@@ -26,7 +26,7 @@ namespace ConsoleApp1
     public static string partialOutputFileName = filePath + "output_Threshold_";
     public static string outputFileExtension = ".txt";
     public static string moviePredictionsForMeFile = filePath + "MoviePredictionsForMe.txt";
-    public static double[] thresholds = new double[] { 0 , 0.05, 0.1, 0.15, 0.2, 0.25, 0.3, 0.35, 0.4, 0.45, 0.5 };
+    public static double[] thresholds = new double[] { 0, 0.05, 0.1, 0.15, 0.2, 0.25, 0.3, 0.35, 0.4, 0.45, 0.5 };
     public static double bestThreshold = 0.35;
     public static int myUserId = 1181332;
 
@@ -313,7 +313,7 @@ namespace ConsoleApp1
           }
         }
         meanAbsError = meanAbsError / testDataCount;
-        rmsError = rmsError / testDataCount;
+        rmsError = Math.Sqrt(rmsError / testDataCount);
 
         string outputFileName = partialOutputFileName + threshold.ToString() + outputFileExtension;
         outputToFile(outputFileName, threshold, meanAbsError, rmsError, testDataCount);
