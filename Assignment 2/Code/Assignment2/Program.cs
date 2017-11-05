@@ -10,7 +10,7 @@ namespace ConsoleApp1
   class Program
   {
     public static int USERSCOUNT = 28978;
-    public const string filePath = @"C:\Users\nsathya\Desktop\CSE546P-ML\Machine-Learning-Assignments\Assignment 2\Code\Assignment2\bin\Debug\";
+    public const string filePath = @".\";
     public static Dictionary<int, Dictionary<int, double>> userData = new Dictionary<int, Dictionary<int, double>>();
     public static Dictionary<int, double> meanUserVoteData = new Dictionary<int, double>();
     public static Dictionary<int, Dictionary<int, double>> movieData = new Dictionary<int, Dictionary<int, double>>();
