@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,7 +10,7 @@ namespace Assignment3
   public class Utility
   {
     public static Boolean isSystemLittleEndian = BitConverter.IsLittleEndian;
-
+    public static Random rnd = new Random();
     public static int convertBytesToInt(byte[] bytesArr)
     {
       // If the system architecture is little-endian (that is, little end first),
@@ -18,22 +19,50 @@ namespace Assignment3
         Array.Reverse(bytesArr);
 
       int intValue = BitConverter.ToInt32(bytesArr, 0);
-      Console.WriteLine("int: {0}", intValue);
-
       return intValue;
     }
 
-    public static long convertBytesToLong(byte[] bytesArr)
+    public static double convertBytesToDouble(byte[] bytesArr)
     {
       // If the system architecture is little-endian (that is, little end first),
       // reverse the byte array.
       if (isSystemLittleEndian)
         Array.Reverse(bytesArr);
 
-      long longValue = BitConverter.ToInt64(bytesArr, 0);
-      Console.WriteLine("int64: {0}", longValue);
+      double doubleValue = BitConverter.ToDouble(bytesArr, 0);
+      return doubleValue;
+    }
 
-      return longValue;
+    public static decimal[] convertDigitToVector(int targetDigit)
+    {
+      decimal[] vector = new decimal[10];
+      for (int i = 0; i < 10; i++)
+      {
+        vector[i] = 0;
+        if (i == targetDigit)
+        {
+          vector[i] = 1;
+        }
+      }
+      return vector;
+    }
+    public static decimal computeSigmoidValue(decimal value, decimal? clippingValue)
+    {
+      if (clippingValue != null) {
+        if (value > clippingValue) {
+          value = (decimal)clippingValue;
+        } else if (value < (-1 * clippingValue)) {
+          value = (decimal)clippingValue * -1;
+        }
+      }
+      decimal sigmoid = Convert.ToDecimal(1 / (1 + Math.Exp(-1.0 * (double)value)));
+      return sigmoid;
+    }
+    public static decimal generateRandomDecimalVal(decimal minimum = -0.5M, decimal maximum = 0.5M)
+    {
+      decimal weight = (decimal)rnd.NextDouble() * (maximum - minimum) + minimum;
+      return weight;
+      // return 0.5M;
     }
   }
 }
