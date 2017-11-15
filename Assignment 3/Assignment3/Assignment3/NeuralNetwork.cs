@@ -29,6 +29,40 @@ namespace Assignment3
     {
       this.neurons = neurons;
     }
+
+    public decimal computeSquaredError(decimal[] expectedOutput)
+    {
+        decimal sum = 0;
+        for (int i = 0; i < this.neurons[this.neurons.Length - 1].Length; i++)
+        {
+            decimal diff = this.neurons[this.neurons.Length - 1][i].value - expectedOutput[i];
+            sum += (diff * diff);
+        }
+        // Console.WriteLine("Squared Error Sum" + sum);
+        return sum;
+    }
+
+    public int predictedDigit()
+    {
+        decimal max = this.neurons[this.neurons.Length - 1][0].value;
+        int maxPos = 0;
+        for (int i = 1; i < this.neurons[this.neurons.Length - 1].Length; i++)
+        {
+            if (max < this.neurons[this.neurons.Length - 1][i].value)
+            {
+                max = this.neurons[this.neurons.Length - 1][i].value;
+                maxPos = i;
+            }
+        }
+        // Console.WriteLine("Squared Error Sum" + sum);
+        return maxPos;
+    }
+
+    public bool isOutputLayerInNetwork(int layerNum)
+    {
+        return layerNum == (this.numLayers - 1);
+    }
+    
     public void createFeedForwardNetwork() {
       this.neurons = new Neuron[this.numLayers][];
 
@@ -50,13 +84,15 @@ namespace Assignment3
         this.neurons[i][numNodesInCurLayer - 1].value = 1;
         this.neurons[i][numNodesInCurLayer - 1].weights = new decimal[numNodesInNextLater];
         this.neurons[i][numNodesInCurLayer - 1].delta = new decimal[numNodesInNextLater];
-        decimal weight = Utility.generateRandomDecimalVal();
-        for (int j = 0; j < numNodesInNextLater; j++) {
-          this.neurons[i][numNodesInCurLayer - 1].weights[j] = weight;
+        //decimal weight = Utility.generateRandomDecimalVal();
+        for (int j = 0; j < numNodesInNextLater; j++)
+        {
+            this.neurons[i][numNodesInCurLayer - 1].weights[j] = Utility.generateRandomDecimalVal(); //weight;
         }
 
-        // getting weights for the non-bias nodes.
+        //getting weights for the non-bias nodes.
         for (int j = 0; j < numNodesInCurLayer - 1; j++)
+        //for (int j = 0; j < numNodesInCurLayer; j++)
         {
           this.neurons[i][j] = new Neuron();
           this.neurons[i][j].weights = new decimal[numNodesInNextLater];
@@ -68,40 +104,11 @@ namespace Assignment3
       }
     }
 
-    public decimal computeSquaredError(decimal[] expectedOutput) {
-      decimal sum = 0;
-      for (int i = 0; i < this.neurons[this.neurons.Length - 1].Length; i++) {
-        decimal diff = this.neurons[this.neurons.Length - 1][i].value - expectedOutput[i];
-        sum += (diff * diff);
-      }
-      // Console.WriteLine("Squared Error Sum" + sum);
-      return sum;
-    }
-
-    public int predictedDigit()
-    {
-      decimal max = this.neurons[this.neurons.Length - 1][0].value;
-      int maxPos = 0;
-      for (int i = 1; i < this.neurons[this.neurons.Length - 1].Length; i++)
-      {
-        if (max < this.neurons[this.neurons.Length - 1][i].value)
-        {
-          max = this.neurons[this.neurons.Length - 1][i].value;
-          maxPos = i;
-        }
-      }
-      // Console.WriteLine("Squared Error Sum" + sum);
-      return maxPos;
-    }
-
-    public bool isOutputLayerInNetwork(int layerNum) {
-      return layerNum == (this.numLayers - 1);
-    }
-
     public void propogateInputForwards(decimal[] imagePCAComponents)
     {
       // initialize input nodes with given imagePCAComponents excluding the bias.
       for (int i = 0; i < this.neurons[0].Length - 1; i++)
+      //for (int i = 0; i < this.neurons[0].Length; i++)
       {
         this.neurons[0][i].value = imagePCAComponents[i];
       }
@@ -109,9 +116,11 @@ namespace Assignment3
       // starting from the hidden layer to the output layer
       for (int i = 1; i < this.neurons.Length; i++) {
         int numNeuronsInCurLayer = this.neurons[i].Length;
-        if (!this.isOutputLayerInNetwork(i)) {
-          numNeuronsInCurLayer -= 1; // exculding the bias here as the value is already set to 1 for it.
-        }
+        // comment start
+        if (!this.isOutputLayerInNetwork(i))
+        {
+           numNeuronsInCurLayer -= 1; // exculding the bias here as the value is already set to 1 for it.
+        }// comment end
         for (int j = 0; j < numNeuronsInCurLayer; j++) {
           this.neurons[i][j].value = 0;
           for (int k = 0; k < this.neurons[i - 1].Length; k++) {
@@ -190,7 +199,7 @@ namespace Assignment3
       }
     }
 
-    public void updateEachNetworkWeight(int batchSize)
+    public void updateEachNetworkWeight(int batchSize, decimal momentum)
     {
       for (int i = 0; i < this.neurons.Length - 1; i++)
       {
@@ -198,10 +207,45 @@ namespace Assignment3
         {
           for (int k = 0; k < this.neurons[i][j].weights.Length; k++)
           {
-            this.neurons[i][j].weights[k] += (this.neurons[i][j].delta[k]/ batchSize);
+            decimal weightDelta = (this.neurons[i][j].delta[k] / batchSize) + (momentum * this.neurons[i][j].prevDeltaWeight);
+            this.neurons[i][j].weights[k] += weightDelta;
+            this.neurons[i][j].prevDeltaWeight = weightDelta;
+            this.neurons[i][j].delta[k] = 0;
           }
         }
       }
+    }
+
+    public void printNetwork()
+    {
+        for (int i = 0; i < this.neurons.Length; i++) 
+        {
+            Console.WriteLine("Layer "  + i);
+            for(int j = 0; j < this.neurons[i].Length; j++)
+            {
+                Console.Write($"[value: {this.neurons[i][j].value}, weights: [");
+                if (!this.isOutputLayerInNetwork(i)) {
+                    for(int k = 0 ; k < this.neurons[i][j].weights.Length; k++)
+                    {
+                        Console.Write($"{this.neurons[i][j].weights[k]}");
+                        if (k < this.neurons[i][j].weights.Length - 1) 
+                        {
+                            Console.Write(",");
+                        }
+                    }
+                    Console.Write("], delta: [");
+                    for(int k = 0 ; k < this.neurons[i][j].delta.Length; k++)
+                    {
+                        Console.Write($"{this.neurons[i][j].delta[k]}");
+                        if (k < this.neurons[i][j].delta.Length - 1) 
+                        {
+                            Console.Write(",");
+                        }
+                    }
+                }
+                Console.Write("]],");
+            }
+        }
     }
   }
 }
