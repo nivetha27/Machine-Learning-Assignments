@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.IO;
 
 namespace Assignment3
 {
@@ -66,43 +63,67 @@ namespace Assignment3
     public void createFeedForwardNetwork() {
       this.neurons = new Neuron[this.numLayers][];
 
-      int outputLayer = this.numLayers - 1;
-      this.neurons[outputLayer] = new Neuron[this.numNodesInEachLayer[outputLayer]];
-      for (int i = 0; i < this.numNodesInEachLayer[outputLayer]; i++) {
-        this.neurons[outputLayer][i] = new Neuron();
+      int outputLayerIdx = this.numLayers - 1;
+      this.neurons[outputLayerIdx] = new Neuron[this.numNodesInEachLayer[outputLayerIdx]];
+      for (int i = 0; i < this.numNodesInEachLayer[outputLayerIdx]; i++) {
+        this.neurons[outputLayerIdx][i] = new Neuron();
       }
 
       for (int i = 0; i < this.neurons.Length - 1; i++)
       {
-        int numNodesInCurLayer = this.numNodesInEachLayer[i];
+        int numNodesInCurLayer = this.numNodesInEachLayer[i] + 1; // adding bias of 1 to current layer except for output layer
         int numNodesInNextLater = this.numNodesInEachLayer[i + 1];
-        numNodesInCurLayer += 1; // adding bias of 1 to current layer except for output layer
+        
         this.neurons[i] = new Neuron[numNodesInCurLayer];
-
-        // getting weight for bias first
-        this.neurons[i][numNodesInCurLayer - 1] = new Neuron();
-        this.neurons[i][numNodesInCurLayer - 1].value = 1;
-        this.neurons[i][numNodesInCurLayer - 1].weights = new decimal[numNodesInNextLater];
-        this.neurons[i][numNodesInCurLayer - 1].delta = new decimal[numNodesInNextLater];
-        //decimal weight = Utility.generateRandomDecimalVal();
-        for (int j = 0; j < numNodesInNextLater; j++)
-        {
-            this.neurons[i][numNodesInCurLayer - 1].weights[j] = Utility.generateRandomDecimalVal(); //weight;
-        }
-
-        //getting weights for the non-bias nodes.
-        for (int j = 0; j < numNodesInCurLayer - 1; j++)
-        //for (int j = 0; j < numNodesInCurLayer; j++)
+        //getting weights for nodes.
+        for (int j = 0; j < numNodesInCurLayer; j++)
         {
           this.neurons[i][j] = new Neuron();
           this.neurons[i][j].weights = new decimal[numNodesInNextLater];
           this.neurons[i][j].delta = new decimal[numNodesInNextLater];
           for (int k = 0; k < numNodesInNextLater; k++) {
-            this.neurons[i][j].weights[k] = Utility.generateRandomDecimalVal();
+            this.neurons[i][j].weights[k] = Utility.generateWeightsByXavierInitialization(this.numNodesInEachLayer[i], this.numNodesInEachLayer[i+1]);
           }
         }
+        this.neurons[i][numNodesInCurLayer - 1].value = 1; // setting bias node value to 1
       }
     }
+
+    public void testCreateFeedForwardNetwork() {
+      this.neurons = new Neuron[this.numLayers][];
+
+      int outputLayerIdx = this.numLayers - 1;
+      this.neurons[outputLayerIdx] = new Neuron[this.numNodesInEachLayer[outputLayerIdx]];
+      for (int i = 0; i < this.numNodesInEachLayer[outputLayerIdx]; i++) {
+        this.neurons[outputLayerIdx][i] = new Neuron();
+      }
+
+      for (int i = 0; i < this.neurons.Length - 1; i++)
+      {
+        int numNodesInCurLayer = this.numNodesInEachLayer[i] + 1; // adding bias of 1 to current layer except for output layer
+        int numNodesInNextLater = this.numNodesInEachLayer[i + 1];
+        
+        this.neurons[i] = new Neuron[numNodesInCurLayer];
+        //getting weights for nodes.
+        for (int j = 0; j < numNodesInCurLayer; j++)
+        {
+          this.neurons[i][j] = new Neuron();
+          this.neurons[i][j].weights = new decimal[numNodesInNextLater];
+          this.neurons[i][j].delta = new decimal[numNodesInNextLater];
+          if (j == numNodesInCurLayer - 1) {
+              for (int k = 0; k < numNodesInNextLater; k++) {
+                this.neurons[i][j].weights[k] = 0.5M;
+              }
+          } else {
+            for (int k = 0; k < numNodesInNextLater; k++) {
+                this.neurons[i][j].weights[k] = 0.1M;
+            }
+          }
+        }
+        this.neurons[i][numNodesInCurLayer - 1].value = 1; // setting bias node value to 1
+      }
+    }
+
 
     public void propogateInputForwards(decimal[] imagePCAComponents)
     {
@@ -116,11 +137,10 @@ namespace Assignment3
       // starting from the hidden layer to the output layer
       for (int i = 1; i < this.neurons.Length; i++) {
         int numNeuronsInCurLayer = this.neurons[i].Length;
-        // comment start
         if (!this.isOutputLayerInNetwork(i))
         {
            numNeuronsInCurLayer -= 1; // exculding the bias here as the value is already set to 1 for it.
-        }// comment end
+        }
         for (int j = 0; j < numNeuronsInCurLayer; j++) {
           this.neurons[i][j].value = 0;
           for (int k = 0; k < this.neurons[i - 1].Length; k++) {
@@ -216,34 +236,46 @@ namespace Assignment3
       }
     }
 
-    public void printNetwork()
+    public void printNetwork(string filePath)
     {
-        for (int i = 0; i < this.neurons.Length; i++) 
+        using (StreamWriter sw = new StreamWriter(filePath))
         {
-            Console.WriteLine("Layer "  + i);
-            for(int j = 0; j < this.neurons[i].Length; j++)
+            for (int i = 0; i < this.neurons.Length; i++)
             {
-                Console.Write($"[value: {this.neurons[i][j].value}, weights: [");
-                if (!this.isOutputLayerInNetwork(i)) {
-                    for(int k = 0 ; k < this.neurons[i][j].weights.Length; k++)
+                Console.WriteLine("Layer " + i + "\n");
+                sw.WriteLine("Layer " + i + "\n");
+                for (int j = 0; j < this.neurons[i].Length; j++)
+                {
+                    Console.Write($"[value: {this.neurons[i][j].value}, weights: [");
+                    sw.Write($"[value: {this.neurons[i][j].value}, weights: [");
+                    if (!this.isOutputLayerInNetwork(i))
                     {
-                        Console.Write($"{this.neurons[i][j].weights[k]}");
-                        if (k < this.neurons[i][j].weights.Length - 1) 
+                        for (int k = 0; k < this.neurons[i][j].weights.Length; k++)
                         {
-                            Console.Write(",");
+                            Console.Write($"{this.neurons[i][j].weights[k]}");
+                            sw.Write($"{this.neurons[i][j].weights[k]}");
+                            if (k < this.neurons[i][j].weights.Length - 1)
+                            {
+                                Console.Write(",");
+                                sw.Write(",");
+                            }
+                        }
+                        Console.Write("], delta: [");
+                        sw.Write("], delta: [");
+                        for (int k = 0; k < this.neurons[i][j].delta.Length; k++)
+                        {
+                            Console.Write($"{this.neurons[i][j].delta[k]}");
+                            sw.Write($"{this.neurons[i][j].delta[k]}");
+                            if (k < this.neurons[i][j].delta.Length - 1)
+                            {
+                                Console.Write(",");
+                                sw.Write(",");
+                            }
                         }
                     }
-                    Console.Write("], delta: [");
-                    for(int k = 0 ; k < this.neurons[i][j].delta.Length; k++)
-                    {
-                        Console.Write($"{this.neurons[i][j].delta[k]}");
-                        if (k < this.neurons[i][j].delta.Length - 1) 
-                        {
-                            Console.Write(",");
-                        }
-                    }
+                    Console.Write("]],");
+                    sw.Write("]],");
                 }
-                Console.Write("]],");
             }
         }
     }

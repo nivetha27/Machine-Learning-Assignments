@@ -33,10 +33,10 @@ namespace Assignment3
       return doubleValue;
     }
 
-    public static decimal[] convertDigitToVector(int targetDigit)
+    public static decimal[] convertDigitToVector(int targetDigit, int numBits = 10)
     {
-      decimal[] vector = new decimal[10];
-      for (int i = 0; i < 10; i++)
+      decimal[] vector = new decimal[numBits];
+      for (int i = 0; i < numBits; i++)
       {
         vector[i] = 0;
         if (i == targetDigit)
@@ -58,8 +58,18 @@ namespace Assignment3
       decimal sigmoid = Convert.ToDecimal(1 / (1 + Math.Exp(-1.0 * (double)value)));
       return sigmoid;
     }
+    
     public static decimal generateRandomDecimalVal(decimal minimum = -0.5M, decimal maximum = 0.5M)
     {
+      decimal weight = (decimal)rnd.NextDouble() * (maximum - minimum) + minimum;
+      return weight;
+      // return 0.5M;
+    }
+
+    public static decimal generateWeightsByXavierInitialization(decimal numInput, decimal numOutput)
+    {
+      decimal maximum = (decimal)Math.Sqrt(2 / (double)(numInput + numOutput));
+      decimal minimum = -1 * maximum;
       decimal weight = (decimal)rnd.NextDouble() * (maximum - minimum) + minimum;
       return weight;
       // return 0.5M;

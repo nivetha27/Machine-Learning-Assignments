@@ -2,6 +2,7 @@
 using System.Text;
 using System.IO;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Assignment3
 {
@@ -19,6 +20,8 @@ namespace Assignment3
     public static decimal[][] testImages;
     public static int[] trainLabels;
     public static int[] testLabels;
+    public static int numInputNodes = 50;
+    public static int numOutputNodes = 10;
 
     static void Main(string[] args)
     {
@@ -32,7 +35,7 @@ namespace Assignment3
         decimal[] learningRates = null;
         decimal[] momentums = null;
         int numLayers = 3;
-        int epochs = 30;
+        int epochs = 500;
         if (isValid) {
           if (options.help) {
             Console.WriteLine(CommandLine.Text.HelpText.AutoBuild(options));
@@ -42,7 +45,7 @@ namespace Assignment3
           if(options.numHiddenNodes != null) {
             numHiddenNodes = new int[] { (int)options.numHiddenNodes };
           } else {
-            numHiddenNodes = new int[] { 100 , 50, 10, 500, 1000 };
+            numHiddenNodes = new int[] { 100 }; //100 , 50, 10, 500, 1000 };
           }
 
           if(options.learningRate != null) {
@@ -69,10 +72,30 @@ namespace Assignment3
             filePath = options.filePath;
           }
         }
-        var data = readImagesAndLabels(trainingImagesFile, trainingLabelFile);
+
+        //numInputNodes = numOutputNodes = 8;
+        //trainImages = new decimal[8][];
+        //trainLabels = new int[8];
+        //for(int i = 0; i < 8; i++) {
+        //    trainImages[i] = new decimal[8];
+        //    trainLabels[i] = i;
+        //    for (int j = 0 ;j < 8; j++) {
+        //        if (j == i) {
+        //            trainImages[i][j] = 1;
+        //        } else {
+        //            trainImages[i][j] = 0;
+        //        }
+        //    }
+        //}
+        //testImages = trainImages;
+        //testLabels = trainLabels;
+
+        //var data = readImagesAndLabels(trainingImagesFile, trainingLabelFile);
+        var data = readAndNormalizeInputData(trainingImagesFile, trainingLabelFile);
         trainImages = data.Item1;
         trainLabels = data.Item2;
-        data = readImagesAndLabels(testImagesFile, testLabelFile);
+        //data = readImagesAndLabels(testImagesFile, testLabelFile);
+        data = readAndNormalizeInputData(testImagesFile, testLabelFile);
         testImages = data.Item1;
         testLabels = data.Item2;
         runBackpropogationAlgoUsingBatching(numLayers, epochs, numHiddenNodes, learningRates, momentums, batchSize);
@@ -136,7 +159,7 @@ namespace Assignment3
 
       return new Tuple<decimal[][], int[]>(pcaImages, targetLabels);
     }
-    public static void runBackpropogationAlgoUsingBatching(int numLayers, int epochs, int[] numHiddenNodes, decimal[] learningRates, decimal[] momentums, int batchSize = 1) {
+    public static void runBackpropogationAlgoUsingBatching(int numLayers, int epochs, int[] numHiddenNodes, decimal[] learningRates, decimal[] momentums, int batchSize = 1, int numBits = 10) {
       List<string> output = new List<string>();
       //output.Add("Batch Size, Hidden Nodes Count, Learning Rate, Momentum, Epoch, Test Square Error, Test Accuracy, Train Square Error, Train Accuracy");
       output.Add("Batch Size, Hidden Nodes Count, Learning Rate, Momentum, Epoch, Test Square Error, Test Accuracy");
@@ -147,8 +170,10 @@ namespace Assignment3
           foreach (decimal momentum in momentums)
           {
             Console.WriteLine("Hidden node count : " + hiddenNodes + ", Learning rate : " + learningRate + ", Momentum : " + momentum + ", Batch Size : " + batchSize );
-            var network = new NeuralNetwork(numLayers, 10, 50, hiddenNodes);
-            network.createFeedForwardNetwork(); 
+            var network = new NeuralNetwork(numLayers, numOutputNodes, numInputNodes, hiddenNodes);
+            network.createFeedForwardNetwork();
+            //network.testCreateFeedForwardNetwork();
+            network.printNetwork(filePath + "startNetwork.txt");
             int epoch = 1;
             for (; epoch <= epochs; epoch++)
             {
@@ -165,7 +190,7 @@ namespace Assignment3
               for (int i = 0; i < trainImages.Length; i++)
               {
                 //network.printNetwork();
-                decimal[] targetVector = Utility.convertDigitToVector(trainLabels[i]);
+                decimal[] targetVector = Utility.convertDigitToVector(trainLabels[i], numBits);
                 network.propogateInputForwards(trainImages[i]);
                 network.calcErrorForPredictedValForOutputAndHiddenUnits(targetVector);
                 network.updateEachNetworkDeltaWeight(learningRate);
@@ -176,6 +201,7 @@ namespace Assignment3
                 if (i == (trainImages.Length / 2 - 1))
                 {
                   outputLineHalfEpoch.Append(epoch + ",");
+                  //network.printNetwork(filePath + "endNetwork.txt");
                   Console.WriteLine("At half epoch #" + epoch + " using testing data");
                   outputLineHalfEpoch.Append(predictOutputAndComputeErrors(network.neurons, testImages, testLabels) + ",");
                   //Console.WriteLine("At half epoch #" + epoch + " using training data");
@@ -189,7 +215,9 @@ namespace Assignment3
               //Console.WriteLine("At epoch #" + epoch + " using training data");
               //outputLineEpoch.Append(predictOutputAndComputeErrors(network.neurons, trainImages, trainLabels));
               output.Add(outputLineEpoch.ToString());
+              //network.printNetwork(filePath + "endNetwork.txt");
             }
+            network.printNetwork(filePath + "endNetwork.txt");
           }
         }
       }
@@ -257,6 +285,86 @@ namespace Assignment3
         network.updateEachNetworkWeight(batchSize, 0);
         network.resetEachNetworkDeltaWeight();
       }
+    }
+
+    public static Tuple<decimal[][], int[]> readAndNormalizeInputData(string imagesFileName, string labelFileName) {
+      imagesFileName = filePath + imagesFileName;
+      labelFileName = filePath + labelFileName;
+      decimal[][] pcaImages = null;
+      int[] targetLabels = null;
+      FileStream ifsLabels = new FileStream(labelFileName, FileMode.Open);
+      FileStream ifsImages = new FileStream(imagesFileName, FileMode.Open);
+
+      BinaryReader brLabels = new BinaryReader(ifsLabels);
+      BinaryReader brImages = new BinaryReader(ifsImages);
+      while (brImages.BaseStream.Position != brImages.BaseStream.Length)
+      {
+        int magicImages = Utility.convertBytesToInt(brImages.ReadBytes(sizeof(Int32)));
+        int numInputImages = Utility.convertBytesToInt(brImages.ReadBytes(sizeof(Int32)));
+        int numInputDimensions = Utility.convertBytesToInt(brImages.ReadBytes(sizeof(Int32)));
+        pcaImages = new decimal[numInputImages][];
+        for (int i = 0; i < numInputImages; i++)
+        {
+          pcaImages[i] = new decimal[numInputDimensions];
+          for (int j = 0; j < numInputDimensions; j++)
+          {
+            pcaImages[i][j] = (decimal)Utility.convertBytesToDouble(brImages.ReadBytes(sizeof(Int64)));
+          }
+        }
+      }
+
+       for (int col = 0; col < pcaImages[0].Length; col++)
+       {
+            decimal max = Int32.MinValue, min = Int32.MaxValue;
+            for (int row = 0; row < pcaImages.Length; row++)
+            {
+                if (pcaImages[row][col] > max)
+                {
+                    max = pcaImages[row][col];
+                }
+                if (pcaImages[row][col] < min)
+                {
+                    min = pcaImages[row][col];
+                }
+            }
+            for (int row = 0; row < pcaImages.Length; row++)
+            {
+                pcaImages[row][col] = (pcaImages[row][col] - min) / (max - min);
+            }
+        }
+        // for (int col = 0; col < pcaImages[0].Length; col ++) {
+        //   var attr = new List<decimal>();
+        //   for (int row = 0; row < pcaImages.Length; row++)
+        //   {
+        //       attr.Add(pcaImages[row][col]);
+        //   }
+        //   decimal avg = attr.Average();
+        //   decimal stddev =  (decimal)(attr.Average(v=>Math.Pow((double)(v-avg),2)));
+        //   for (int row = 0; row < pcaImages.Length; row++)
+        //   {
+        //       pcaImages[row][col] = (pcaImages[row][col] - avg)/stddev;
+        //   }
+        //}
+
+
+        while (brLabels.BaseStream.Position != brLabels.BaseStream.Length)
+      {
+        int magicLabels = Utility.convertBytesToInt(brLabels.ReadBytes(sizeof(Int32)));
+        int numLabels = Utility.convertBytesToInt(brLabels.ReadBytes(sizeof(Int32)));
+        targetLabels = new int[numLabels];
+        for (int i = 0; i < numLabels; i++)
+        {
+          byte lbl = brLabels.ReadByte();
+          targetLabels[i] = Convert.ToInt32(lbl.ToString());
+        }
+      }
+
+      ifsImages.Close();
+      brImages.Close();
+      ifsLabels.Close();
+      brLabels.Close();
+
+      return new Tuple<decimal[][], int[]>(pcaImages, targetLabels);
     }
   } // Program class ends
 }
