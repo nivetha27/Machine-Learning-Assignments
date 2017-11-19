@@ -82,6 +82,7 @@ namespace Assignment3
           this.neurons[i][j] = new Neuron();
           this.neurons[i][j].weights = new decimal[numNodesInNextLater];
           this.neurons[i][j].delta = new decimal[numNodesInNextLater];
+          this.neurons[i][j].prevDeltaWeight = new decimal[numNodesInNextLater];
           for (int k = 0; k < numNodesInNextLater; k++) {
             this.neurons[i][j].weights[k] = Utility.generateRandomDecimalVal(); // Utility.generateWeightsByXavierInitialization(this.numNodesInEachLayer[i], this.numNodesInEachLayer[i+1]);
           }
@@ -111,6 +112,7 @@ namespace Assignment3
           this.neurons[i][j] = new Neuron();
           this.neurons[i][j].weights = new decimal[numNodesInNextLater];
           this.neurons[i][j].delta = new decimal[numNodesInNextLater];
+          this.neurons[i][j].prevDeltaWeight = new decimal[numNodesInNextLater];
           if (j == numNodesInCurLayer - 1) {
               for (int k = 0; k < numNodesInNextLater; k++) {
                 this.neurons[i][j].weights[k] = 0.5M;
@@ -127,7 +129,7 @@ namespace Assignment3
 
     public void propogateInputForwards(decimal[] imagePCAComponents)
     {
-      // initialize input nodes with given imagePCAComponents excluding the bias.
+      // initialize input nodes with given imagePCAComponents.
       for (int i = 0; i < imagePCAComponents.Length; i++)
       {
         this.neurons[0][i].value = imagePCAComponents[i];
@@ -168,14 +170,15 @@ namespace Assignment3
         {
           numNeuronsInCurLayer -= 1; // exculding the bias here as the value is already set to 1 for it.
         }
-        Parallel.For(0, numNeuronsInCurLayer, j => {
+        //Parallel.For(0, numNeuronsInCurLayer, j => {
+        for(int j = 0; j < numNeuronsInCurLayer; j++) {
           this.neurons[i][j].value = 0;
           for (int k = 0; k < this.neurons[i - 1].Length; k++)
           {
             this.neurons[i][j].value += this.neurons[i - 1][k].value * this.neurons[i - 1][k].weights[j];
           }
           this.neurons[i][j].value = Math.Max(0, this.neurons[i][j].value);
-        });
+        };
       }
     }
 
@@ -256,14 +259,15 @@ namespace Assignment3
     {
       for (int i = 0; i < this.neurons.Length - 1; i++)
       {
-        for(int j = 0; j < this.neurons[i].Length; j++)
+        for(int j = 0; j < this.neurons[i].Length; j++)//Parallel.For(0, this.neurons[i].Length, j =>
         {
+          //Parallel.For(0, this.neurons[i][j].delta.Length, k => //for(int k = 0; k < this.neurons[i][j].delta.Length; k++)
           for(int k = 0; k < this.neurons[i][j].delta.Length; k++)
           {
             decimal delta = learningRate * this.neurons[i + 1][k].error * this.neurons[i][j].value;
             this.neurons[i][j].delta[k] += delta;
-          };
-        }
+          }
+        };
       }
     }
 
@@ -271,15 +275,16 @@ namespace Assignment3
     {
       for (int i = 0; i < this.neurons.Length - 1; i++)
       {
-        for(int j = 0; j < this.neurons[i].Length; j++)
+        for(int j = 0; j < this.neurons[i].Length; j++)//Parallel.For(0, this.neurons[i].Length, j =>
         {
+          //Parallel.For(0, this.neurons[i][j].delta.Length, k => 
           for(int k = 0; k < this.neurons[i][j].delta.Length; k++)
           {
-            decimal weightDelta = (this.neurons[i][j].delta[k] / batchSize) + (momentum * this.neurons[i][j].prevDeltaWeight);
+            decimal weightDelta = (this.neurons[i][j].delta[k] / batchSize) + (momentum * this.neurons[i][j].prevDeltaWeight[k]);
             this.neurons[i][j].weights[k] += weightDelta;
-            this.neurons[i][j].prevDeltaWeight = weightDelta;
+            this.neurons[i][j].prevDeltaWeight[k] = weightDelta;
             this.neurons[i][j].delta[k] = 0;
-          };
+          }
         };
       }
     }

@@ -26,12 +26,13 @@ namespace Assignment3
     public static int[] testLabels;
     public static int numInputNodes = 50;
     public static int numOutputNodes = 10;
-    public static int batchSize = 100;
+    public static int batchSize = 30;
     public static int numHiddenNodes = 10;
     public static decimal learningRates = 0.1M;
-    public static decimal momentums = 0.5M; // 0.8M;
+    public static decimal momentums = 0.3M;
     public static int numLayers = 3;
-    public static int epochs = 100;
+    public static int epochs = 10;
+    public static bool isRelu = false;
 
     static void Main(string[] args)
     {
@@ -81,7 +82,7 @@ namespace Assignment3
         data = readNormalizedDataFromFile("scaledTestImages.txt", testLabelFile, 10000);
         testImages = data.Item1;
         testLabels = data.Item2;
-        runBackpropogationAlgoUsingBatching(numLayers, epochs, numHiddenNodes, learningRates, momentums, batchSize, false, 10);
+        runBackpropogationAlgoUsingBatching(numLayers, epochs, numHiddenNodes, learningRates, momentums, batchSize, isRelu, 10);
 
         //sanityCheckBackPropogationAlgo();
         //eightInputOutputTest();
@@ -277,7 +278,7 @@ namespace Assignment3
       int epoch = 1;
       using (StreamWriter sw = new StreamWriter(filePath + "Release_InputNormaliztionSummary_lr_" + learningRate + "_m_" + momentum + "_" + batchSize + ".csv"))
       {
-        //sw.WriteLine("Batch Size, Hidden Nodes Count, Learning Rate, Momentum, Epoch, Test Square Error, Test Accuracy, Train Square Error, Train Accuracy");
+        //sw.WriteLine("Batch Size, Hidden Nodes Count, Learning Rate, Momentum, Epoch, Test Square Error, Test Error Rate, Train Square Error, Train Square Error Rate");
         sw.WriteLine("Batch Size, Hidden Nodes Count, Learning Rate, Momentum, Epoch, Test Square Error, Test Error Rate");
         Stopwatch stopWatch = new Stopwatch();
         for (; epoch <= epochs; epoch++)
@@ -310,10 +311,11 @@ namespace Assignment3
               }
               //network.printNetwork(filePath + "endNetwork.txt");
               Console.WriteLine(epochStr + " using testing data");
-              Tuple<decimal, double> statsHE = predictOutputAndComputeErrors(network.neurons, testImages, testLabels);
+              Tuple<decimal, double> stats = predictOutputAndComputeErrors(network.neurons, testImages, testLabels);
               //Console.WriteLine(epochStr + " using training data");
-              //Tuple<decimal, double> statsTrainHE = (predictOutputAndComputeErrors(network.neurons, trainImages, trainLabels));
-              sw.WriteLine(String.Format("{0},{1},{2},{3},{6},{4},{5}", batchSize, numHiddenNodes, learningRate, momentum, epoch, statsHE.Item1, statsHE.Item2));
+              //Tuple<decimal, double> statsTrain = (predictOutputAndComputeErrors(network.neurons, trainImages, trainLabels));
+              sw.WriteLine(String.Format("{0},{1},{2},{3},{4},{5},{6}", batchSize, numHiddenNodes, learningRate, momentum, epoch, stats.Item1, stats.Item2));
+              //sw.WriteLine(String.Format("{0},{1},{2},{3},{4},{5},{6},{7},{8}", batchSize, numHiddenNodes, learningRate, momentum, epoch, stats.Item1, stats.Item2, statsTrain.Item1, statsTrain.Item2));
             }
           }
           stopWatch.Stop();

@@ -12,6 +12,6 @@ namespace Assignment3
     public decimal[] weights;
     public decimal error;
     public decimal[] delta; //stores delta of weights from each iteration.
-    public decimal prevDeltaWeight = 0;
+    public decimal[] prevDeltaWeight;
   }
 }
