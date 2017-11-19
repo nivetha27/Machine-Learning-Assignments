@@ -6,12 +6,13 @@ using System.Linq;
 using System.Diagnostics;
 using System.Threading.Tasks;
 using System.Threading;
+using System.Globalization;
 
 namespace Assignment3
 {
   class Program
   {
-    public static string filePath = @"C:\Users\nivet_000\Desktop\CSE546P\Assignment 3\MNIST_PCA\"; //@"C:\Users\nsathya\Desktop\CSE546P-ML\Machine-Learning-Assignments\Assignment 3\MNIST_PCA\";
+    public static string filePath = @"C:\Users\nsathya\Downloads\New folder\Machine-Learning-Assignments-master\Assignment3\Assignment3\Data\"; //@"C:\Users\nsathya\Desktop\CSE546P-ML\Machine-Learning-Assignments\Assignment 3\MNIST_PCA\";
     public static string trainingLabelFile = "train-labels.idx1-ubyte";
     public static string trainingImagesFile = "train-images-pca.idx2-double";
     public static string testLabelFile = "t10k-labels.idx1-ubyte";
@@ -25,6 +26,12 @@ namespace Assignment3
     public static int[] testLabels;
     public static int numInputNodes = 50;
     public static int numOutputNodes = 10;
+    public static int batchSize = 100;
+    public static int numHiddenNodes = 10;
+    public static decimal learningRates = 0.1M;
+    public static decimal momentums = 0.5M; // 0.8M;
+    public static int numLayers = 3;
+    public static int epochs = 100;
 
     static void Main(string[] args)
     {
@@ -33,12 +40,6 @@ namespace Assignment3
         var options = new Options();
         bool isValid = CommandLine.Parser.Default.ParseArgumentsStrict(args, options);
         Console.WriteLine("\nBegin\n");
-        int batchSize = 100;
-        int numHiddenNodes = 10;
-        decimal learningRates = 0.1M;
-        decimal momentums = 0; // 0.8M;
-        int numLayers = 3;
-        int epochs = 100;
         if (isValid) {
           if (options.help) {
             Console.WriteLine(CommandLine.Text.HelpText.AutoBuild(options));
@@ -71,11 +72,13 @@ namespace Assignment3
         }
 
         //var data = readImagesAndLabels(trainingImagesFile, trainingLabelFile);
-        var data = readAndNormalizeInputData(trainingImagesFile, trainingLabelFile);
+        //var data = readAndNormalizeInputData(trainingImagesFile, trainingLabelFile);
+        var data = readNormalizedDataFromFile("scaledTrainImages.txt", trainingLabelFile, 60000);
         trainImages = data.Item1;
         trainLabels = data.Item2;
         //data = readImagesAndLabels(testImagesFile, testLabelFile);
-        data = readAndNormalizeInputData(testImagesFile, testLabelFile);
+        //data = readAndNormalizeInputData(testImagesFile, testLabelFile);
+        data = readNormalizedDataFromFile("scaledTestImages.txt", testLabelFile, 10000);
         testImages = data.Item1;
         testLabels = data.Item2;
         runBackpropogationAlgoUsingBatching(numLayers, epochs, numHiddenNodes, learningRates, momentums, batchSize, false, 10);
@@ -134,6 +137,52 @@ namespace Assignment3
       ifsLabels.Close();
       brLabels.Close();
 
+      return new Tuple<decimal[][], int[]>(pcaImages, targetLabels);
+    }
+
+    public static Tuple<decimal[][], int[]> readNormalizedDataFromFile(string imagesFileName, string labelFileName, int numImages) {
+      imagesFileName = filePath + imagesFileName;  
+      labelFileName = filePath + labelFileName;
+      decimal[][] pcaImages = new decimal[numImages][];
+      int[] targetLabels = null;
+      
+      int i = 0;
+      using (StreamReader sr = new StreamReader(imagesFileName)) {
+        string s = sr.ReadLine();
+        while(!String.IsNullOrEmpty(s)) {
+          try {
+            string[] pcaVal = s.Split(',');
+            pcaImages[i] = new decimal[50];
+            for (int j = 0; j < 50; j++)
+            {
+              pcaImages[i][j] = (decimal)double.Parse(pcaVal[j], CultureInfo.InvariantCulture);
+            }
+            i++;
+            s = sr.ReadLine();        
+          }
+          catch(Exception e) {
+            Console.WriteLine(s);
+          }
+        }
+      }
+      
+      
+      FileStream ifsLabels = new FileStream(labelFileName, FileMode.Open);
+      BinaryReader brLabels = new BinaryReader(ifsLabels); 
+      while (brLabels.BaseStream.Position != brLabels.BaseStream.Length)
+      {
+        int magicLabels = Utility.convertBytesToInt(brLabels.ReadBytes(sizeof(Int32)));
+        int numLabels = Utility.convertBytesToInt(brLabels.ReadBytes(sizeof(Int32)));
+        targetLabels = new int[numLabels];
+        for (i = 0; i < numLabels; i++)
+        {
+          byte lbl = brLabels.ReadByte();
+          targetLabels[i] = Convert.ToInt32(lbl.ToString());
+        }
+      }
+      
+      ifsLabels.Close();
+      brLabels.Close();
       return new Tuple<decimal[][], int[]>(pcaImages, targetLabels);
     }
 
@@ -229,7 +278,7 @@ namespace Assignment3
       using (StreamWriter sw = new StreamWriter(filePath + "Release_InputNormaliztionSummary_lr_" + learningRate + "_m_" + momentum + "_" + batchSize + ".csv"))
       {
         //sw.WriteLine("Batch Size, Hidden Nodes Count, Learning Rate, Momentum, Epoch, Test Square Error, Test Accuracy, Train Square Error, Train Accuracy");
-        sw.WriteLine("Batch Size, Hidden Nodes Count, Learning Rate, Momentum, Epoch, Test Square Error, Test Accuracy");
+        sw.WriteLine("Batch Size, Hidden Nodes Count, Learning Rate, Momentum, Epoch, Test Square Error, Test Error Rate");
         Stopwatch stopWatch = new Stopwatch();
         for (; epoch <= epochs; epoch++)
         {
@@ -253,21 +302,20 @@ namespace Assignment3
             {
               network.updateEachNetworkWeight(batchSize, momentum);
             }
-            if (i == (trainImages.Length / 2 - 1))
+            if (i == (trainImages.Length / 2 - 1) || i == (trainImages.Length - 1))
             {
+              var epochStr = "At half epoch #" + epoch;
+              if (i == (trainImages.Length - 1)) {
+                epochStr = "At full epoch #" + epoch;
+              }
               //network.printNetwork(filePath + "endNetwork.txt");
-              Console.WriteLine("At half epoch #" + epoch + " using testing data");
+              Console.WriteLine(epochStr + " using testing data");
               Tuple<decimal, double> statsHE = predictOutputAndComputeErrors(network.neurons, testImages, testLabels);
-              //Console.WriteLine("At half epoch #" + epoch + " using training data");
+              //Console.WriteLine(epochStr + " using training data");
               //Tuple<decimal, double> statsTrainHE = (predictOutputAndComputeErrors(network.neurons, trainImages, trainLabels));
-              sw.WriteLine(String.Format("{0},{1},{2},{3},{6},{4},{5}", batchSize, numHiddenNodes, learningRate, momentum, statsHE.Item1, statsHE.Item2, epoch));
+              sw.WriteLine(String.Format("{0},{1},{2},{3},{6},{4},{5}", batchSize, numHiddenNodes, learningRate, momentum, epoch, statsHE.Item1, statsHE.Item2));
             }
           }
-          Console.WriteLine("At epoch #" + epoch + " using testing data");
-          Tuple<decimal, double> stats = predictOutputAndComputeErrors(network.neurons, testImages, testLabels);
-          //Console.WriteLine("At epoch #" + epoch + " using training data");
-          //Tuple<decimal, double> statsTrain = (predictOutputAndComputeErrors(network.neurons, trainImages, trainLabels));
-          sw.WriteLine(String.Format("{0},{1},{2},{3},{6},{4},{5}", batchSize, numHiddenNodes, learningRate, momentum, stats.Item1, stats.Item2, epoch));
           stopWatch.Stop();
           Console.WriteLine(stopWatch.Elapsed.ToString());
           stopWatch.Reset();
@@ -293,9 +341,9 @@ namespace Assignment3
         ++i;
       }
       mean = mean / (2 * inputDataSet.Length);
-      double accuracy = positive * 100.0/ inputDataSet.Length;
-      Console.WriteLine("Mean Square Error : " + mean + ", Accuracy : " + accuracy);
-      return new Tuple<decimal, double>(mean, accuracy);
+      double errorRate = 100 - positive * 100.0/ inputDataSet.Length;
+      Console.WriteLine("Mean Square Error : " + mean + ", Error Rate : " + errorRate);
+      return new Tuple<decimal, double>(mean, errorRate);
     }
 
     public static void sanityCheckBackPropogationAlgo()

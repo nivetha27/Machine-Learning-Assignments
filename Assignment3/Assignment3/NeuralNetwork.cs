@@ -168,14 +168,14 @@ namespace Assignment3
         {
           numNeuronsInCurLayer -= 1; // exculding the bias here as the value is already set to 1 for it.
         }
-        for(int j =0; j < numNeuronsInCurLayer; j++) {
+        Parallel.For(0, numNeuronsInCurLayer, j => {
           this.neurons[i][j].value = 0;
           for (int k = 0; k < this.neurons[i - 1].Length; k++)
           {
             this.neurons[i][j].value += this.neurons[i - 1][k].value * this.neurons[i - 1][k].weights[j];
           }
           this.neurons[i][j].value = Math.Max(0, this.neurons[i][j].value);
-        }
+        });
       }
     }
 
@@ -233,7 +233,7 @@ namespace Assignment3
       if (predictedOuput <= 0)
         return 0;
 
-      decimal error = -1 * (actualOuput - predictedOuput);
+      decimal error = (actualOuput - predictedOuput);
       return error;
     }
     public void calcReluErrorForPredictedValForOutputAndHiddenUnits(decimal[] expectedOutputArr)
@@ -256,14 +256,14 @@ namespace Assignment3
     {
       for (int i = 0; i < this.neurons.Length - 1; i++)
       {
-        Parallel.For(0, this.neurons[i].Length, j =>
+        for(int j = 0; j < this.neurons[i].Length; j++)
         {
-          Parallel.For(0, this.neurons[i][j].delta.Length, k =>
+          for(int k = 0; k < this.neurons[i][j].delta.Length; k++)
           {
             decimal delta = learningRate * this.neurons[i + 1][k].error * this.neurons[i][j].value;
             this.neurons[i][j].delta[k] += delta;
-          });
-        });
+          };
+        }
       }
     }
 
@@ -271,16 +271,16 @@ namespace Assignment3
     {
       for (int i = 0; i < this.neurons.Length - 1; i++)
       {
-        Parallel.For(0, this.neurons[i].Length, j =>
+        for(int j = 0; j < this.neurons[i].Length; j++)
         {
-          Parallel.For(0, this.neurons[i][j].weights.Length, k =>
+          for(int k = 0; k < this.neurons[i][j].delta.Length; k++)
           {
             decimal weightDelta = (this.neurons[i][j].delta[k] / batchSize) + (momentum * this.neurons[i][j].prevDeltaWeight);
             this.neurons[i][j].weights[k] += weightDelta;
             this.neurons[i][j].prevDeltaWeight = weightDelta;
             this.neurons[i][j].delta[k] = 0;
-          });
-        });
+          };
+        };
       }
     }
 
