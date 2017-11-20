@@ -4,8 +4,7 @@ import numpy as np
 import random
 import math
 
-def createFeedForwardNetwork(numInputUnits, numHiddenUnits, numOutputUnits):
-    network = []
+def createFeedForwardNetwork(numInputUnits, numHiddenUnits, numOutputUnits):    
     # create hidden units layer with numInputUnits + bias randomly generated weights
     hiddenUnitLayer = []
     for idxHiddenUnit in range(numHiddenUnits):
@@ -22,9 +21,10 @@ def createFeedForwardNetwork(numInputUnits, numHiddenUnits, numOutputUnits):
             weightsFromOutputToHidden.append(random.uniform(-0.5, 0.5))
         outputUnitLayer.append(weightsFromOutputToHidden)
 
-    network.append(hiddenUnitLayer)    
-    network.append(outputUnitLayer) 
-    return network
+    weights = []    
+    weights.append(hiddenUnitLayer)    
+    weights.append(outputUnitLayer) 
+    return weights
 
 def feedForwardAndBackPropogate(network, trainImagesArr, trainLabelsArr, testImagesArr, testLabelsArr, epochs, momentum, learningRate, batchSize, isRelu = False):
     for epoch in range(epochs):        
@@ -51,8 +51,7 @@ def feedForwardAndBackPropogate(network, trainImagesArr, trainLabelsArr, testIma
                         hiddenLayerErrorDerivative.append(1)
                     else :
                         hiddenLayerErrorDerivative.append(0)
-                errorSignalsHiddenLayer = np.multiply(hiddenLayerErrorDerivative, np.dot(errorSignalsOutputLayer, network[1])[:-1])
-                if           
+                errorSignalsHiddenLayer = np.multiply(hiddenLayerErrorDerivative, np.dot(errorSignalsOutputLayer, network[1])[:-1])           
                 hiddenLayerDeltaWeights[imgIdx % batchSize] = learningRate * np.append(image, 1) * (np.array(errorSignalsHiddenLayer)[:, np.newaxis])
                 outputLayerDeltaWeights[imgIdx % batchSize] = learningRate * np.append(hiddenLayerUnits, 1) * (np.array(errorSignalsOutputLayer)[:, np.newaxis])
             else :    
