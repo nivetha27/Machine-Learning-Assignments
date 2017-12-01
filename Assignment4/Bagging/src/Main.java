@@ -12,7 +12,7 @@ public class Main {
 	public static Random rand = new Random();
 	public static String filePath = "C:\\Users\\nsathya\\Desktop\\Assignment4\\";
 	public static int maxClasses = 2;
-	public static int iterations = 30;
+	public static int bootstrap_samples = 30;
 	public static int[] sampleSizes = new int[] {1,3,5,10,20};
 	public static int[] depths = new int[] {1,2,3};
 	public static void main(String[] args) throws Exception {
@@ -60,12 +60,12 @@ public class Main {
 		for(int depth: depths) {
 			int[][] results = new int[n_tests][];
 			for(int i = 0; i < n_tests; i++) {
-				results[i] = new int[iterations];
+				results[i] = new int[bootstrap_samples];
 			}
 			double sumAccuracy = 0;
+			Instances sampledTrain = new Instances(trainInstances);
 			for(int j = 0; j < numIter; j++) {
 				int positive = 0;
-				Instances sampledTrain = trainInstances.resample(rand);
 				REPTree tree = buildTree(sampledTrain, depth);
 				for(int i = 0; i < n_tests; i++) {				
 					Instance test =  testInstances.instance(i);
@@ -74,10 +74,12 @@ public class Main {
 					if (results[i][j] == actual)
 						positive += 1;
 				}
-				sumAccuracy += positive * 100.0/n_tests;
+				sampledTrain = trainInstances.resample(rand);
+				if (j == 0) 
+					sumAccuracy += positive * 100.0/n_tests;
 			}
 			double[] metrics = biasVar(testInstances, results, n_tests, numIter, maxClasses);
-			System.out.println(depth + "," + metrics[1] + "," + metrics[5] + "," +  metrics[6]);
+			System.out.println(depth + "," + metrics[1] + "," + metrics[5] + "," +  sumAccuracy);
 			//System.out.println(">>Depth=" + depth + ",Bias=" + metrics[1] + ",Variance=" + metrics[5] + ",Accuracy=" + metrics[6] + ",AvgAccuracy=" + sumAccuracy/numIter + ",Loss=" + metrics[0]);
 		}
 	}
@@ -87,22 +89,30 @@ public class Main {
 			for(int depth: depths) {
 				int[][] results = new int[n_tests][];
 				for(int i = 0; i < n_tests; i++) {
-					results[i] = new int[iterations];
+					results[i] = new int[bootstrap_samples];
 				}
 				double sumAccuracy = 0;
-				for(int j = 0; j < iterations; j++) {
+				Instances[] sampled_train_instances = new Instances[sampleSize];
+				for(int j = 0; j < bootstrap_samples; j++) {
 					REPTree[] treeSets = new REPTree[sampleSize];
 					for(int i = 0; i < sampleSize; i++) {
 						//prinTopN(trainInstances, 10);
-						Instances sampledTrain = trainInstances.resample(rand);
+						Instances sampledTrain;
+						if (j == 0) {
+							sampled_train_instances[i] = trainInstances.resample(rand);
+							sampledTrain = sampled_train_instances[i];
+						} else {
+							sampledTrain = sampled_train_instances[i].resample(rand);
+						}
 						//prinTopN(sampledTrain, 10);
 						treeSets[i] = buildTree(sampledTrain, depth);
 					}
 					results = bagging(treeSets, testInstances, results, j, maxClasses);
-					sumAccuracy += accuracy(testInstances, n_tests, results, j);
+					if (j == 0)
+						sumAccuracy += accuracy(testInstances, n_tests, results, j);
 				}
-				double[] metrics = biasVar(testInstances, results, n_tests, iterations, maxClasses);
-				System.out.println(depth + "," + metrics[1] + "," + metrics[5] + "," +  metrics[6]);
+				double[] metrics = biasVar(testInstances, results, n_tests, bootstrap_samples, maxClasses);
+				System.out.println(depth + "," + metrics[1] + "," + metrics[5] + "," +  sumAccuracy);
 				//System.out.println("#trainSets=" + sampleSize + ",Depth=" + depth + ",Bias=" + metrics[1] + ",Variance=" + metrics[5] + ",Accuracy=" + metrics[6] + ",AvgAccuracy=" + sumAccuracy/bootstrap_samples + ",Loss=" + metrics[0]);
 			}
 		}
