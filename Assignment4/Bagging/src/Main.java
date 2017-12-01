@@ -1,9 +1,9 @@
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.util.Random;
-import weka.filters.Filter;
+
+import weka.classifiers.Evaluation;
 //import weka.classifiers.trees.J48;
-import weka.filters.supervised.instance.Resample;
 import weka.classifiers.trees.REPTree;
 import weka.core.Instance;
 import weka.core.Instances;
@@ -11,27 +11,17 @@ import weka.core.Instances;
 public class Main {
 	public static Random rand = new Random();
 	public static String filePath = "C:\\Users\\nsathya\\Desktop\\Assignment4\\";
+	public static int maxClasses = 2;
+	public static int iterations = 30;
+	public static int[] sampleSizes = new int[] {1,3,5,10,20};
+	public static int[] depths = new int[] {1,2,3};
 	public static void main(String[] args) throws Exception {
-		Instances trainInstances = loadFromFile(filePath + "train.arff");
-		Instances testInstances = loadFromFile(filePath + "test.arff");
-		boolean shouldSample = true;
-		int[] sampleSizes = new int[] {1,3,5,10,20};
-		int[] depths = new int[] {1,2,3};
-		for (int sampleSize: sampleSizes) {
-			for(int depth: depths) {
-				REPTree[] treeSet = new REPTree[sampleSize];
-				for(int i = 0; i < sampleSize; i++) {
-					int n = rand.nextInt(sampleSize);
-					//prinTopN(trainInstances, 10);
-					Instances sampledTrain = sampleData(trainInstances, n, shouldSample);
-					//prinTopN(sampledTrain, 10);
-					treeSet[i] = buildTree(sampledTrain, depth);
-				}
-				int[][] predicted = bagging(treeSet, testInstances);
-				double[] metrics = biasVar(testInstances, predicted, testInstances.numInstances(), sampleSize);
-				System.out.println("#trainSets=" + sampleSize + ",Depth=" + depth + ",Bias=" + metrics[1] + ",Variance=" + metrics[5] + ",Accuracy=" + metrics[6] + ",Loss=" + metrics[0]);
-			}
-		}
+		Instances trainInstances = loadFromFile(filePath + "diabetes_train.arff");
+		Instances testInstances = loadFromFile(filePath + "diabetes_test.arff");
+		int n_tests = testInstances.numInstances();
+		
+		//runID3NoBagging(trainInstances, testInstances, n_tests);
+		runBagging(trainInstances, testInstances, n_tests);
 	}
 	
 	public static int classify(REPTree tree, Instance test) throws Exception {
@@ -56,18 +46,6 @@ public class Main {
 		return data;
    }
 	
-	public static Instances sampleData(Instances dataset, int seed, boolean shouldSample) throws Exception {
-		if (!shouldSample)
-			return dataset;
-		Resample filter = new Resample();
-		filter.setBiasToUniformClass(1);
-		filter.setRandomSeed(seed);
-		filter.setSampleSizePercent(100.0);
-		filter.setInputFormat(dataset);
-		Instances sampledDataset = Filter.useFilter(dataset, filter);
-		return sampledDataset;
-	}
-	
 	public static REPTree buildTree(Instances train, int depth) throws Exception {
 		REPTree tree = new REPTree();
 		tree.setNoPruning(true);
@@ -76,27 +54,83 @@ public class Main {
 		return tree;
 	}
 	
-	public static int[][] bagging(REPTree[] treeSet, Instances testInstances) throws Exception {
+	public static void runID3NoBagging(Instances trainInstances, Instances testInstances, int n_tests) throws Exception {
+		int numIter = 10;
+		System.out.println("depth, bias, variance, accuracy");
+		for(int depth: depths) {
+			int[][] results = new int[n_tests][];
+			for(int i = 0; i < n_tests; i++) {
+				results[i] = new int[iterations];
+			}
+			double sumAccuracy = 0;
+			for(int j = 0; j < numIter; j++) {
+				int positive = 0;
+				Instances sampledTrain = trainInstances.resample(rand);
+				REPTree tree = buildTree(sampledTrain, depth);
+				for(int i = 0; i < n_tests; i++) {				
+					Instance test =  testInstances.instance(i);
+					results[i][j] = classify(tree, test);
+					int actual = Integer.parseInt(test.classAttribute().value((int)test.classValue()));
+					if (results[i][j] == actual)
+						positive += 1;
+				}
+				sumAccuracy += positive * 100.0/n_tests;
+			}
+			double[] metrics = biasVar(testInstances, results, n_tests, numIter, maxClasses);
+			System.out.println(depth + "," + metrics[1] + "," + metrics[5] + "," +  metrics[6]);
+			//System.out.println(">>Depth=" + depth + ",Bias=" + metrics[1] + ",Variance=" + metrics[5] + ",Accuracy=" + metrics[6] + ",AvgAccuracy=" + sumAccuracy/numIter + ",Loss=" + metrics[0]);
+		}
+	}
+	
+	public static void runBagging(Instances trainInstances, Instances testInstances, int n_tests) throws Exception {
+		for (int sampleSize: sampleSizes) {
+			for(int depth: depths) {
+				int[][] results = new int[n_tests][];
+				for(int i = 0; i < n_tests; i++) {
+					results[i] = new int[iterations];
+				}
+				double sumAccuracy = 0;
+				for(int j = 0; j < iterations; j++) {
+					REPTree[] treeSets = new REPTree[sampleSize];
+					for(int i = 0; i < sampleSize; i++) {
+						//prinTopN(trainInstances, 10);
+						Instances sampledTrain = trainInstances.resample(rand);
+						//prinTopN(sampledTrain, 10);
+						treeSets[i] = buildTree(sampledTrain, depth);
+					}
+					results = bagging(treeSets, testInstances, results, j, maxClasses);
+					sumAccuracy += accuracy(testInstances, n_tests, results, j);
+				}
+				double[] metrics = biasVar(testInstances, results, n_tests, iterations, maxClasses);
+				System.out.println(depth + "," + metrics[1] + "," + metrics[5] + "," +  metrics[6]);
+				//System.out.println("#trainSets=" + sampleSize + ",Depth=" + depth + ",Bias=" + metrics[1] + ",Variance=" + metrics[5] + ",Accuracy=" + metrics[6] + ",AvgAccuracy=" + sumAccuracy/bootstrap_samples + ",Loss=" + metrics[0]);
+			}
+		}
+	}
+	
+	public static int[][] bagging(REPTree[] treeSet, Instances testInstances, int[][] results, int idx, int maxClasses) throws Exception {
 		int len = testInstances.numInstances();
-		int[][] predictedVals = new int[len][];
 		for(int i = 0; i < len; i++) {
 			Instance test = testInstances.instance(i);
 			int numTrees = treeSet.length;
-			predictedVals[i] = new int[numTrees];
-			int j =0;
+			int[] predsx = new int[numTrees];
+			int j = 0;
 			for(REPTree tree: treeSet) {
 				int predicted = classify(tree, test);
-				predictedVals[i][j] = predicted;
+				predsx[j] = predicted;
 				++j;
 			}
+			int classx = Integer.parseInt(test.classAttribute().value((int)test.classValue()));
+			double[] metrics = biasvarx(classx, predsx, treeSet.length, maxClasses);
+			double majclass = metrics[3];
+			results[i][idx] = (int)majclass;
 		}
-		return predictedVals;
+		return results;
 	}
 	
-	// //0 - loss, 1 - bias, 2 - varp, 3 - varn, 4 - varc, 5 - var, 6 - accuracy
-	public static double[] biasVar(Instances testInstances, int[][] predicted, int ntestexs, int ntrsets) {
+	// 0 - loss, 1 - bias, 2 - varp, 3 - varn, 4 - varc, 5 - var, 6 - accuracy
+	public static double[] biasVar(Instances testInstances, int[][] predicted, int ntestexs, int ntrsets, int maxClasses) {
 		double[] metrics = new double[] {0.0,0.0,0.0,0.0,0.0, 0.0,0.0}; //0 - loss, 1 - bias, 2 - varp, 3 - varn, 4 - varc, 5 - var, 6-accuracy
-		int maxClasses = 2;
 		for (int e = 0; e < ntestexs; e++) {
 			double lossx = 0, biasx = 0, varx = 0;
 			Instance data = testInstances.instance(e);
@@ -127,9 +161,9 @@ public class Main {
 	   	return metrics;
 	}
 	
-	// 0 - lossx, 1 - biasx, 2 - varx
+	// 0 - lossx, 1 - biasx, 2 - varx, 3 - predicted val
 	public static double[] 	biasvarx(int classx, int[] predsx, int ntrsets, int maxClasses) {
-		double[] metrics = new double[] {0.0,0.0,0.0}; // 0 - lossx, 1 - biasx, 2 - varx
+		double[] metrics = new double[] {0.0,0.0,0.0,0.0}; // 0 - lossx, 1 - biasx, 2 - varx
 		int c, t, majclass = -1, nmax = 0;
 		int[] nclass = new int[maxClasses];
 		for (c = 0; c < maxClasses; c++) {
@@ -150,6 +184,18 @@ public class Main {
 		 metrics[1] = 1.0;
 		}
 		metrics[2] = 1.0 - nclass[majclass] * 1.0/ ntrsets;
+		metrics[3] = majclass;
 		return metrics;
 	}
-}
+	
+	public static double accuracy(Instances dataset, int size, int[][] results, int idx) {
+		int positive = 0;
+		for(int i = 0; i < size; i++) {
+			Instance data = dataset.instance(i);
+			int classx = Integer.parseInt(data.classAttribute().value((int)data.classValue()));
+			if (classx == results[i][idx]) {
+				++positive;
+			}
+		}
+		return positive * 100.0/size;
+	}
